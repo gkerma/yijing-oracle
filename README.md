@@ -1,286 +1,133 @@
-# 易經 Yi Jing Oracle
+# 易經 Yi Jing Oracle - Streamlit App
 
-**Oracle du Yi Jing avec Grilles "La Livrée d'Hermès" et Fréquences Sacrées**
+Application web de consultation du Yi Jing avec visualisation sur grilles "La Livrée d'Hermès" et fréquences sacrées.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/cybermind-fr/yijing-oracle)
-[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
+## 🌐 Démo en ligne
 
----
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yijing-oracle.streamlit.app)
 
-## 📖 Description
+## 🚀 Déploiement sur Streamlit Cloud
 
-Ce programme permet de consulter l'oracle du **Yi Jing** (易經, I Ching, Livre des Mutations) avec une visualisation unique basée sur les grilles de **"La Livrée d'Hermès"** créées par **Anibal Edelbert Amiot**.
+### Méthode 1 : Depuis GitHub
 
-### Fonctionnalités
+1. **Fork ou créez un repo GitHub** avec ces fichiers :
+   ```
+   yijing-oracle/
+   ├── app.py
+   ├── requirements.txt
+   ├── .streamlit/
+   │   └── config.toml
+   ├── images/
+   │   ├── lldh-YY-YANG-1.png
+   │   ├── lldh-YY-YANG-2.png
+   │   └── ... (24 fichiers PNG)
+   └── README.md
+   ```
 
-- 🎴 **Tirage automatique** : Simulation de la méthode traditionnelle des 3 pièces
-- 🎮 **Grilles visuelles** : Superposition des 6 couches correspondant aux traits
-- 📄 **Rapport PDF** : Document complet avec hexagramme, fréquences et grilles
-- 🎵 **Sons sacrés** : Fichiers audio basés sur le Solfège ancien (432 Hz)
-- 🔄 **Mutations** : Calcul et visualisation de l'hexagramme de mutation
+2. **Allez sur** [share.streamlit.io](https://share.streamlit.io)
 
----
+3. **Connectez votre compte GitHub**
 
-## 🚀 Installation
+4. **Déployez** :
+   - Repository : `votre-username/yijing-oracle`
+   - Branch : `main`
+   - Main file path : `app.py`
 
-### Prérequis
+5. **Cliquez "Deploy!"**
 
-- Python 3.8 ou supérieur
-- pip (gestionnaire de paquets Python)
-
-### Installation des dépendances
-
-```bash
-pip install pillow reportlab numpy scipy
-```
-
-### Structure du projet
-
-```
-yijing-oracle/
-├── yijing_oracle.py      # Programme principal
-├── images/               # Grilles La Livrée d'Hermès (24 PNG)
-│   ├── lldh-YY-YANG-1.png
-│   ├── lldh-YY-YANG-2.png
-│   ├── ...
-│   ├── lldh-YY-YING-MUT-6.png
-├── output/               # Fichiers générés
-├── README.md             # Cette documentation
-└── LICENSE               # Licence MIT
-```
-
----
-
-## 📋 Utilisation
-
-### Tirage simple
+### Méthode 2 : Exécution locale
 
 ```bash
-python yijing_oracle.py
+# Cloner le projet
+git clone https://github.com/votre-username/yijing-oracle.git
+cd yijing-oracle
+
+# Créer environnement virtuel
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# ou: venv\Scripts\activate  # Windows
+
+# Installer les dépendances
+pip install -r requirements.txt
+
+# Lancer l'application
+streamlit run app.py
 ```
 
-### Tirage avec question
+L'application s'ouvre sur `http://localhost:8501`
 
-```bash
-python yijing_oracle.py -q "Quelle direction prendre ?"
+## 📁 Structure des fichiers
+
+| Fichier | Description |
+|---------|-------------|
+| `app.py` | Application Streamlit principale |
+| `requirements.txt` | Dépendances Python |
+| `.streamlit/config.toml` | Configuration thème et serveur |
+| `images/` | 24 grilles PNG La Livrée d'Hermès |
+
+## ✨ Fonctionnalités
+
+- 🎲 **Tirage aléatoire** : Simulation des 3 pièces
+- ✏️ **Saisie manuelle** : Entrer ses propres traits
+- 🎮 **Grilles visuelles** : Superposition colorée des 6 couches
+- 🔄 **Mutations** : Calcul et affichage de l'hexagramme muté
+- 🎵 **Audio** : Génération de séquences sonores (Solfège 432 Hz)
+- 📄 **Export PDF** : Rapport complet téléchargeable
+- 📱 **Responsive** : Fonctionne sur mobile et desktop
+
+## 🎨 Les 24 Grilles
+
+Les fichiers images doivent être nommés :
+- `lldh-YY-YANG-1.png` à `lldh-YY-YANG-6.png` (Yang stable)
+- `lldh-YY-YING-1.png` à `lldh-YY-YING-6.png` (Yin stable)
+- `lldh-YY-YANG-MUT-1.png` à `lldh-YY-YANG-MUT-6.png` (Yang mutant)
+- `lldh-YY-YING-MUT-1.png` à `lldh-YY-YING-MUT-6.png` (Yin mutant)
+
+## 🎵 Fréquences Sacrées
+
+| Trigramme | Fréquence | Bienfait |
+|-----------|-----------|----------|
+| ☰ Ciel | 852 Hz | Éveil spirituel |
+| ☷ Terre | 396 Hz | Libération |
+| ☳ Tonnerre | 417 Hz | Transformation |
+| ☵ Eau | 528 Hz | Réparation ADN |
+| ☶ Montagne | 639 Hz | Connexion |
+| ☴ Vent | 741 Hz | Expression |
+| ☲ Feu | 963 Hz | Transcendance |
+| ☱ Lac | 432 Hz | Harmonie universelle |
+
+## 📝 Configuration Streamlit Cloud
+
+Pour personnaliser le thème, modifiez `.streamlit/config.toml` :
+
+```toml
+[theme]
+primaryColor = "#8B4513"      # Marron (boutons)
+backgroundColor = "#FFFAF0"   # Crème (fond)
+secondaryBackgroundColor = "#FFF8DC"
+textColor = "#5D4037"         # Marron foncé
 ```
 
-### Définir les traits manuellement
+## 🔒 Secrets (optionnel)
 
-```bash
-python yijing_oracle.py -t 7 6 7 6 6 7
+Si vous avez besoin de clés API, créez `.streamlit/secrets.toml` :
+
+```toml
+[api]
+key = "votre-clé-secrète"
 ```
 
-Les valeurs possibles sont :
-- `6` : Yin mutant (vieux Yin)
-- `7` : Yang stable (jeune Yang)
-- `8` : Yin stable (jeune Yin)
-- `9` : Yang mutant (vieux Yang)
+⚠️ Ne commitez jamais ce fichier ! Utilisez les secrets Streamlit Cloud.
 
-### Générer tous les fichiers
+## 📜 Licence
 
-```bash
-python yijing_oracle.py --all -q "Ma question"
-```
-
-Cette commande génère :
-- Grille PNG de l'hexagramme principal
-- Grille PNG de la mutation (si applicable)
-- Rapport PDF complet
-- Séquence audio du tirage
-- Fichiers audio des fréquences des trigrammes
-
-### Options disponibles
-
-| Option | Description |
-|--------|-------------|
-| `-q, --question` | Question à poser à l'oracle |
-| `-t, --traits` | Définir les 6 traits (ex: `-t 7 6 8 9 7 8`) |
-| `-i, --images` | Chemin vers le dossier des images |
-| `-o, --output` | Chemin vers le dossier de sortie |
-| `--all` | Générer tous les fichiers |
-| `--pdf` | Générer uniquement le PDF |
-| `--audio` | Générer uniquement les fichiers audio |
-| `--grille` | Générer uniquement les grilles PNG |
-| `-v, --version` | Afficher la version |
-
----
-
-## 🎮 Les Grilles "La Livrée d'Hermès"
-
-### Principe
-
-Les 24 grilles représentent les différentes configurations des traits du Yi Jing :
-
-| Type | Nombre | Description |
-|------|--------|-------------|
-| YANG-1 à YANG-6 | 6 | Traits Yang stables (positions 1-6) |
-| YING-1 à YING-6 | 6 | Traits Yin stables (positions 1-6) |
-| YANG-MUT-1 à YANG-MUT-6 | 6 | Traits Yang mutants |
-| YING-MUT-1 à YING-MUT-6 | 6 | Traits Yin mutants |
-
-### Superposition
-
-La grille finale est créée par **superposition** des 6 images correspondant au tirage, en utilisant le mode "darken" (assombrissement) qui conserve les motifs colorés tout en les combinant.
-
-```
-Trait 6 (haut)  ───┐
-Trait 5         ───┼── Superposition → Grille unique
-Trait 4         ───┤
-Trait 3         ───┤
-Trait 2         ───┤
-Trait 1 (bas)   ───┘
-```
-
----
-
-## 🎵 Système de Fréquences Sacrées
-
-### Fréquences des Trigrammes
-
-Basées sur le **Solfège ancien** et l'accord **432 Hz** :
-
-| Trigramme | Symbole | Élément | Fréquence | Bienfait |
-|-----------|---------|---------|-----------|----------|
-| ☰ Qián (Ciel) | ≡ | Métal | 852 Hz | Éveil spirituel |
-| ☷ Kūn (Terre) | ⚏ | Terre | 396 Hz | Libération |
-| ☳ Zhèn (Tonnerre) | ⚌ | Bois | 417 Hz | Transformation |
-| ☵ Kǎn (Eau) | ⚍ | Eau | 528 Hz | Réparation ADN |
-| ☶ Gèn (Montagne) | ⚎ | Terre | 639 Hz | Connexion |
-| ☴ Xùn (Vent) | ⚋ | Bois | 741 Hz | Expression |
-| ☲ Lí (Feu) | ⚊ | Feu | 963 Hz | Transcendance |
-| ☱ Duì (Lac) | ⚏ | Métal | 432 Hz | Harmonie universelle |
-
-### Fréquences des Traits
-
-| Trait | Valeur | Fréquence | Note |
-|-------|--------|-----------|------|
-| Yin mutant | 6 | 216 Hz | LA-1 |
-| Yang stable | 7 | 256 Hz | DO |
-| Yin stable | 8 | 192 Hz | SOL-1 |
-| Yang mutant | 9 | 288 Hz | RÉ |
-
-### Fichiers Audio Générés
-
-1. **Séquence du tirage** : Drone 432 Hz + 6 traits + accord final
-2. **Fréquence trigramme supérieur** : 1 minute
-3. **Fréquence trigramme inférieur** : 1 minute
-
----
-
-## 📄 Rapport PDF
-
-Le rapport généré contient :
-
-### Page 1
-- En-tête avec date et question
-- Hexagramme principal (numéro, caractère, nom)
-- Tableau des traits avec fréquences
-- Trigrammes et leurs qualités
-- **Grille La Livrée d'Hermès**
-
-### Page 2
-- Accord musical du tirage
-- Protocole d'écoute recommandé
-- Hexagramme de mutation (si applicable)
-- Grille de mutation
-- Tableau des fréquences du Solfège
-
----
-
-## 🔧 Utilisation en tant que bibliothèque
-
-```python
-from yijing_oracle import YiJingOracle
-
-# Créer l'oracle
-oracle = YiJingOracle(
-    images_dir="./images",
-    output_dir="./output"
-)
-
-# Effectuer un tirage
-oracle.effectuer_tirage("Ma question")
-
-# Ou définir les traits manuellement
-oracle.definir_traits([7, 6, 7, 6, 6, 7])
-oracle.question = "Ma question"
-
-# Afficher le résultat
-oracle.afficher_resultat()
-
-# Générer les fichiers
-grille = oracle.sauvegarder_grille()
-pdf = oracle.generer_rapport_pdf()
-audio = oracle.generer_audio_sequence()
-
-# Ou tout générer d'un coup
-fichiers = oracle.generer_tout()
-```
-
-### Accéder aux données
-
-```python
-# Hexagramme principal
-print(oracle.hexagramme['numero'])      # 38
-print(oracle.hexagramme['caractere'])   # 睽
-print(oracle.hexagramme['nom'])         # L'Opposition
-
-# Traits
-print(oracle.traits)  # [7, 6, 7, 6, 6, 7]
-
-# Hexagramme de mutation (si traits mutants)
-if oracle.hexagramme_mute:
-    print(oracle.hexagramme_mute['nom'])
-
-# Grilles (objets PIL.Image)
-print(oracle.grille_principale.size)    # (595, 842)
-```
-
----
-
-## 📚 Référence Yi Jing
-
-### Les 64 Hexagrammes
-
-Consultez le fichier `HEXAGRAMMES.md` pour la liste complète des 64 hexagrammes avec leurs significations.
-
-### Méthode des 3 Pièces
-
-1. Lancer 3 pièces simultanément
-2. Face = 3, Pile = 2
-3. Total possible : 6, 7, 8, ou 9
-4. Répéter 6 fois (du bas vers le haut)
-
-| Total | Trait | Type |
-|-------|-------|------|
-| 6 (2+2+2) | ━ ✕ ━ | Yin mutant |
-| 7 (2+2+3) | ━━━━━ | Yang stable |
-| 8 (2+3+3) | ━   ━ | Yin stable |
-| 9 (3+3+3) | ━━◯━━ | Yang mutant |
-
----
+MIT License
 
 ## 🙏 Crédits
 
 - **Grilles "La Livrée d'Hermès"** : Anibal Edelbert Amiot
 - **Développement** : CyberMind.FR
-- **Textes Yi Jing** : Basés sur la traduction de Richard Wilhelm
-
----
-
-## 📜 Licence
-
-MIT License - Voir le fichier [LICENSE](LICENSE)
-
----
-
-## 🔗 Liens
-
-- [CyberMind.FR](https://cybermind.fr)
-- [Yi Jing sur Wikipedia](https://fr.wikipedia.org/wiki/Yi_Jing)
-- [Solfège ancien](https://fr.wikipedia.org/wiki/Solfège_sacré)
+- **Framework** : [Streamlit](https://streamlit.io)
 
 ---
 
