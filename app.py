@@ -354,35 +354,50 @@ def init_cjk_font():
     from reportlab.pdfbase.ttfonts import TTFont
     import os
     
-    # 1. Essayer les polices TTF embarquables (meilleur rendu)
+    # 1. Police embarquée dans le projet (priorité absolue)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    embedded_font = os.path.join(script_dir, 'fonts', 'ipag.ttf')
+    
+    if os.path.exists(embedded_font):
+        try:
+            pdfmetrics.registerFont(TTFont('IPAGothic', embedded_font))
+            return 'IPAGothic'
+        except Exception as e:
+            pass  # Continuer avec les autres options
+    
+    # 2. Polices système (Linux, macOS, Windows)
     ttf_fonts = [
-        ('/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf', 'IPAGothic'),
-        ('/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf', 'IPAGothicP'),
-        ('/usr/share/fonts/truetype/fonts-japanese-gothic.ttf', 'JapaneseGothic'),
+        # Linux Debian/Ubuntu
+        '/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf',
+        '/usr/share/fonts/truetype/fonts-ipafont-gothic/ipag.ttf',
+        '/usr/share/fonts/truetype/fonts-japanese-gothic.ttf',
+        # Linux Fedora/Arch
+        '/usr/share/fonts/ipa-gothic/ipag.ttf',
+        '/usr/share/fonts/OTF/ipag.ttf',
+        # macOS
+        '/Library/Fonts/IPAPGothic.ttf',
+        os.path.expanduser('~/Library/Fonts/IPAPGothic.ttf'),
+        # Windows
+        'C:/Windows/Fonts/ipag.ttf',
+        'C:/Windows/Fonts/msyh.ttc',
+        'C:/Windows/Fonts/simsun.ttc',
+        'C:/Windows/Fonts/simhei.ttf',
     ]
     
-    for font_path, font_name in ttf_fonts:
+    for font_path in ttf_fonts:
         if os.path.exists(font_path):
             try:
-                pdfmetrics.registerFont(TTFont(font_name, font_path))
-                return font_name
+                pdfmetrics.registerFont(TTFont('IPAGothic', font_path))
+                return 'IPAGothic'
             except:
                 continue
     
-    # 2. Fallback sur les polices CID (dépendent du viewer PDF)
-    cjk_cid_fonts = [
-        'STSong-Light',      # Police chinoise standard ReportLab
-        'HeiseiMin-W3',      # Police japonaise
-        'HeiseiKakuGo-W5',   # Police japonaise
-        'HYSMyeongJo-Medium' # Police coréenne
-    ]
-    
-    for font_name in cjk_cid_fonts:
-        try:
-            pdfmetrics.registerFont(UnicodeCIDFont(font_name))
-            return font_name
-        except:
-            continue
+    # 3. Fallback CID (dépend du viewer PDF)
+    try:
+        pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
+        return 'STSong-Light'
+    except:
+        pass
     
     return None
 
