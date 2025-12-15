@@ -476,10 +476,10 @@ def get_cjk_font_status():
     
     return status
 
-def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fallback_text=None):
+def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fallback_text=None, hex_numero=None):
     """
     Dessine un caractère chinois dans le PDF.
-    Utilise la police CJK si disponible, sinon une image, sinon le texte de fallback.
+    Priorité: 1) Image pré-générée, 2) Police ReportLab, 3) Image PIL, 4) Texte fallback
     
     Args:
         canvas: ReportLab canvas
@@ -489,6 +489,7 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
         color: Couleur (HexColor)
         cjk_font: Nom de la police CJK (ou None)
         fallback_text: Texte à afficher si tout échoue (ex: "#8")
+        hex_numero: Numéro de l'hexagramme (pour trouver l'image pré-générée)
     
     Returns:
         True si succès, False sinon
@@ -496,11 +497,25 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
     from reportlab.lib.utils import ImageReader
     import os
     
-    # Obtenir le chemin de la police embarquée
+    # Obtenir le chemin du script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    embedded_font_path = os.path.join(script_dir, 'fonts', 'ipag.ttf')
     
-    # Méthode 1: Essayer avec la police CJK ReportLab
+    # Méthode 1: Utiliser l'image pré-générée (la plus fiable)
+    if hex_numero:
+        char_img_path = os.path.join(script_dir, 'char_images', f'hex_{hex_numero:02d}.png')
+        if os.path.exists(char_img_path):
+            try:
+                img_reader = ImageReader(char_img_path)
+                img_width = font_size * 1.2
+                img_height = font_size * 1.2
+                canvas.drawImage(img_reader, x - img_width/2, y - img_height/3, 
+                               width=img_width, height=img_height, 
+                               preserveAspectRatio=True, mask='auto')
+                return True
+            except Exception as e:
+                pass  # Continuer avec les autres méthodes
+    
+    # Méthode 2: Essayer avec la police CJK ReportLab
     if cjk_font and char:
         try:
             canvas.setFont(cjk_font, font_size)
@@ -510,16 +525,15 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
         except Exception as e:
             pass  # Continuer avec le fallback
     
-    # Méthode 2: Utiliser une image du caractère (avec PIL)
+    # Méthode 3: Utiliser une image générée avec PIL
+    embedded_font_path = os.path.join(script_dir, 'fonts', 'ipag.ttf')
     if CHAR_IMAGE_AVAILABLE and char:
         try:
-            # Convertir la couleur en hex string
             if hasattr(color, 'hexval'):
                 color_hex = '#' + color.hexval()[2:]
             else:
                 color_hex = '#2F4F4F'
             
-            # Passer explicitement le chemin de la police
             img_buffer = create_character_image(
                 char, 
                 size=int(font_size * 1.5), 
@@ -528,10 +542,8 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
             )
             if img_buffer:
                 img_reader = ImageReader(img_buffer)
-                # Calculer la taille de l'image
                 img_width = font_size * 1.2
                 img_height = font_size * 1.2
-                # Centrer l'image
                 canvas.drawImage(img_reader, x - img_width/2, y - img_height/3, 
                                width=img_width, height=img_height, 
                                preserveAspectRatio=True, mask='auto')
@@ -539,7 +551,7 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
         except Exception as e:
             pass  # Continuer avec le fallback
     
-    # Méthode 3: Afficher le texte de fallback
+    # Méthode 4: Afficher le texte de fallback
     if fallback_text:
         canvas.setFont("Helvetica-Bold", font_size * 0.8)
         canvas.setFillColor(color)
@@ -645,7 +657,8 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         font_size=42,
         color=HexColor('#2F4F4F'),
         cjk_font=cjk_font,
-        fallback_text=f"#{hex_numero}"
+        fallback_text=f"#{hex_numero}",
+        hex_numero=hex_numero
     )
     
     nom = f"{hex_data.get('nom_pinyin', '')} - {hex_data.get('nom_fr', '')}"
@@ -1036,7 +1049,8 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             font_size=36,
             color=HexColor('#4A148C'),
             cjk_font=cjk_font,
-            fallback_text=f"#{hex_mute_numero}"
+            fallback_text=f"#{hex_mute_numero}",
+            hex_numero=hex_mute_numero
         )
         
         nom_mut = f"{hex_mute_data.get('nom_pinyin', '')} - {hex_mute_data.get('nom_fr', '')}"
@@ -1402,38 +1416,32 @@ with st.sidebar:
     
     # Diagnostic police CJK
     with st.expander("🔧 Diagnostic Police CJK"):
+        import os
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        # Vérifier les images pré-générées
+        char_images_dir = os.path.join(script_dir, 'char_images')
+        if os.path.exists(char_images_dir):
+            num_images = len([f for f in os.listdir(char_images_dir) if f.endswith('.png')])
+            if num_images >= 64:
+                st.success(f"✓ Images pré-générées: {num_images}/64")
+            else:
+                st.warning(f"⚠ Images pré-générées: {num_images}/64")
+        else:
+            st.error("✗ Dossier char_images manquant")
+        
         # Forcer l'initialisation pour avoir le diagnostic
         init_cjk_font()
         cjk_status = get_cjk_font_status()
         
         if cjk_status['font_name']:
-            st.success(f"✓ Police ReportLab: {cjk_status['font_name']}")
+            st.info(f"Police ReportLab: {cjk_status['font_name']}")
         else:
-            st.warning("⚠ Police ReportLab non chargée")
+            st.caption("Police ReportLab: non disponible")
         
-        # Test du fallback image
-        if cjk_status.get('char_image_available'):
-            # Tester si ça fonctionne vraiment
-            try:
-                from char_image import create_character_image
-                test_img = create_character_image('易', size=50, font_path=cjk_status['embedded_path'])
-                if test_img:
-                    st.success("✓ Fallback image: fonctionnel")
-                else:
-                    st.error("✗ Fallback image: échec génération")
-            except Exception as e:
-                st.error(f"✗ Fallback image: {str(e)[:50]}")
-        else:
-            st.error("✗ Module char_image non disponible")
-        
-        st.caption(f"Chemin police: {cjk_status['embedded_path']}")
-        st.caption(f"Fichier existe: {cjk_status['embedded_exists']}")
+        st.caption(f"Police embarquée: {cjk_status['embedded_exists']}")
         if cjk_status.get('embedded_size'):
             st.caption(f"Taille: {cjk_status['embedded_size'] / 1024 / 1024:.1f} MB")
-        
-        # Afficher l'erreur si présente
-        if cjk_status.get('error'):
-            st.error(f"Erreur: {cjk_status['error']}")
 
 # Charger données
 yijing_data = load_yijing_data(json_path)
