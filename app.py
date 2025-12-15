@@ -350,11 +350,43 @@ def generate_kasina_audio(segments, sample_rate=44100):
 # ============================================================================
 
 def init_cjk_font():
+    """Initialise une police CJK pour les caractères chinois"""
+    # Liste des polices CJK à essayer
+    cjk_fonts = [
+        'STSong-Light',      # Police chinoise standard ReportLab
+        'HeiseiMin-W3',      # Police japonaise
+        'HeiseiKakuGo-W5',   # Police japonaise
+        'HYSMyeongJo-Medium' # Police coréenne
+    ]
+    
+    for font_name in cjk_fonts:
+        try:
+            pdfmetrics.registerFont(UnicodeCIDFont(font_name))
+            return font_name
+        except:
+            continue
+    
+    # Essayer d'enregistrer une police TTF si disponible
     try:
-        pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
-        return 'STSong-Light'
+        from reportlab.pdfbase.ttfonts import TTFont
+        import os
+        
+        # Chercher des polices Noto CJK
+        font_paths = [
+            '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc',
+            '/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc',
+            '/usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc',
+            '/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc',
+        ]
+        
+        for font_path in font_paths:
+            if os.path.exists(font_path):
+                pdfmetrics.registerFont(TTFont('NotoCJK', font_path))
+                return 'NotoCJK'
     except:
-        return None
+        pass
+    
+    return None
 
 def draw_text_box(c, x, y, width, height, title, content, title_color, bg_color, text_color):
     """Dessine une boîte de texte avec titre"""
@@ -444,8 +476,12 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     c.drawCentredString(width/2, y - 10*mm, f"HEXAGRAMME {hex_numero}")
     
     caractere = hex_data.get('caractere', '')
-    if caractere and cjk_font:
-        c.setFont(cjk_font, 42)
+    if caractere:
+        if cjk_font:
+            c.setFont(cjk_font, 42)
+        else:
+            # Fallback: utiliser Helvetica (le caractère pourrait ne pas s'afficher correctement)
+            c.setFont("Helvetica-Bold", 42)
         c.setFillColor(HexColor('#2F4F4F'))
         c.drawCentredString(width/2, y - 32*mm, caractere)
     
@@ -800,8 +836,11 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         c.drawCentredString(width/2, y - 10*mm, f"HEXAGRAMME {hex_mute_numero}")
         
         car_mut = hex_mute_data.get('caractere', '')
-        if car_mut and cjk_font:
-            c.setFont(cjk_font, 36)
+        if car_mut:
+            if cjk_font:
+                c.setFont(cjk_font, 36)
+            else:
+                c.setFont("Helvetica-Bold", 36)
             c.setFillColor(HexColor('#4A148C'))
             c.drawCentredString(width/2, y - 28*mm, car_mut)
         
