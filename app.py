@@ -920,14 +920,15 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             bg_color = HexColor('#E3F2FD')
             border_color = bleu
         
-        c.setFillColor(bg_color)
-        c.setStrokeColor(border_color)
-        c.setLineWidth(1.5)
-        
         box_height = 38*mm
         if y - box_height < 25*mm:
             c.showPage()
             y = height - 20*mm
+        
+        # Définir les couleurs APRÈS le potentiel showPage()
+        c.setFillColor(bg_color)
+        c.setStrokeColor(border_color)
+        c.setLineWidth(1.5)
         
         c.roundRect(margin, y - box_height, width - 2*margin, box_height, 4, fill=1, stroke=1)
         
@@ -986,14 +987,15 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         for pos, val in traits_mutants:
             trait_data = next((t for t in hex_traits if t.get('position') == pos + 1), None)
             
-            c.setFillColor(HexColor('#D0D0D0'))  # Gris clair pour meilleur contraste
-            c.setStrokeColor(rouge)
-            c.setLineWidth(2)
-            
             box_height = 50*mm
             if y - box_height < 30*mm:
                 c.showPage()
                 y = height - 20*mm
+            
+            # Définir les couleurs APRÈS le potentiel showPage()
+            c.setFillColor(HexColor('#F5F5F5'))  # Gris très clair pour le fond
+            c.setStrokeColor(rouge)
+            c.setLineWidth(2)
             
             c.roundRect(margin, y - box_height, width - 2*margin, box_height, 5, fill=1, stroke=1)
             
