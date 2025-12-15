@@ -43,6 +43,12 @@ st.set_page_config(
 )
 
 # ============================================================================
+# INITIALISATION POLICE CJK
+# ============================================================================
+# Initialiser la police CJK au démarrage pour le diagnostic
+# (sera appelé plus tard par generate_pdf_report_complete)
+
+# ============================================================================
 # DONNÉES STATIQUES
 # ============================================================================
 
@@ -349,21 +355,39 @@ def generate_kasina_audio(segments, sample_rate=44100):
 # GÉNÉRATION PDF COMPLET
 # ============================================================================
 
+# Variable globale pour stocker le nom de la police CJK
+_CJK_FONT_NAME = None
+_CJK_FONT_INITIALIZED = False
+
 def init_cjk_font():
     """Initialise une police CJK pour les caractères chinois"""
+    global _CJK_FONT_NAME, _CJK_FONT_INITIALIZED
+    
+    # Si déjà initialisé, retourner le résultat précédent
+    if _CJK_FONT_INITIALIZED:
+        return _CJK_FONT_NAME
+    
     from reportlab.pdfbase.ttfonts import TTFont
     import os
+    
+    debug_info = []
     
     # 1. Police embarquée dans le projet (priorité absolue)
     script_dir = os.path.dirname(os.path.abspath(__file__))
     embedded_font = os.path.join(script_dir, 'fonts', 'ipag.ttf')
+    debug_info.append(f"Chemin police embarquée: {embedded_font}")
+    debug_info.append(f"Existe: {os.path.exists(embedded_font)}")
     
     if os.path.exists(embedded_font):
         try:
             pdfmetrics.registerFont(TTFont('IPAGothic', embedded_font))
-            return 'IPAGothic'
+            _CJK_FONT_NAME = 'IPAGothic'
+            _CJK_FONT_INITIALIZED = True
+            debug_info.append("✓ Police IPAGothic chargée depuis le projet")
+            print("\n".join(debug_info))
+            return _CJK_FONT_NAME
         except Exception as e:
-            pass  # Continuer avec les autres options
+            debug_info.append(f"✗ Erreur chargement: {e}")
     
     # 2. Polices système (Linux, macOS, Windows)
     ttf_fonts = [
@@ -388,18 +412,48 @@ def init_cjk_font():
         if os.path.exists(font_path):
             try:
                 pdfmetrics.registerFont(TTFont('IPAGothic', font_path))
-                return 'IPAGothic'
-            except:
+                _CJK_FONT_NAME = 'IPAGothic'
+                _CJK_FONT_INITIALIZED = True
+                debug_info.append(f"✓ Police système chargée: {font_path}")
+                print("\n".join(debug_info))
+                return _CJK_FONT_NAME
+            except Exception as e:
+                debug_info.append(f"✗ Erreur {font_path}: {e}")
                 continue
     
     # 3. Fallback CID (dépend du viewer PDF)
     try:
         pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
-        return 'STSong-Light'
-    except:
-        pass
+        _CJK_FONT_NAME = 'STSong-Light'
+        _CJK_FONT_INITIALIZED = True
+        debug_info.append("✓ Police CID STSong-Light (fallback)")
+        print("\n".join(debug_info))
+        return _CJK_FONT_NAME
+    except Exception as e:
+        debug_info.append(f"✗ Erreur CID: {e}")
     
+    _CJK_FONT_INITIALIZED = True
+    debug_info.append("⚠ AUCUNE POLICE CJK TROUVÉE!")
+    print("\n".join(debug_info))
     return None
+
+def get_cjk_font_status():
+    """Retourne le statut de la police CJK pour le diagnostic"""
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    embedded_font = os.path.join(script_dir, 'fonts', 'ipag.ttf')
+    
+    status = {
+        'font_name': _CJK_FONT_NAME,
+        'initialized': _CJK_FONT_INITIALIZED,
+        'embedded_path': embedded_font,
+        'embedded_exists': os.path.exists(embedded_font),
+    }
+    
+    if os.path.exists(embedded_font):
+        status['embedded_size'] = os.path.getsize(embedded_font)
+    
+    return status
 
 def draw_text_box(c, x, y, width, height, title, content, title_color, bg_color, text_color):
     """Dessine une boîte de texte avec titre"""
@@ -491,12 +545,20 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     caractere = hex_data.get('caractere', '')
     if caractere:
         if cjk_font:
-            c.setFont(cjk_font, 42)
+            try:
+                c.setFont(cjk_font, 42)
+                c.setFillColor(HexColor('#2F4F4F'))
+                c.drawCentredString(width/2, y - 32*mm, caractere)
+            except Exception as e:
+                # Si erreur, afficher le numéro en grand
+                c.setFont("Helvetica-Bold", 36)
+                c.setFillColor(HexColor('#2F4F4F'))
+                c.drawCentredString(width/2, y - 32*mm, f"#{hex_numero}")
         else:
-            # Fallback: utiliser Helvetica (le caractère pourrait ne pas s'afficher correctement)
-            c.setFont("Helvetica-Bold", 42)
-        c.setFillColor(HexColor('#2F4F4F'))
-        c.drawCentredString(width/2, y - 32*mm, caractere)
+            # Pas de police CJK: afficher le numéro de l'hexagramme
+            c.setFont("Helvetica-Bold", 36)
+            c.setFillColor(HexColor('#2F4F4F'))
+            c.drawCentredString(width/2, y - 32*mm, f"#{hex_numero}")
     
     nom = f"{hex_data.get('nom_pinyin', '')} - {hex_data.get('nom_fr', '')}"
     c.setFillColor(gris)
@@ -879,11 +941,18 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         car_mut = hex_mute_data.get('caractere', '')
         if car_mut:
             if cjk_font:
-                c.setFont(cjk_font, 36)
+                try:
+                    c.setFont(cjk_font, 36)
+                    c.setFillColor(HexColor('#4A148C'))
+                    c.drawCentredString(width/2, y - 28*mm, car_mut)
+                except:
+                    c.setFont("Helvetica-Bold", 30)
+                    c.setFillColor(HexColor('#4A148C'))
+                    c.drawCentredString(width/2, y - 28*mm, f"#{hex_mute_numero}")
             else:
-                c.setFont("Helvetica-Bold", 36)
-            c.setFillColor(HexColor('#4A148C'))
-            c.drawCentredString(width/2, y - 28*mm, car_mut)
+                c.setFont("Helvetica-Bold", 30)
+                c.setFillColor(HexColor('#4A148C'))
+                c.drawCentredString(width/2, y - 28*mm, f"#{hex_mute_numero}")
         
         nom_mut = f"{hex_mute_data.get('nom_pinyin', '')} - {hex_mute_data.get('nom_fr', '')}"
         c.setFillColor(gris)
@@ -1245,6 +1314,19 @@ with st.sidebar:
     st.divider()
     json_path = st.text_input("📄 Fichier JSON :", value="yijing_complet.json")
     images_dir = st.text_input("📁 Dossier images :", value="images")
+    
+    # Diagnostic police CJK
+    with st.expander("🔧 Diagnostic Police CJK"):
+        cjk_status = get_cjk_font_status()
+        if cjk_status['font_name']:
+            st.success(f"✓ Police: {cjk_status['font_name']}")
+        else:
+            st.error("✗ Aucune police CJK!")
+        
+        st.caption(f"Chemin: {cjk_status['embedded_path']}")
+        st.caption(f"Existe: {cjk_status['embedded_exists']}")
+        if cjk_status.get('embedded_size'):
+            st.caption(f"Taille: {cjk_status['embedded_size'] / 1024 / 1024:.1f} MB")
 
 # Charger données
 yijing_data = load_yijing_data(json_path)
