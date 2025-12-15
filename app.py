@@ -358,10 +358,11 @@ def generate_kasina_audio(segments, sample_rate=44100):
 # Variable globale pour stocker le nom de la police CJK
 _CJK_FONT_NAME = None
 _CJK_FONT_INITIALIZED = False
+_CJK_FONT_ERROR = None
 
 def init_cjk_font():
     """Initialise une police CJK pour les caractères chinois"""
-    global _CJK_FONT_NAME, _CJK_FONT_INITIALIZED
+    global _CJK_FONT_NAME, _CJK_FONT_INITIALIZED, _CJK_FONT_ERROR
     
     # Si déjà initialisé, retourner le résultat précédent
     if _CJK_FONT_INITIALIZED:
@@ -369,25 +370,31 @@ def init_cjk_font():
     
     from reportlab.pdfbase.ttfonts import TTFont
     import os
+    import traceback
     
-    debug_info = []
+    errors = []
     
     # 1. Police embarquée dans le projet (priorité absolue)
     script_dir = os.path.dirname(os.path.abspath(__file__))
     embedded_font = os.path.join(script_dir, 'fonts', 'ipag.ttf')
-    debug_info.append(f"Chemin police embarquée: {embedded_font}")
-    debug_info.append(f"Existe: {os.path.exists(embedded_font)}")
     
     if os.path.exists(embedded_font):
-        try:
-            pdfmetrics.registerFont(TTFont('IPAGothic', embedded_font))
-            _CJK_FONT_NAME = 'IPAGothic'
-            _CJK_FONT_INITIALIZED = True
-            debug_info.append("✓ Police IPAGothic chargée depuis le projet")
-            print("\n".join(debug_info))
-            return _CJK_FONT_NAME
-        except Exception as e:
-            debug_info.append(f"✗ Erreur chargement: {e}")
+        # Essayer avec différents noms au cas où la police serait déjà enregistrée
+        for font_name in ['IPAGothic', 'IPAGothic2', 'YiJingCJK']:
+            try:
+                pdfmetrics.registerFont(TTFont(font_name, embedded_font))
+                _CJK_FONT_NAME = font_name
+                _CJK_FONT_INITIALIZED = True
+                _CJK_FONT_ERROR = None
+                return _CJK_FONT_NAME
+            except Exception as e:
+                errors.append(f"Police embarquée ({font_name}): {str(e)}")
+                # Si c'est une erreur "already registered", c'est OK
+                if "already registered" in str(e).lower():
+                    _CJK_FONT_NAME = font_name
+                    _CJK_FONT_INITIALIZED = True
+                    _CJK_FONT_ERROR = None
+                    return _CJK_FONT_NAME
     
     # 2. Polices système (Linux, macOS, Windows)
     ttf_fonts = [
@@ -395,12 +402,14 @@ def init_cjk_font():
         '/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf',
         '/usr/share/fonts/truetype/fonts-ipafont-gothic/ipag.ttf',
         '/usr/share/fonts/truetype/fonts-japanese-gothic.ttf',
+        '/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc',
         # Linux Fedora/Arch
         '/usr/share/fonts/ipa-gothic/ipag.ttf',
         '/usr/share/fonts/OTF/ipag.ttf',
         # macOS
         '/Library/Fonts/IPAPGothic.ttf',
         os.path.expanduser('~/Library/Fonts/IPAPGothic.ttf'),
+        '/System/Library/Fonts/PingFang.ttc',
         # Windows
         'C:/Windows/Fonts/ipag.ttf',
         'C:/Windows/Fonts/msyh.ttc',
@@ -414,11 +423,10 @@ def init_cjk_font():
                 pdfmetrics.registerFont(TTFont('IPAGothic', font_path))
                 _CJK_FONT_NAME = 'IPAGothic'
                 _CJK_FONT_INITIALIZED = True
-                debug_info.append(f"✓ Police système chargée: {font_path}")
-                print("\n".join(debug_info))
+                _CJK_FONT_ERROR = None
                 return _CJK_FONT_NAME
             except Exception as e:
-                debug_info.append(f"✗ Erreur {font_path}: {e}")
+                errors.append(f"Système {font_path}: {str(e)}")
                 continue
     
     # 3. Fallback CID (dépend du viewer PDF)
@@ -426,15 +434,13 @@ def init_cjk_font():
         pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
         _CJK_FONT_NAME = 'STSong-Light'
         _CJK_FONT_INITIALIZED = True
-        debug_info.append("✓ Police CID STSong-Light (fallback)")
-        print("\n".join(debug_info))
+        _CJK_FONT_ERROR = None
         return _CJK_FONT_NAME
     except Exception as e:
-        debug_info.append(f"✗ Erreur CID: {e}")
+        errors.append(f"CID STSong-Light: {str(e)}")
     
     _CJK_FONT_INITIALIZED = True
-    debug_info.append("⚠ AUCUNE POLICE CJK TROUVÉE!")
-    print("\n".join(debug_info))
+    _CJK_FONT_ERROR = " | ".join(errors[-3:]) if errors else "Aucune police trouvée"
     return None
 
 def get_cjk_font_status():
@@ -448,6 +454,7 @@ def get_cjk_font_status():
         'initialized': _CJK_FONT_INITIALIZED,
         'embedded_path': embedded_font,
         'embedded_exists': os.path.exists(embedded_font),
+        'error': _CJK_FONT_ERROR,
     }
     
     if os.path.exists(embedded_font):
@@ -1317,7 +1324,10 @@ with st.sidebar:
     
     # Diagnostic police CJK
     with st.expander("🔧 Diagnostic Police CJK"):
+        # Forcer l'initialisation pour avoir le diagnostic
+        init_cjk_font()
         cjk_status = get_cjk_font_status()
+        
         if cjk_status['font_name']:
             st.success(f"✓ Police: {cjk_status['font_name']}")
         else:
@@ -1327,6 +1337,10 @@ with st.sidebar:
         st.caption(f"Existe: {cjk_status['embedded_exists']}")
         if cjk_status.get('embedded_size'):
             st.caption(f"Taille: {cjk_status['embedded_size'] / 1024 / 1024:.1f} MB")
+        
+        # Afficher l'erreur si présente
+        if cjk_status.get('error'):
+            st.error(f"Erreur: {cjk_status['error']}")
 
 # Charger données
 yijing_data = load_yijing_data(json_path)
