@@ -25,6 +25,13 @@ from reportlab.lib.colors import HexColor, white, black
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
+
+# Import du module pour les images de caractères (fallback)
+try:
+    from char_image import create_character_image
+    CHAR_IMAGE_AVAILABLE = True
+except ImportError:
+    CHAR_IMAGE_AVAILABLE = False
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import Paragraph
 
@@ -455,12 +462,74 @@ def get_cjk_font_status():
         'embedded_path': embedded_font,
         'embedded_exists': os.path.exists(embedded_font),
         'error': _CJK_FONT_ERROR,
+        'char_image_available': CHAR_IMAGE_AVAILABLE,
     }
     
     if os.path.exists(embedded_font):
         status['embedded_size'] = os.path.getsize(embedded_font)
     
     return status
+
+def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fallback_text=None):
+    """
+    Dessine un caractère chinois dans le PDF.
+    Utilise la police CJK si disponible, sinon une image, sinon le texte de fallback.
+    
+    Args:
+        canvas: ReportLab canvas
+        x, y: Position (centrée)
+        char: Le caractère chinois
+        font_size: Taille de police souhaitée
+        color: Couleur (HexColor)
+        cjk_font: Nom de la police CJK (ou None)
+        fallback_text: Texte à afficher si tout échoue (ex: "#8")
+    
+    Returns:
+        True si succès, False sinon
+    """
+    from reportlab.lib.utils import ImageReader
+    
+    # Méthode 1: Essayer avec la police CJK
+    if cjk_font and char:
+        try:
+            canvas.setFont(cjk_font, font_size)
+            canvas.setFillColor(color)
+            canvas.drawCentredString(x, y, char)
+            return True
+        except Exception as e:
+            pass  # Continuer avec le fallback
+    
+    # Méthode 2: Utiliser une image du caractère
+    if CHAR_IMAGE_AVAILABLE and char:
+        try:
+            # Convertir la couleur en hex string
+            if hasattr(color, 'hexval'):
+                color_hex = '#' + color.hexval()[2:]
+            else:
+                color_hex = '#2F4F4F'
+            
+            img_buffer = create_character_image(char, size=int(font_size * 1.5), color=color_hex)
+            if img_buffer:
+                img_reader = ImageReader(img_buffer)
+                # Calculer la taille de l'image
+                img_width = font_size * 1.2
+                img_height = font_size * 1.2
+                # Centrer l'image
+                canvas.drawImage(img_reader, x - img_width/2, y - img_height/3, 
+                               width=img_width, height=img_height, 
+                               preserveAspectRatio=True, mask='auto')
+                return True
+        except Exception as e:
+            pass  # Continuer avec le fallback
+    
+    # Méthode 3: Afficher le texte de fallback
+    if fallback_text:
+        canvas.setFont("Helvetica-Bold", font_size * 0.8)
+        canvas.setFillColor(color)
+        canvas.drawCentredString(x, y, fallback_text)
+        return True
+    
+    return False
 
 def draw_text_box(c, x, y, width, height, title, content, title_color, bg_color, text_color):
     """Dessine une boîte de texte avec titre"""
@@ -549,23 +618,18 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     c.setFont("Helvetica-Bold", 14)
     c.drawCentredString(width/2, y - 10*mm, f"HEXAGRAMME {hex_numero}")
     
+    # Afficher le caractère chinois (avec fallback automatique)
     caractere = hex_data.get('caractere', '')
-    if caractere:
-        if cjk_font:
-            try:
-                c.setFont(cjk_font, 42)
-                c.setFillColor(HexColor('#2F4F4F'))
-                c.drawCentredString(width/2, y - 32*mm, caractere)
-            except Exception as e:
-                # Si erreur, afficher le numéro en grand
-                c.setFont("Helvetica-Bold", 36)
-                c.setFillColor(HexColor('#2F4F4F'))
-                c.drawCentredString(width/2, y - 32*mm, f"#{hex_numero}")
-        else:
-            # Pas de police CJK: afficher le numéro de l'hexagramme
-            c.setFont("Helvetica-Bold", 36)
-            c.setFillColor(HexColor('#2F4F4F'))
-            c.drawCentredString(width/2, y - 32*mm, f"#{hex_numero}")
+    draw_cjk_character(
+        canvas=c,
+        x=width/2,
+        y=y - 32*mm,
+        char=caractere,
+        font_size=42,
+        color=HexColor('#2F4F4F'),
+        cjk_font=cjk_font,
+        fallback_text=f"#{hex_numero}"
+    )
     
     nom = f"{hex_data.get('nom_pinyin', '')} - {hex_data.get('nom_fr', '')}"
     c.setFillColor(gris)
@@ -945,21 +1009,18 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         c.setFont("Helvetica-Bold", 12)
         c.drawCentredString(width/2, y - 10*mm, f"HEXAGRAMME {hex_mute_numero}")
         
+        # Afficher le caractère chinois de mutation (avec fallback automatique)
         car_mut = hex_mute_data.get('caractere', '')
-        if car_mut:
-            if cjk_font:
-                try:
-                    c.setFont(cjk_font, 36)
-                    c.setFillColor(HexColor('#4A148C'))
-                    c.drawCentredString(width/2, y - 28*mm, car_mut)
-                except:
-                    c.setFont("Helvetica-Bold", 30)
-                    c.setFillColor(HexColor('#4A148C'))
-                    c.drawCentredString(width/2, y - 28*mm, f"#{hex_mute_numero}")
-            else:
-                c.setFont("Helvetica-Bold", 30)
-                c.setFillColor(HexColor('#4A148C'))
-                c.drawCentredString(width/2, y - 28*mm, f"#{hex_mute_numero}")
+        draw_cjk_character(
+            canvas=c,
+            x=width/2,
+            y=y - 28*mm,
+            char=car_mut,
+            font_size=36,
+            color=HexColor('#4A148C'),
+            cjk_font=cjk_font,
+            fallback_text=f"#{hex_mute_numero}"
+        )
         
         nom_mut = f"{hex_mute_data.get('nom_pinyin', '')} - {hex_mute_data.get('nom_fr', '')}"
         c.setFillColor(gris)
@@ -1331,7 +1392,13 @@ with st.sidebar:
         if cjk_status['font_name']:
             st.success(f"✓ Police: {cjk_status['font_name']}")
         else:
-            st.error("✗ Aucune police CJK!")
+            st.warning("⚠ Police CJK non chargée")
+        
+        # Fallback image
+        if cjk_status.get('char_image_available'):
+            st.success("✓ Fallback image disponible")
+        else:
+            st.error("✗ Fallback image non disponible")
         
         st.caption(f"Chemin: {cjk_status['embedded_path']}")
         st.caption(f"Existe: {cjk_status['embedded_exists']}")
