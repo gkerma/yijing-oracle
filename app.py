@@ -351,40 +351,38 @@ def generate_kasina_audio(segments, sample_rate=44100):
 
 def init_cjk_font():
     """Initialise une police CJK pour les caractères chinois"""
-    # Liste des polices CJK à essayer
-    cjk_fonts = [
+    from reportlab.pdfbase.ttfonts import TTFont
+    import os
+    
+    # 1. Essayer les polices TTF embarquables (meilleur rendu)
+    ttf_fonts = [
+        ('/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf', 'IPAGothic'),
+        ('/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf', 'IPAGothicP'),
+        ('/usr/share/fonts/truetype/fonts-japanese-gothic.ttf', 'JapaneseGothic'),
+    ]
+    
+    for font_path, font_name in ttf_fonts:
+        if os.path.exists(font_path):
+            try:
+                pdfmetrics.registerFont(TTFont(font_name, font_path))
+                return font_name
+            except:
+                continue
+    
+    # 2. Fallback sur les polices CID (dépendent du viewer PDF)
+    cjk_cid_fonts = [
         'STSong-Light',      # Police chinoise standard ReportLab
         'HeiseiMin-W3',      # Police japonaise
         'HeiseiKakuGo-W5',   # Police japonaise
         'HYSMyeongJo-Medium' # Police coréenne
     ]
     
-    for font_name in cjk_fonts:
+    for font_name in cjk_cid_fonts:
         try:
             pdfmetrics.registerFont(UnicodeCIDFont(font_name))
             return font_name
         except:
             continue
-    
-    # Essayer d'enregistrer une police TTF si disponible
-    try:
-        from reportlab.pdfbase.ttfonts import TTFont
-        import os
-        
-        # Chercher des polices Noto CJK
-        font_paths = [
-            '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc',
-            '/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc',
-            '/usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc',
-            '/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc',
-        ]
-        
-        for font_path in font_paths:
-            if os.path.exists(font_path):
-                pdfmetrics.registerFont(TTFont('NotoCJK', font_path))
-                return 'NotoCJK'
-    except:
-        pass
     
     return None
 
@@ -609,7 +607,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         c.setFillColor(orange)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, "⚖️ LE JUGEMENT")
+        c.drawString(margin + 5*mm, y - 8*mm, "LE JUGEMENT")
         
         c.setFillColor(gris)
         c.setFont("Helvetica", 8)
@@ -618,6 +616,20 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             c.drawString(margin + 5*mm, text_y, line)
             text_y -= 4*mm
         y -= box_height + 8*mm
+    else:
+        # Message quand le texte est manquant
+        c.setFillColor(HexColor('#FFF3E0'))
+        c.setStrokeColor(orange)
+        c.setLineWidth(1)
+        c.roundRect(margin, y - 25*mm, width - 2*margin, 25*mm, 5, fill=1, stroke=1)
+        c.setFillColor(orange)
+        c.setFont("Helvetica-Bold", 11)
+        c.drawString(margin + 5*mm, y - 8*mm, "LE JUGEMENT")
+        c.setFillColor(gris)
+        c.setFont("Helvetica-Oblique", 8)
+        c.drawString(margin + 5*mm, y - 18*mm, "Texte du Jugement non disponible dans la base de donnees.")
+        c.drawString(margin + 5*mm, y - 23*mm, "Consultez une edition complete du Yi Jing pour ce texte.")
+        y -= 33*mm
     
     # L'Image
     image_texte = hex_data.get('image_texte', '')
@@ -631,7 +643,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         c.setFillColor(bleu)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, "🖼️ L'IMAGE")
+        c.drawString(margin + 5*mm, y - 8*mm, "L'IMAGE")
         
         c.setFillColor(gris)
         c.setFont("Helvetica", 8)
@@ -640,6 +652,20 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             c.drawString(margin + 5*mm, text_y, line)
             text_y -= 4*mm
         y -= box_height + 8*mm
+    else:
+        # Message quand le texte est manquant
+        c.setFillColor(HexColor('#E3F2FD'))
+        c.setStrokeColor(bleu)
+        c.setLineWidth(1)
+        c.roundRect(margin, y - 25*mm, width - 2*margin, 25*mm, 5, fill=1, stroke=1)
+        c.setFillColor(bleu)
+        c.setFont("Helvetica-Bold", 11)
+        c.drawString(margin + 5*mm, y - 8*mm, "L'IMAGE")
+        c.setFillColor(gris)
+        c.setFont("Helvetica-Oblique", 8)
+        c.drawString(margin + 5*mm, y - 18*mm, "Texte de l'Image non disponible dans la base de donnees.")
+        c.drawString(margin + 5*mm, y - 23*mm, "Consultez une edition complete du Yi Jing pour ce texte.")
+        y -= 33*mm
     
     # Interprétation générale
     c.setFillColor(HexColor('#F3E5F5'))
@@ -649,7 +675,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(violet)
     c.setFont("Helvetica-Bold", 10)
-    c.drawString(margin + 5*mm, y - 8*mm, "🔮 INTERPRÉTATION GÉNÉRALE")
+    c.drawString(margin + 5*mm, y - 8*mm, "INTERPRETATION GÉNÉRALE")
     
     c.setFillColor(gris)
     c.setFont("Helvetica", 8)
@@ -663,7 +689,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     if has_mutation:
         interp_lines.append(f"")
-        interp_lines.append(f"⚡ {nb_mutants} trait(s) mutant(s) détecté(s) - Situation en transformation")
+        interp_lines.append(f"*** {nb_mutants} trait(s) mutant(s) détecté(s) - Situation en transformation")
         interp_lines.append(f"L'hexagramme évolue vers le n°{hex_mute_numero}: {hex_mute_data.get('nom_fr', '')}")
         interp_lines.append(f"Lisez attentivement les textes des traits mutants ci-après.")
     else:
@@ -764,7 +790,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         c.setFillColor(rouge)
         c.setFont("Helvetica-Bold", 14)
-        c.drawCentredString(width/2, y, "⚡ TRAITS MUTANTS - À lire attentivement")
+        c.drawCentredString(width/2, y, "*** TRAITS MUTANTS - À lire attentivement")
         y -= 8*mm
         
         c.setFillColor(gris)
@@ -790,7 +816,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             c.setFillColor(rouge)
             c.setFont("Helvetica-Bold", 11)
             mutation_dir = "Yin → Yang" if val == 6 else "Yang → Yin"
-            c.drawString(margin + 5*mm, y - 9*mm, f"🔄 TRAIT {pos + 1} MUTANT - {info['nom']} ({mutation_dir})")
+            c.drawString(margin + 5*mm, y - 9*mm, f"TRAIT {pos + 1} MUTANT - {info['nom']} ({mutation_dir})")
             
             if trait_data:
                 c.setFillColor(HexColor('#B71C1C'))
@@ -889,7 +915,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             
             c.setFillColor(violet)
             c.setFont("Helvetica-Bold", 9)
-            c.drawString(margin + 5*mm, y - 7*mm, "⚖️ Jugement de l'hexagramme de mutation")
+            c.drawString(margin + 5*mm, y - 7*mm, "Jugement de l'hexagramme de mutation")
             
             c.setFillColor(gris)
             c.setFont("Helvetica", 7)
@@ -1264,7 +1290,7 @@ if st.session_state.traits is not None:
         
         nb_mutants = sum(1 for t in traits if t in [6, 9])
         if nb_mutants > 0:
-            st.warning(f"⚡ {nb_mutants} trait(s) mutant(s) - Situation en transformation")
+            st.warning(f"*** {nb_mutants} trait(s) mutant(s) - Situation en transformation")
         
         for i in range(5, -1, -1):
             t = traits[i]
@@ -1467,7 +1493,7 @@ if st.session_state.traits is not None:
     
     if traits_mutants:
         st.divider()
-        st.markdown("### ⚡ Traits Mutants - Attention particulière")
+        st.markdown("### *** Traits Mutants - Attention particulière")
         st.warning("Ces traits indiquent les aspects de votre situation qui sont en transformation. Portez-leur une attention particulière.")
         
         for pos, val in traits_mutants:
@@ -1481,7 +1507,7 @@ if st.session_state.traits is not None:
                     <div class="text-box trait-mutant-box">
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <span style="font-weight: bold; color: #C62828; font-size: 1.1rem;">
-                                🔄 TRAIT {pos + 1} - {mutation_dir}
+                                TRAIT {pos + 1} - {mutation_dir}
                             </span>
                             <span style="background: #FFCDD2; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.85rem;">
                                 {info['freq']} Hz
