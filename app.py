@@ -476,7 +476,7 @@ def get_cjk_font_status():
     
     return status
 
-def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fallback_text=None, hex_numero=None):
+def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fallback_text=None, hex_numero=None, is_mutation=False):
     """
     Dessine un caractère chinois dans le PDF.
     Priorité: 1) Image pré-générée, 2) Police ReportLab, 3) Image PIL, 4) Texte fallback
@@ -490,6 +490,7 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
         cjk_font: Nom de la police CJK (ou None)
         fallback_text: Texte à afficher si tout échoue (ex: "#8")
         hex_numero: Numéro de l'hexagramme (pour trouver l'image pré-générée)
+        is_mutation: Si True, utilise les images violettes
     
     Returns:
         True si succès, False sinon
@@ -502,7 +503,13 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
     
     # Méthode 1: Utiliser l'image pré-générée (la plus fiable)
     if hex_numero:
-        char_img_path = os.path.join(script_dir, 'char_images', f'hex_{hex_numero:02d}.png')
+        # Choisir le dossier selon le contexte
+        if is_mutation:
+            img_folder = 'char_images_mutation'
+        else:
+            img_folder = 'char_images'
+        
+        char_img_path = os.path.join(script_dir, img_folder, f'hex_{hex_numero:02d}.png')
         if os.path.exists(char_img_path):
             try:
                 img_reader = ImageReader(char_img_path)
@@ -532,7 +539,7 @@ def draw_cjk_character(canvas, x, y, char, font_size, color, cjk_font=None, fall
             if hasattr(color, 'hexval'):
                 color_hex = '#' + color.hexval()[2:]
             else:
-                color_hex = '#2F4F4F'
+                color_hex = '#8B4513'
             
             img_buffer = create_character_image(
                 char, 
@@ -597,7 +604,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     marron = HexColor('#8B4513')
     or_color = HexColor('#DAA520')
     creme = HexColor('#FFFAF0')
-    gris = HexColor('#5D4037')
+    gris = HexColor('#4A4A4A')  # Gris neutre pour meilleure lisibilité
     rouge = HexColor('#C62828')
     bleu = HexColor('#1565C0')
     vert = HexColor('#2E7D32')
@@ -655,7 +662,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         y=y - 32*mm,
         char=caractere,
         font_size=42,
-        color=HexColor('#2F4F4F'),
+        color=marron,  # Marron pour cohérence avec le thème
         cjk_font=cjk_font,
         fallback_text=f"#{hex_numero}",
         hex_numero=hex_numero
@@ -711,7 +718,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         is_mutant = t in [6, 9]
         
         if is_mutant:
-            c.setFillColor(HexColor('#FFEBEE'))
+            c.setFillColor(HexColor('#E0E0E0'))  # Gris clair pour meilleur contraste
             c.setStrokeColor(rouge)
         else:
             c.setFillColor(white)
@@ -904,7 +911,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         # Couleur de la boîte selon le type
         if is_mutant:
-            bg_color = HexColor('#FFEBEE')
+            bg_color = HexColor('#E0E0E0')  # Gris clair pour meilleur contraste
             border_color = rouge
         elif trait_val == 7:
             bg_color = HexColor('#E8F5E9')
@@ -979,7 +986,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         for pos, val in traits_mutants:
             trait_data = next((t for t in hex_traits if t.get('position') == pos + 1), None)
             
-            c.setFillColor(HexColor('#FFCDD2'))
+            c.setFillColor(HexColor('#D0D0D0'))  # Gris clair pour meilleur contraste
             c.setStrokeColor(rouge)
             c.setLineWidth(2)
             
@@ -1050,7 +1057,8 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
             color=HexColor('#4A148C'),
             cjk_font=cjk_font,
             fallback_text=f"#{hex_mute_numero}",
-            hex_numero=hex_mute_numero
+            hex_numero=hex_mute_numero,
+            is_mutation=True
         )
         
         nom_mut = f"{hex_mute_data.get('nom_pinyin', '')} - {hex_mute_data.get('nom_fr', '')}"
@@ -1419,16 +1427,27 @@ with st.sidebar:
         import os
         script_dir = os.path.dirname(os.path.abspath(__file__))
         
-        # Vérifier les images pré-générées
+        # Vérifier les images pré-générées (marron)
         char_images_dir = os.path.join(script_dir, 'char_images')
         if os.path.exists(char_images_dir):
             num_images = len([f for f in os.listdir(char_images_dir) if f.endswith('.png')])
             if num_images >= 64:
-                st.success(f"✓ Images pré-générées: {num_images}/64")
+                st.success(f"✓ Images (marron): {num_images}/64")
             else:
-                st.warning(f"⚠ Images pré-générées: {num_images}/64")
+                st.warning(f"⚠ Images (marron): {num_images}/64")
         else:
             st.error("✗ Dossier char_images manquant")
+        
+        # Vérifier les images mutation (violet)
+        char_mut_dir = os.path.join(script_dir, 'char_images_mutation')
+        if os.path.exists(char_mut_dir):
+            num_mut = len([f for f in os.listdir(char_mut_dir) if f.endswith('.png')])
+            if num_mut >= 64:
+                st.success(f"✓ Images (violet): {num_mut}/64")
+            else:
+                st.warning(f"⚠ Images (violet): {num_mut}/64")
+        else:
+            st.warning("⚠ Dossier char_images_mutation manquant")
         
         # Forcer l'initialisation pour avoir le diagnostic
         init_cjk_font()
