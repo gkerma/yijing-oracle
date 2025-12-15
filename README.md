@@ -1,39 +1,33 @@
-# 易經 Yi Jing Oracle v2.1 - Streamlit App
+# 易經 Yi Jing Oracle v2.2 - Streamlit App
 
-Application web de consultation du Yi Jing avec méditation **Kasina KBS** (Mindplace).
+Application web complète de consultation du Yi Jing avec animations, textes complets et méditation Kasina.
 
-## 🧘 Méditation Kasina / AVS
+## ✨ Nouveautés v2.2
 
-Génère des sessions au format **KBS (Kasina Basic Session)** officiel Mindplace :
+### 🎮 Animation entre les grilles
+- Transition fluide hexagramme principal ↔ mutation
+- Boutons de navigation interactifs
+- Mode animation automatique (2 secondes)
 
-- **Fichier .kbs** : Format natif pour Kasina/Limina
-- **Audio WAV binaural** : Battements binauraux stéréo (casque requis)
+### 📜 Textes complets
+- **Description** de l'hexagramme
+- **Le Jugement** (texte traditionnel)
+- **L'Image** (conseil pratique)
+- **Les 6 traits** avec textes individuels
+- **Traits mutants** mis en évidence
 
-### Structure de la méditation (5 min)
+### 📄 PDF détaillé (3-5 pages)
+- Page 1 : Hexagramme principal, trigrammes, grille
+- Page 2 : Jugement, Image, interprétation générale
+- Page 3 : Les 6 traits avec textes complets
+- Page 4 : Traits mutants (si présents)
+- Page 5 : Hexagramme de mutation (si applicable)
 
-| Phase | Durée | État | Fréquence |
-|-------|-------|------|-----------|
-| Ancrage | 1 min | Alpha 10 Hz | 432 Hz |
-| Trigramme Bas | 1.5 min | Theta 7 Hz | Variable |
-| Trigramme Haut | 1.5 min | Theta 5 Hz | Variable |
-| Intégration | 1 min | Alpha 8 Hz | 528 Hz |
+### 🧘 Méditation Kasina KBS
+- Format officiel Mindplace
+- Audio binaural stéréo
 
-### Paramètres KBS
-
-- `ColorControlMode=3` : RGB personnalisé par segment
-- `SAMDpth=0` : Binaural pur (pas d'isochronique)
-- `LgtModWF=Sine` : Onde sinusoïdale pour relaxation
-- Couleurs basées sur les trigrammes et principes AVS
-
-## 🚀 Déploiement
-
-### Streamlit Cloud
-
-1. Push vers GitHub
-2. Connecter sur [share.streamlit.io](https://share.streamlit.io)
-3. Déployer avec `app.py` comme fichier principal
-
-### Local
+## 🚀 Installation
 
 ```bash
 pip install -r requirements.txt
@@ -43,27 +37,22 @@ streamlit run app.py
 ## 📁 Structure
 
 ```
-├── app.py                    # Application Streamlit
-├── yijing_complet.json       # 64 hexagrammes
+├── app.py                    # Application Streamlit (1500+ lignes)
+├── yijing_complet.json       # 64 hexagrammes complets
 ├── requirements.txt
 ├── .streamlit/config.toml
 └── images/                   # 24 grilles PNG
 ```
 
-## ✨ Fonctionnalités
+## 📦 Exports disponibles
 
-- 🎲 Tirage aléatoire ou manuel
-- 📜 Textes traditionnels complets
-- 🎮 Grilles La Livrée d'Hermès (couleurs préservées)
-- 📄 PDF avec caractères chinois
-- 🎵 Audio 432 Hz
-- 🧘 **Session Kasina KBS** avec battements binauraux
-
-## 📚 Références
-
-- Documentation KBS v2 Mindplace
-- AVS Technology (Ayrmetes Advanced Cognitive Technologies)
-- Frequency Following Response (FFR)
+| Export | Format | Contenu |
+|--------|--------|---------|
+| Audio tirage | WAV | Fréquences sacrées 432 Hz |
+| Rapport PDF | PDF | 3-5 pages détaillées |
+| Session Kasina | KBS | Format Mindplace |
+| Audio binaural | WAV | Battements binauraux |
+| Grilles | PNG | Images haute qualité |
 
 ## 📝 Crédits
 
