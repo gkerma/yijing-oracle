@@ -6,10 +6,25 @@ from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
 import os
 
+# Variable globale pour stocker le chemin de la police
+_FONT_PATH = None
+
+def set_font_path(path):
+    """Définit le chemin de la police à utiliser"""
+    global _FONT_PATH
+    _FONT_PATH = path
+
 def get_cjk_font_for_pil():
     """Trouve une police CJK pour PIL"""
+    global _FONT_PATH
+    
+    # Si un chemin a été défini explicitement, l'utiliser
+    if _FONT_PATH and os.path.exists(_FONT_PATH):
+        return _FONT_PATH
+    
+    # Sinon, chercher dans les emplacements standards
     font_paths = [
-        # Police embarquée
+        # Police embarquée (relatif au script appelant)
         os.path.join(os.path.dirname(__file__), 'fonts', 'ipag.ttf'),
         # Linux
         '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc',
@@ -28,7 +43,7 @@ def get_cjk_font_for_pil():
             return path
     return None
 
-def create_character_image(char, size=100, color='#2F4F4F', bg_color=None):
+def create_character_image(char, size=100, color='#2F4F4F', bg_color=None, font_path=None):
     """
     Crée une image PNG d'un caractère chinois
     
@@ -37,20 +52,25 @@ def create_character_image(char, size=100, color='#2F4F4F', bg_color=None):
         size: Taille de la police
         color: Couleur du texte (hex)
         bg_color: Couleur de fond (None = transparent)
+        font_path: Chemin explicite vers la police (optionnel)
     
     Returns:
         BytesIO contenant l'image PNG, ou None si échec
     """
-    font_path = get_cjk_font_for_pil()
-    if not font_path:
+    # Utiliser le chemin explicite si fourni
+    if font_path and os.path.exists(font_path):
+        actual_font_path = font_path
+    else:
+        actual_font_path = get_cjk_font_for_pil()
+    
+    if not actual_font_path:
         return None
     
     try:
         # Créer la police
-        font = ImageFont.truetype(font_path, size)
+        font = ImageFont.truetype(actual_font_path, size)
         
         # Calculer la taille du texte
-        # Utiliser getbbox pour obtenir les dimensions
         bbox = font.getbbox(char)
         text_width = bbox[2] - bbox[0]
         text_height = bbox[3] - bbox[1]
