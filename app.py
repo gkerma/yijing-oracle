@@ -3,7 +3,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                     易經 YI JING ORACLE v2.2                                 ║
-║                    Application Streamlit Multilingue                         ║
+║                    Application Streamlit                                     ║
 ║         Grilles animées • Textes complets • PDF détaillé • Kasina KBS       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
@@ -25,9 +25,6 @@ from reportlab.lib.colors import HexColor, white, black
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
-
-# Import des traductions
-from translations import t, LANGUAGES
 
 # Import du module pour les images de caractères (fallback)
 try:
@@ -594,8 +591,8 @@ def draw_text_box(c, x, y, width, height, title, content, title_color, bg_color,
         c.drawString(x + 4*mm, text_y, line)
         text_y -= 3.5*mm
 
-def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, grille_img, grille_mut_img=None, lang='fr'):
-    """Génère un rapport PDF complet multi-pages avec support multilingue"""
+def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, grille_img, grille_mut_img=None):
+    """Génère un rapport PDF complet multi-pages"""
     buffer = BytesIO()
     width, height = A4
     margin = 15 * mm
@@ -628,7 +625,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     c.setFont("Helvetica-Bold", 24)
     c.drawCentredString(width/2, height - 14*mm, "易經 Yi Jing Oracle")
     c.setFont("Helvetica", 10)
-    c.drawCentredString(width/2, height - 22*mm, t('pdf_title', lang))
+    c.drawCentredString(width/2, height - 22*mm, "Rapport de Consultation Détaillé")
     c.setFont("Helvetica", 8)
     c.drawCentredString(width/2, height - 30*mm, datetime.datetime.now().strftime("%d/%m/%Y à %H:%M"))
     
@@ -641,7 +638,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         c.roundRect(margin, y - 15*mm, width - 2*margin, 15*mm, 3, fill=1, stroke=1)
         c.setFillColor(gris)
         c.setFont("Helvetica-Bold", 9)
-        c.drawString(margin + 4*mm, y - 5*mm, t('your_question', lang) + " :")
+        c.drawString(margin + 4*mm, y - 5*mm, "Question posée :")
         c.setFont("Helvetica", 8)
         question_text = (question[:100] + "...") if len(question) > 100 else question
         c.drawString(margin + 4*mm, y - 11*mm, question_text)
@@ -655,7 +652,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(marron)
     c.setFont("Helvetica-Bold", 14)
-    c.drawCentredString(width/2, y - 10*mm, f"{t('hexagram', lang).upper()} {hex_numero}")
+    c.drawCentredString(width/2, y - 10*mm, f"HEXAGRAMME {hex_numero}")
     
     # Afficher le caractère chinois (avec fallback automatique)
     caractere = hex_data.get('caractere', '')
@@ -691,34 +688,34 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(bleu)
     c.setFont("Helvetica-Bold", 9)
-    c.drawString(margin + 4*mm, y - 6*mm, f"☰ {t('upper_trigram', lang)}")
+    c.drawString(margin + 4*mm, y - 6*mm, f"☰ Trigramme Supérieur")
     c.setFont("Helvetica", 8)
     c.setFillColor(gris)
     c.drawString(margin + 4*mm, y - 12*mm, f"{trig_h_info.get('symbole', '')} {trig_haut} - {trig_h_info.get('element', '')}")
     c.drawString(margin + 4*mm, y - 17*mm, f"{trig_h_info.get('freq', 0)} Hz - {hex_data.get('trigramme_haut_desc', '')[:35]}")
-    c.drawString(margin + 4*mm, y - 22*mm, f"{t('nature', lang)}: {trig_h_info.get('nature', '')}")
+    c.drawString(margin + 4*mm, y - 22*mm, f"Nature: {trig_h_info.get('nature', '')}")
     
     c.setFillColor(bleu)
     c.setFont("Helvetica-Bold", 9)
     tx = margin + (width - 2*margin + 5*mm)/2 + 4*mm
-    c.drawString(tx, y - 6*mm, f"☷ {t('lower_trigram', lang)}")
+    c.drawString(tx, y - 6*mm, f"☷ Trigramme Inférieur")
     c.setFont("Helvetica", 8)
     c.setFillColor(gris)
     c.drawString(tx, y - 12*mm, f"{trig_b_info.get('symbole', '')} {trig_bas} - {trig_b_info.get('element', '')}")
     c.drawString(tx, y - 17*mm, f"{trig_b_info.get('freq', 0)} Hz - {hex_data.get('trigramme_bas_desc', '')[:35]}")
-    c.drawString(tx, y - 22*mm, f"{t('nature', lang)}: {trig_b_info.get('nature', '')}")
+    c.drawString(tx, y - 22*mm, f"Nature: {trig_b_info.get('nature', '')}")
     y -= 32*mm
     
     # Traits tirés
     c.setFillColor(gris)
     c.setFont("Helvetica-Bold", 10)
-    c.drawString(margin, y, t('traits_frequencies', lang) + " :")
+    c.drawString(margin, y, "Traits tirés et fréquences :")
     y -= 6*mm
     
     for i in range(5, -1, -1):
-        trait_val = traits[i]
-        info = FREQ_TRAITS[trait_val]
-        is_mutant = trait_val in [6, 9]
+        t = traits[i]
+        info = FREQ_TRAITS[t]
+        is_mutant = t in [6, 9]
         
         if is_mutant:
             c.setFillColor(HexColor('#E0E0E0'))  # Gris clair pour meilleur contraste
@@ -770,7 +767,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     # Footer
     c.setFillColor(HexColor('#9E9E9E'))
     c.setFont("Helvetica", 6)
-    c.drawCentredString(width/2, 8*mm, f"Yi Jing Oracle v2.2 - {t('footer_credit', lang)} | {t('grids_credit', lang)} | {t('page', lang)} 1")
+    c.drawCentredString(width/2, 8*mm, "Yi Jing Oracle v2.2 - CyberMind.FR | Grilles: Anibal Edelbert Amiot | Page 1")
     
     # ==========================================================================
     # PAGE 2 : JUGEMENT ET IMAGE
@@ -780,7 +777,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(marron)
     c.setFont("Helvetica-Bold", 14)
-    c.drawCentredString(width/2, y, f"{t('hexagram', lang)} {hex_numero} - {t('traditional_texts', lang)}")
+    c.drawCentredString(width/2, y, f"Hexagramme {hex_numero} - Textes Traditionnels")
     y -= 15*mm
     
     # Le Jugement
@@ -795,7 +792,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         c.setFillColor(orange)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, t('judgment', lang).upper())
+        c.drawString(margin + 5*mm, y - 8*mm, "LE JUGEMENT")
         
         c.setFillColor(gris)
         c.setFont("Helvetica", 8)
@@ -812,11 +809,11 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         c.roundRect(margin, y - 25*mm, width - 2*margin, 25*mm, 5, fill=1, stroke=1)
         c.setFillColor(orange)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, t('judgment', lang).upper())
+        c.drawString(margin + 5*mm, y - 8*mm, "LE JUGEMENT")
         c.setFillColor(gris)
         c.setFont("Helvetica-Oblique", 8)
-        c.drawString(margin + 5*mm, y - 18*mm, t('judgment_not_available', lang))
-        c.drawString(margin + 5*mm, y - 23*mm, t('consult_complete', lang))
+        c.drawString(margin + 5*mm, y - 18*mm, "Texte du Jugement non disponible dans la base de donnees.")
+        c.drawString(margin + 5*mm, y - 23*mm, "Consultez une edition complete du Yi Jing pour ce texte.")
         y -= 33*mm
     
     # L'Image
@@ -831,7 +828,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         
         c.setFillColor(bleu)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, t('image', lang).upper())
+        c.drawString(margin + 5*mm, y - 8*mm, "L'IMAGE")
         
         c.setFillColor(gris)
         c.setFont("Helvetica", 8)
@@ -848,11 +845,11 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
         c.roundRect(margin, y - 25*mm, width - 2*margin, 25*mm, 5, fill=1, stroke=1)
         c.setFillColor(bleu)
         c.setFont("Helvetica-Bold", 11)
-        c.drawString(margin + 5*mm, y - 8*mm, t('image', lang).upper())
+        c.drawString(margin + 5*mm, y - 8*mm, "L'IMAGE")
         c.setFillColor(gris)
         c.setFont("Helvetica-Oblique", 8)
-        c.drawString(margin + 5*mm, y - 18*mm, t('image_not_available', lang))
-        c.drawString(margin + 5*mm, y - 23*mm, t('consult_complete', lang))
+        c.drawString(margin + 5*mm, y - 18*mm, "Texte de l'Image non disponible dans la base de donnees.")
+        c.drawString(margin + 5*mm, y - 23*mm, "Consultez une edition complete du Yi Jing pour ce texte.")
         y -= 33*mm
     
     # Interprétation générale
@@ -863,27 +860,27 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(violet)
     c.setFont("Helvetica-Bold", 10)
-    c.drawString(margin + 5*mm, y - 8*mm, t('general_interpretation', lang))
+    c.drawString(margin + 5*mm, y - 8*mm, "INTERPRETATION GÉNÉRALE")
     
     c.setFillColor(gris)
     c.setFont("Helvetica", 8)
     
-    has_mutation = any(tv in [6, 9] for tv in traits)
-    nb_mutants = sum(1 for tv in traits if tv in [6, 9])
+    has_mutation = any(t in [6, 9] for t in traits)
+    nb_mutants = sum(1 for t in traits if t in [6, 9])
     
     interp_lines = []
-    interp_lines.append(f"{t('hexagram_obtained', lang)}: {hex_numero} - {hex_data.get('nom_fr', '')}")
-    interp_lines.append(f"{t('combination', lang)}: {trig_haut} ({trig_h_info.get('element', '')}) {t('on', lang)} {trig_bas} ({trig_b_info.get('element', '')})")
+    interp_lines.append(f"Hexagramme obtenu: {hex_numero} - {hex_data.get('nom_fr', '')}")
+    interp_lines.append(f"Combinaison: {trig_haut} ({trig_h_info.get('element', '')}) sur {trig_bas} ({trig_b_info.get('element', '')})")
     
     if has_mutation:
         interp_lines.append(f"")
-        interp_lines.append(f"*** {nb_mutants} {t('mutant_traits_detected', lang)}")
-        interp_lines.append(f"{t('evolves_to', lang)}{hex_mute_numero}: {hex_mute_data.get('nom_fr', '')}")
-        interp_lines.append(t('read_mutant_traits', lang))
+        interp_lines.append(f"*** {nb_mutants} trait(s) mutant(s) détecté(s) - Situation en transformation")
+        interp_lines.append(f"L'hexagramme évolue vers le n°{hex_mute_numero}: {hex_mute_data.get('nom_fr', '')}")
+        interp_lines.append(f"Lisez attentivement les textes des traits mutants ci-après.")
     else:
         interp_lines.append(f"")
-        interp_lines.append(f"✓ {t('no_mutant_stable', lang)}")
-        interp_lines.append(t('message_applies', lang))
+        interp_lines.append(f"✓ Aucun trait mutant - Situation stable")
+        interp_lines.append(f"Le message de l'hexagramme s'applique tel quel.")
     
     text_y = y - 16*mm
     for line in interp_lines:
@@ -892,7 +889,7 @@ def generate_pdf_report_complete(traits, question, hex_data, hex_mute_data, gril
     
     c.setFillColor(HexColor('#9E9E9E'))
     c.setFont("Helvetica", 6)
-    c.drawCentredString(width/2, 8*mm, f"{t('page', lang)} 2")
+    c.drawCentredString(width/2, 8*mm, "Page 2")
     
     # ==========================================================================
     # PAGE 3 : TOUS LES TRAITS
@@ -1387,79 +1384,48 @@ if 'question' not in st.session_state:
     st.session_state.question = ""
 if 'grille_view' not in st.session_state:
     st.session_state.grille_view = 'principal'
-if 'lang' not in st.session_state:
-    st.session_state.lang = 'fr'
-
-# Fonction pour obtenir la langue courante
-def get_lang():
-    return st.session_state.get('lang', 'fr')
 
 # Header
-st.markdown(f"""
+st.markdown("""
 <div class="main-header">
-    <h1>{t('app_title', get_lang())} v2.2</h1>
-    <p>{t('app_subtitle', get_lang())}</p>
+    <h1>☯ 易經 Yi Jing Oracle v2.2</h1>
+    <p>Grilles animées • Textes complets • PDF détaillé • Méditation Kasina KBS</p>
 </div>
 """, unsafe_allow_html=True)
 
 # Sidebar
 with st.sidebar:
-    # Sélecteur de langue en haut
-    lang_options = list(LANGUAGES.keys())
-    lang_labels = list(LANGUAGES.values())
-    current_idx = lang_options.index(get_lang()) if get_lang() in lang_options else 0
-    
-    selected_lang = st.selectbox(
-        t('language', get_lang()),
-        options=lang_options,
-        format_func=lambda x: LANGUAGES[x],
-        index=current_idx,
-        key="lang_selector"
-    )
-    if selected_lang != st.session_state.lang:
-        st.session_state.lang = selected_lang
-        st.rerun()
-    
-    lang = get_lang()
-    
-    st.divider()
-    st.header(t('sidebar_title', lang))
-    question = st.text_area(
-        t('your_question', lang), 
-        placeholder=t('question_placeholder', lang), 
-        height=100
-    )
+    st.header("🎴 Consultation")
+    question = st.text_area("Votre question :", placeholder="Formulez votre question avec intention...", height=100)
     st.divider()
     
-    mode_random = "🎲 " + ("Tirage aléatoire" if lang == "fr" else "Random" if lang == "en" else "Zufall" if lang == "de" else "Aleatorio" if lang == "es" else "随机")
-    mode_manual = "✏️ " + ("Saisie manuelle" if lang == "fr" else "Manual" if lang == "en" else "Manuell" if lang == "de" else "Manual" if lang == "es" else "手动")
-    mode = st.radio("Mode :", [mode_random, mode_manual])
+    mode = st.radio("Mode de tirage :", ["🎲 Tirage aléatoire", "✏️ Saisie manuelle"])
     
-    if mode == mode_manual:
+    if mode == "✏️ Saisie manuelle":
         st.caption("Traits (6=Yin mut, 7=Yang, 8=Yin, 9=Yang mut)")
         cols = st.columns(6)
         manual_traits = []
         for i, col in enumerate(cols):
             with col:
-                tr = st.selectbox(f"{i+1}", [6, 7, 8, 9], index=1, key=f"t{i}")
-                manual_traits.append(tr)
+                t = st.selectbox(f"{i+1}", [6, 7, 8, 9], index=1, key=f"t{i}")
+                manual_traits.append(t)
     
     st.divider()
     
-    if st.button(t('throw_coins', lang), type="primary", use_container_width=True):
+    if st.button("🎴 Consulter l'Oracle", type="primary", use_container_width=True):
         st.session_state.question = question
-        if mode == mode_random:
+        if mode == "🎲 Tirage aléatoire":
             st.session_state.traits = [tirer_trait() for _ in range(6)]
         else:
             st.session_state.traits = manual_traits
         st.session_state.grille_view = 'principal'
     
     st.divider()
-    json_path = st.text_input("📄 JSON :", value="yijing_complet.json")
-    images_dir = st.text_input("📁 Images :", value="images")
+    json_path = st.text_input("📄 Fichier JSON :", value="yijing_complet.json")
+    images_dir = st.text_input("📁 Dossier images :", value="images")
     
     # Diagnostic police CJK
-    with st.expander(t('diagnostic_title', lang)):
+    with st.expander("🔧 Diagnostic Police CJK"):
         import os
         script_dir = os.path.dirname(os.path.abspath(__file__))
         
@@ -1468,41 +1434,38 @@ with st.sidebar:
         if os.path.exists(char_images_dir):
             num_images = len([f for f in os.listdir(char_images_dir) if f.endswith('.png')])
             if num_images >= 64:
-                st.success(f"✓ {t('images_brown', lang)}: {num_images}/64")
+                st.success(f"✓ Images (marron): {num_images}/64")
             else:
-                st.warning(f"⚠ {t('images_brown', lang)}: {num_images}/64")
+                st.warning(f"⚠ Images (marron): {num_images}/64")
         else:
-            st.error(f"✗ {t('folder_missing', lang)}: char_images")
+            st.error("✗ Dossier char_images manquant")
         
         # Vérifier les images mutation (violet)
         char_mut_dir = os.path.join(script_dir, 'char_images_mutation')
         if os.path.exists(char_mut_dir):
             num_mut = len([f for f in os.listdir(char_mut_dir) if f.endswith('.png')])
             if num_mut >= 64:
-                st.success(f"✓ {t('images_purple', lang)}: {num_mut}/64")
+                st.success(f"✓ Images (violet): {num_mut}/64")
             else:
-                st.warning(f"⚠ {t('images_purple', lang)}: {num_mut}/64")
+                st.warning(f"⚠ Images (violet): {num_mut}/64")
         else:
-            st.warning(f"⚠ {t('folder_missing', lang)}: char_images_mutation")
+            st.warning("⚠ Dossier char_images_mutation manquant")
         
         # Forcer l'initialisation pour avoir le diagnostic
         init_cjk_font()
         cjk_status = get_cjk_font_status()
         
         if cjk_status['font_name']:
-            st.info(f"{t('reportlab_font', lang)}: {cjk_status['font_name']}")
+            st.info(f"Police ReportLab: {cjk_status['font_name']}")
         else:
-            st.caption(f"{t('reportlab_font', lang)}: {t('not_available', lang)}")
+            st.caption("Police ReportLab: non disponible")
         
-        st.caption(f"{t('embedded_font', lang)}: {cjk_status['embedded_exists']}")
+        st.caption(f"Police embarquée: {cjk_status['embedded_exists']}")
         if cjk_status.get('embedded_size'):
-            st.caption(f"{t('size', lang)}: {cjk_status['embedded_size'] / 1024 / 1024:.1f} MB")
+            st.caption(f"Taille: {cjk_status['embedded_size'] / 1024 / 1024:.1f} MB")
 
 # Charger données
 yijing_data = load_yijing_data(json_path)
-
-# Langue courante pour le reste de l'application
-lang = get_lang()
 
 # Contenu principal
 if st.session_state.traits is not None:
@@ -1831,35 +1794,35 @@ if st.session_state.traits is not None:
                                    f"yijing-audio-hex{hex_numero}.wav", "audio/wav")
     
     with exp_col2:
-        st.markdown(f"#### 📄 {t('download_pdf', lang).replace('📥 ', '')}")
-        if st.button("📄 PDF", use_container_width=True):
-            with st.spinner(t('throwing', lang)):
+        st.markdown("#### 📄 Rapport PDF Complet")
+        if st.button("📄 Générer PDF", use_container_width=True):
+            with st.spinner("Génération du rapport détaillé..."):
                 grille = generer_grille(traits, images_path, mutation=False) if images_path.exists() else None
                 grille_mut = generer_grille(traits, images_path, mutation=True) if (images_path.exists() and hex_mute_numero) else None
                 pdf_data = generate_pdf_report_complete(traits, st.session_state.question, 
-                                                        hex_data, hex_mute_data, grille, grille_mut, lang=lang)
-                st.download_button(t('download_pdf', lang), pdf_data, 
-                                   f"{t('pdf_filename', lang)}-hex{hex_numero}.pdf", "application/pdf")
-                st.success("✅ PDF OK")
+                                                        hex_data, hex_mute_data, grille, grille_mut)
+                st.download_button("📥 Télécharger PDF", pdf_data, 
+                                   f"yijing-rapport-complet-hex{hex_numero}.pdf", "application/pdf")
+                st.success("✅ Rapport PDF complet généré (3-5 pages)")
     
     with exp_col3:
-        st.markdown(f"#### 🧘 {t('kasina_title', lang).replace('🧘 ', '')}")
-        if st.button("🧘 Kasina", use_container_width=True):
-            with st.spinner(t('throwing', lang)):
+        st.markdown("#### 🧘 Méditation Kasina")
+        if st.button("🧘 Générer Kasina", use_container_width=True):
+            with st.spinner("Génération session Kasina..."):
                 kbs_content, segments = generate_kbs_session(hex_data)
                 kasina_audio = generate_kasina_audio(segments)
                 
-                st.success("✅ Kasina OK")
+                st.success("✅ Session Kasina générée!")
                 
                 kcol1, kcol2 = st.columns(2)
                 with kcol1:
-                    st.download_button(t('download_kasina', lang), kbs_content,
-                                       f"{t('kasina_filename', lang)}-hex{hex_numero}.kbs", "text/plain")
+                    st.download_button("📋 Fichier KBS", kbs_content,
+                                       f"yijing-hex{hex_numero}.kbs", "text/plain")
                 with kcol2:
                     audio_buffer = BytesIO()
                     wavfile.write(audio_buffer, 44100, kasina_audio)
-                    st.download_button(t('download_audio', lang), audio_buffer.getvalue(),
-                                       f"{t('audio_filename', lang)}-hex{hex_numero}.wav", "audio/wav")
+                    st.download_button("🎧 Audio Binaural", audio_buffer.getvalue(),
+                                       f"yijing-kasina-hex{hex_numero}.wav", "audio/wav")
 
 else:
     # Page d'accueil
