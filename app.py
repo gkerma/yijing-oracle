@@ -133,23 +133,28 @@ KASINA_RGB = {
 # ============================================================================
 
 @st.cache_data
-def load_yijing_data(json_path, lang='fr'):
-    """Charge les données Yi Jing dans la langue appropriée"""
+@st.cache_data
+def load_yijing_data(lang='fr'):
+    """Charge les données Yi Jing dans la langue appropriée (avec cache)"""
     import os
     
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    
     # Déterminer le fichier à charger selon la langue
-    if lang != 'fr':
-        # Chercher le fichier traduit
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        lang_file = os.path.join(base_dir, f'yijing_{lang}.json')
-        if os.path.exists(lang_file):
-            json_path = lang_file
+    if lang == 'fr':
+        json_file = os.path.join(base_dir, 'yijing_complet.json')
+    else:
+        json_file = os.path.join(base_dir, f'yijing_{lang}.json')
+        # Fallback vers français si le fichier n'existe pas
+        if not os.path.exists(json_file):
+            json_file = os.path.join(base_dir, 'yijing_complet.json')
     
     try:
-        with open(json_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data
     except FileNotFoundError:
-        st.warning(f"⚠️ Fichier JSON non trouvé: {json_path}")
+        st.warning(f"⚠️ Fichier JSON non trouvé: {json_file}")
         return {"hexagrammes": []}
 
 def get_hex_from_json(yijing_data, numero):
@@ -1405,11 +1410,14 @@ if 'lang' not in st.session_state:
 def get_lang():
     return st.session_state.get('lang', 'fr')
 
-# Header
+# Header avec indicateur de langue
+lang_flags = {'fr': '🇫🇷', 'en': '🇬🇧', 'de': '🇩🇪', 'es': '🇪🇸', 'zh': '🇨🇳'}
+current_flag = lang_flags.get(get_lang(), '🌐')
+
 st.markdown(f"""
 <div class="main-header">
-    <h1>{t('app_title', get_lang())} v2.2</h1>
-    <p>{t('app_subtitle', get_lang())}</p>
+    <h1>{t('app_title', get_lang())} v2.3</h1>
+    <p>{t('app_subtitle', get_lang())} {current_flag}</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -1466,7 +1474,18 @@ with st.sidebar:
         st.session_state.grille_view = 'principal'
     
     st.divider()
-    json_path = st.text_input("📄 JSON :", value="yijing_complet.json")
+    
+    # Afficher le fichier JSON chargé selon la langue
+    json_file_info = {
+        'fr': 'yijing_complet.json',
+        'en': 'yijing_en.json',
+        'de': 'yijing_de.json', 
+        'es': 'yijing_es.json',
+        'zh': 'yijing_zh.json'
+    }
+    current_json = json_file_info.get(lang, 'yijing_complet.json')
+    st.caption(f"📄 {current_json}")
+    
     images_dir = st.text_input("📁 Images :", value="images")
     
     # Diagnostic police CJK
@@ -1511,7 +1530,7 @@ with st.sidebar:
 
 # Charger données dans la langue courante
 lang = get_lang()
-yijing_data = load_yijing_data(json_path, lang)
+yijing_data = load_yijing_data(lang)
 
 # Contenu principal
 if st.session_state.traits is not None:
