@@ -3,6 +3,98 @@
 Traductions multilingues pour Yi Jing Oracle
 """
 
+# Traductions des noms des 64 hexagrammes
+HEX_NAMES = {
+    1: {"fr": "Le Créateur", "en": "The Creative", "de": "Das Schöpferische", "es": "Lo Creativo", "zh": "创造"},
+    2: {"fr": "Le Réceptif", "en": "The Receptive", "de": "Das Empfangende", "es": "Lo Receptivo", "zh": "接受"},
+    3: {"fr": "La Difficulté Initiale", "en": "Difficulty at the Beginning", "de": "Die Anfangsschwierigkeit", "es": "La Dificultad Inicial", "zh": "初难"},
+    4: {"fr": "La Folie Juvénile", "en": "Youthful Folly", "de": "Die Jugendtorheit", "es": "La Necedad Juvenil", "zh": "蒙昧"},
+    5: {"fr": "L'Attente", "en": "Waiting", "de": "Das Warten", "es": "La Espera", "zh": "等待"},
+    6: {"fr": "Le Conflit", "en": "Conflict", "de": "Der Streit", "es": "El Conflicto", "zh": "争讼"},
+    7: {"fr": "L'Armée", "en": "The Army", "de": "Das Heer", "es": "El Ejército", "zh": "军队"},
+    8: {"fr": "La Solidarité", "en": "Holding Together", "de": "Das Zusammenhalten", "es": "La Solidaridad", "zh": "团结"},
+    9: {"fr": "Petit Apprivoisement", "en": "Small Taming", "de": "Des Kleinen Zähmungskraft", "es": "La Fuerza Domesticadora Pequeña", "zh": "小蓄"},
+    10: {"fr": "La Marche", "en": "Treading", "de": "Das Auftreten", "es": "El Porte", "zh": "践行"},
+    11: {"fr": "La Paix", "en": "Peace", "de": "Der Friede", "es": "La Paz", "zh": "和平"},
+    12: {"fr": "La Stagnation", "en": "Standstill", "de": "Die Stockung", "es": "El Estancamiento", "zh": "闭塞"},
+    13: {"fr": "La Communauté", "en": "Fellowship", "de": "Gemeinschaft mit Menschen", "es": "La Comunidad", "zh": "同人"},
+    14: {"fr": "Le Grand Avoir", "en": "Great Possession", "de": "Der Besitz von Großem", "es": "La Gran Posesión", "zh": "大有"},
+    15: {"fr": "L'Humilité", "en": "Modesty", "de": "Die Bescheidenheit", "es": "La Modestia", "zh": "谦逊"},
+    16: {"fr": "L'Enthousiasme", "en": "Enthusiasm", "de": "Die Begeisterung", "es": "El Entusiasmo", "zh": "愉悦"},
+    17: {"fr": "La Suite", "en": "Following", "de": "Die Nachfolge", "es": "El Seguimiento", "zh": "随从"},
+    18: {"fr": "Le Travail sur le Corrompu", "en": "Work on the Decayed", "de": "Die Arbeit am Verdorbenen", "es": "El Trabajo en lo Echado a Perder", "zh": "蛊惑"},
+    19: {"fr": "L'Approche", "en": "Approach", "de": "Die Annäherung", "es": "El Acercamiento", "zh": "临近"},
+    20: {"fr": "La Contemplation", "en": "Contemplation", "de": "Die Betrachtung", "es": "La Contemplación", "zh": "观察"},
+    21: {"fr": "Mordre au Travers", "en": "Biting Through", "de": "Das Durchbeißen", "es": "La Mordedura Tajante", "zh": "噬嗑"},
+    22: {"fr": "La Grâce", "en": "Grace", "de": "Die Anmut", "es": "La Gracia", "zh": "文饰"},
+    23: {"fr": "L'Éclatement", "en": "Splitting Apart", "de": "Die Zersplitterung", "es": "La Desintegración", "zh": "剥落"},
+    24: {"fr": "Le Retour", "en": "Return", "de": "Die Wiederkehr", "es": "El Retorno", "zh": "复归"},
+    25: {"fr": "L'Innocence", "en": "Innocence", "de": "Die Unschuld", "es": "La Inocencia", "zh": "无妄"},
+    26: {"fr": "Grand Apprivoisement", "en": "Great Taming", "de": "Des Großen Zähmungskraft", "es": "La Gran Fuerza Domesticadora", "zh": "大蓄"},
+    27: {"fr": "La Nourriture", "en": "Nourishment", "de": "Die Ernährung", "es": "Las Comisuras de la Boca", "zh": "颐养"},
+    28: {"fr": "La Prépondérance du Grand", "en": "Great Excess", "de": "Des Großen Übergewicht", "es": "La Preponderancia de lo Grande", "zh": "大过"},
+    29: {"fr": "L'Insondable", "en": "The Abysmal", "de": "Das Abgründige", "es": "Lo Abismal", "zh": "坎险"},
+    30: {"fr": "Ce qui s'Attache", "en": "The Clinging", "de": "Das Haftende", "es": "Lo Adherente", "zh": "附丽"},
+    31: {"fr": "L'Influence", "en": "Influence", "de": "Die Einwirkung", "es": "El Influjo", "zh": "感应"},
+    32: {"fr": "La Durée", "en": "Duration", "de": "Die Dauer", "es": "La Duración", "zh": "恒久"},
+    33: {"fr": "La Retraite", "en": "Retreat", "de": "Der Rückzug", "es": "La Retirada", "zh": "遁逃"},
+    34: {"fr": "La Puissance du Grand", "en": "Great Power", "de": "Des Großen Macht", "es": "El Poder de lo Grande", "zh": "大壮"},
+    35: {"fr": "Le Progrès", "en": "Progress", "de": "Der Fortschritt", "es": "El Progreso", "zh": "进步"},
+    36: {"fr": "L'Obscurcissement de la Lumière", "en": "Darkening of the Light", "de": "Die Verfinsterung des Lichts", "es": "El Oscurecimiento de la Luz", "zh": "明夷"},
+    37: {"fr": "La Famille", "en": "The Family", "de": "Die Sippe", "es": "La Familia", "zh": "家人"},
+    38: {"fr": "L'Opposition", "en": "Opposition", "de": "Der Gegensatz", "es": "El Antagonismo", "zh": "睽违"},
+    39: {"fr": "L'Obstacle", "en": "Obstruction", "de": "Die Hemmung", "es": "El Impedimento", "zh": "蹇难"},
+    40: {"fr": "La Libération", "en": "Deliverance", "de": "Die Befreiung", "es": "La Liberación", "zh": "解脱"},
+    41: {"fr": "La Diminution", "en": "Decrease", "de": "Die Minderung", "es": "La Merma", "zh": "损减"},
+    42: {"fr": "L'Augmentation", "en": "Increase", "de": "Die Mehrung", "es": "El Aumento", "zh": "增益"},
+    43: {"fr": "La Percée", "en": "Breakthrough", "de": "Der Durchbruch", "es": "La Resolución", "zh": "决断"},
+    44: {"fr": "Venir à la Rencontre", "en": "Coming to Meet", "de": "Das Entgegenkommen", "es": "Ir al Encuentro", "zh": "相遇"},
+    45: {"fr": "Le Rassemblement", "en": "Gathering Together", "de": "Die Sammlung", "es": "La Reunión", "zh": "聚集"},
+    46: {"fr": "La Poussée vers le Haut", "en": "Pushing Upward", "de": "Das Empordringen", "es": "La Subida", "zh": "上升"},
+    47: {"fr": "L'Accablement", "en": "Oppression", "de": "Die Bedrängnis", "es": "El Agotamiento", "zh": "困顿"},
+    48: {"fr": "Le Puits", "en": "The Well", "de": "Der Brunnen", "es": "El Pozo", "zh": "井泉"},
+    49: {"fr": "La Révolution", "en": "Revolution", "de": "Die Umwälzung", "es": "La Revolución", "zh": "变革"},
+    50: {"fr": "Le Chaudron", "en": "The Cauldron", "de": "Der Tiegel", "es": "El Caldero", "zh": "鼎器"},
+    51: {"fr": "L'Éveilleur", "en": "The Arousing", "de": "Das Erregende", "es": "Lo Suscitativo", "zh": "震动"},
+    52: {"fr": "L'Immobilisation", "en": "Keeping Still", "de": "Das Stillehalten", "es": "El Aquietamiento", "zh": "止静"},
+    53: {"fr": "Le Développement", "en": "Development", "de": "Die Entwicklung", "es": "La Evolución", "zh": "渐进"},
+    54: {"fr": "L'Épousée", "en": "The Marrying Maiden", "de": "Das heiratende Mädchen", "es": "La Desposada", "zh": "归妹"},
+    55: {"fr": "L'Abondance", "en": "Abundance", "de": "Die Fülle", "es": "La Plenitud", "zh": "丰盛"},
+    56: {"fr": "Le Voyageur", "en": "The Wanderer", "de": "Der Wanderer", "es": "El Viajero", "zh": "旅行"},
+    57: {"fr": "Le Doux", "en": "The Gentle", "de": "Das Sanfte", "es": "Lo Suave", "zh": "顺从"},
+    58: {"fr": "Le Serein", "en": "The Joyous", "de": "Das Heitere", "es": "Lo Sereno", "zh": "喜悦"},
+    59: {"fr": "La Dissolution", "en": "Dispersion", "de": "Die Auflösung", "es": "La Disolución", "zh": "涣散"},
+    60: {"fr": "La Limitation", "en": "Limitation", "de": "Die Beschränkung", "es": "La Restricción", "zh": "节制"},
+    61: {"fr": "La Vérité Intérieure", "en": "Inner Truth", "de": "Innere Wahrheit", "es": "La Verdad Interior", "zh": "中孚"},
+    62: {"fr": "Prépondérance du Petit", "en": "Small Excess", "de": "Des Kleinen Übergewicht", "es": "La Preponderancia de lo Pequeño", "zh": "小过"},
+    63: {"fr": "Après l'Accomplissement", "en": "After Completion", "de": "Nach der Vollendung", "es": "Después de la Consumación", "zh": "既济"},
+    64: {"fr": "Avant l'Accomplissement", "en": "Before Completion", "de": "Vor der Vollendung", "es": "Antes de la Consumación", "zh": "未济"},
+}
+
+# Traductions des trigrammes
+TRIGRAM_NAMES = {
+    "K'ien": {"fr": "Le Créateur, le Ciel", "en": "The Creative, Heaven", "de": "Das Schöpferische, der Himmel", "es": "Lo Creativo, el Cielo", "zh": "乾 - 天"},
+    "K'ouen": {"fr": "Le Réceptif, la Terre", "en": "The Receptive, Earth", "de": "Das Empfangende, die Erde", "es": "Lo Receptivo, la Tierra", "zh": "坤 - 地"},
+    "Tchen": {"fr": "L'Éveilleur, le Tonnerre", "en": "The Arousing, Thunder", "de": "Das Erregende, der Donner", "es": "Lo Suscitativo, el Trueno", "zh": "震 - 雷"},
+    "K'an": {"fr": "L'Insondable, l'Eau", "en": "The Abysmal, Water", "de": "Das Abgründige, das Wasser", "es": "Lo Abismal, el Agua", "zh": "坎 - 水"},
+    "Ken": {"fr": "L'Immobilisation, la Montagne", "en": "Keeping Still, Mountain", "de": "Das Stillehalten, der Berg", "es": "El Aquietamiento, la Montaña", "zh": "艮 - 山"},
+    "Souen": {"fr": "Le Doux, le Vent", "en": "The Gentle, Wind", "de": "Das Sanfte, der Wind", "es": "Lo Suave, el Viento", "zh": "巽 - 风"},
+    "Li": {"fr": "Ce qui s'Attache, le Feu", "en": "The Clinging, Fire", "de": "Das Haftende, das Feuer", "es": "Lo Adherente, el Fuego", "zh": "离 - 火"},
+    "Touei": {"fr": "Le Joyeux, le Lac", "en": "The Joyous, Lake", "de": "Das Heitere, der See", "es": "Lo Sereno, el Lago", "zh": "兑 - 泽"},
+}
+
+def get_hex_name(numero: int, lang: str = "fr") -> str:
+    """Retourne le nom traduit d'un hexagramme"""
+    if numero in HEX_NAMES:
+        return HEX_NAMES[numero].get(lang, HEX_NAMES[numero].get("fr", ""))
+    return ""
+
+def get_trigram_name(name: str, lang: str = "fr") -> str:
+    """Retourne le nom traduit d'un trigramme"""
+    if name in TRIGRAM_NAMES:
+        return TRIGRAM_NAMES[name].get(lang, TRIGRAM_NAMES[name].get("fr", ""))
+    return name
+
 TRANSLATIONS = {
     "fr": {
         # Général
