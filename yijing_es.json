@@ -12,14 +12,14 @@
       "nom_fr": "Lo Creativo",
       "caractere": "乾",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Les traits pleins correspondent à la puissance originelle yang qui est lumineuse, forte, spirituelle, active. L'hexagramme est uniformément fort de nature. En tant qu'aucune faiblesse ne s'attache à lui, il a pour propriété la force. Son image est le ciel. La force est représentée comme n'étant pas liée à des conditions spatiales déterminées : elle est par suite conçue comme mouvement. Ce qui est tenu pour le fondement de ce mouvement est le temps. L'hexagramme inclut donc également la puissance du temps et la puissance de la persévérance dans le temps, la durée. Dans l'interprétation de l'hexagramme il faut toujours considérer un double sens : le sens macrocosmique et l'action dans le monde des hommes. Appliqué aux événements de l'univers, ce signe exprime la puissante action créatrice de la divinité. Envisagé par rapport au monde des hommes, il désigne l'action créatrice des saints sages, du souverain ou guide des hommes qui, par sa puissance, éveille et développe leur nature supérie",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "El primer hexagrama está compuesto por seis líneas continuas. Estas líneas continuas representan el poder primordial, que es luminoso, activo, fuerte y espiritual. El hexagrama es consistentemente fuerte en carácter.",
       "jugement_titre": "",
-      "jugement_texte": "LO CREATIVO obra un éxito sublime, favoreciendo por la perseverancia.\n\nEl movimiento del cielo es poderoso. Así el hombre noble se hace fuerte e incansable.\n\nEl hexagrama es uniformemente fuerte por naturaleza. Puesto que ninguna debilidad le es propia, tiene como cualidad la fuerza. Su imagen es el cielo. La fuerza está representada como no ligada a condiciones espaciales determinadas: se concibe por lo tanto como movimiento. El tiempo es el fundamento de este movimiento.",
+      "jugement_texte": "LE CRÉATEUR opère une sublime réussite, favorisant par la persévérance.\n\nLe mouvement du ciel est puissant. Ainsi l'homme noble se rend fort et infatigable.\n\nL'hexagramme est uniformément fort de nature. En tant qu'aucune faiblesse ne s'y attache, il a pour propriété essentielle la force. Son image est le ciel. La force est représentée comme n'étant pas liée à des conditions spatiales déterminées : elle est par suite conçue comme mouvement. Le temps est le fondement de ce mouvement.",
       "image_titre": "",
-      "image_texte": "El movimiento del cielo es poderoso.\nAsí el hombre noble se hace fuerte e incansable.\n\nLa duración en el tiempo es la imagen de la fuerza propia de Lo Creativo. El sabio extrae de ella el modelo según el cual desarrolla sus cualidades, de modo a hacerlas duraderas. Elimina conscientemente todo lo inferior, todo lo vulgar. Así se vuelve incansable gracias a una limitación voluntaria de su campo de actividad.",
+      "image_texte": "Le mouvement du ciel est puissant.\nAinsi l'homme noble se rend fort et infatigable.\n\nLa durée dans le temps est l'image de la force telle qu'elle est propre au Créateur. Le sage y puise le modèle selon lequel il développe ses qualités, de façon à les rendre durables. Il élimine consciencieusement tout ce qui est inférieur, tout ce qui est vulgaire. Ainsi il devient infatigable grâce à une limitation volontaire de son champ d'activité.",
       "traits": [
         {
           "position": 1,
@@ -58,7 +58,9 @@
           "texte": "Dragon orgueilleux aura à se repentir. Lorsqu'un homme veut s'élever si haut qu'il perd le contact avec les autres hommes, il devient isolé, et cela le conduit fatalement à l'échec. Il y a là une mise en garde contre une aspiration titanesque qui va au-delà de ses propres forces. La conséquence en serait une chute brutale et profonde."
         }
       ],
-      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,"
+      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,",
+      "jugement": "LO CREATIVO obra un éxito sublime, favoreciendo por la perseverancia.\n\nSegún el significado original, los atributos sublimidad, potencial de éxito, poder de favorecer y perseverancia están emparejados. Cuando una persona obtiene este oráculo, significa que el éxito le llegará desde las profundidades primordiales del universo.",
+      "image": "El movimiento del cielo es poderoso.\nAsí el hombre noble se hace fuerte e incansable.\n\nComo solo hay un cielo, la duplicación del trigrama Ch'ien indica el movimiento del cielo."
     },
     {
       "numero": 2,
@@ -66,14 +68,14 @@
       "nom_fr": "Lo Receptivo",
       "caractere": "坤",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Les traits brisés correspondent à la puissance originelle du yin, qui est sombre, malléable, réceptive. La propriété de l'hexagramme est le don de soi i, son image est la terre. C'est le complément du créateur, son complément et non son opposé, car il ne le combat pas mais le complète. C'est la nature en face de l'esprit, la terre en face du ciel, le spatial en face du temporel, le féminin maternel en face du masculin paternel. Cependant, appliqué aux situations humaines, le principe de cette complémentarité ne se rencontre pas seulement dans les relations entre l'homme et la femme, mais aussi dans les rapports entre le prince et son ministre, le père et son fils; au sein de l'individu lui-même, cette dualité se retrouve dans la coexistence du spirituel et du sensible. On ne peut toutefois parler de véritable dualisme, car il existe entre les deux hexagrammes une claire relation hiérarchique. En soi, le réceptif est naturellement aussi important que le créateur, mais l'attribut de « do",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Este hexagrama está compuesto únicamente por líneas quebradas. La línea quebrada representa el poder primordial oscuro, cedente y receptivo del yin. El atributo del hexagrama es la devoción; su imagen es la tierra.",
       "jugement_titre": "",
-      "jugement_texte": "LO RECEPTIVO obra un éxito sublime, favoreciendo por la perseverancia de una yegua. Si el hombre noble emprende algo y quiere dirigir, se extravía; pero si sigue, encuentra guía.\n\nLa condición de la tierra es la devoción receptiva. Así el hombre noble de amplio carácter sostiene al mundo exterior.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "La condición de la tierra es la devoción receptiva.\nAsí el hombre noble de amplio carácter sostiene al mundo exterior.\n\nAsí como hay un solo cielo, también hay una sola tierra. Pero mientras que en el caso del cielo la duplicación del trigrama significa duración en el tiempo, en el caso de la tierra connota la solidez y extensión en el espacio, en virtud de las cuales la tierra puede sostener y preservar todas las cosas que viven y se mueven sobre ella.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -112,7 +114,9 @@
           "texte": "Dragons se battant dans le pré. Leur sang est noir et jaune. A la place supérieure, l'obscurité doit céder à la lumière. Si elle tente de se maintenir à une place qui n'est pas la sienne et de commander au lieu de servir, elle attire sur elle la colère du fort. Il en résulte un combat dans lequel elle s'effondre, non sans dommage pour les deux parties. Le dragon, symbole du ciel, vient combattre le faux dragon dont le principe terrestre a usurpé la figure. Le bleu sombre est la couleur du ciel, le jaune est la couleur de la terre. Par conséquent, lorsqu'il coule un sang noir et jaune, c'est un signe que ce combat contre nature entraîne' du dommage pour les deux forces fondamentales"
         }
       ],
-      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à"
+      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à",
+      "jugement": "LO RECEPTIVO obra un éxito sublime, favoreciendo por la perseverancia de una yegua. Si el hombre noble emprende algo y quiere dirigir, se extravía; pero si sigue, encuentra guía. Es favorable encontrar amigos en el oeste y el sur, renunciar a amigos en el este y el norte. La perseverancia tranquila trae buena fortuna.",
+      "image": "La condición de la tierra es la devoción receptiva.\nAsí el hombre noble de amplio carácter sostiene al mundo exterior."
     },
     {
       "numero": 3,
@@ -120,14 +124,14 @@
       "nom_fr": "La Dificultad Inicial",
       "caractere": "屯",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "Le nom de l'hexagramme, Tchouen, désigne proprement une herbe qui rencontre un obstacle dans son effort pour sortir de terre. De là vient le sens de « difficulté initiale ». L'hexagramme indique la maniéré dont le ciel et la terre produisent les êtres individuels. C'est leur première rencontre qui s'accompagne de difficulté Le trigramme inférieur, Tchen, est l'éveilleur; son mouvement est. dirigé vers le haut. Il a pour image le tonnerre. Le signe supérieur est K'an, l'insondable, le dangereux. Son mouvement va vers le bas. Il a pour image la pluie. La situation décrit par conséquent une profusion dense et chaotique. Le tonnerre et la pluie remplissent l'air. Mais le chaos s'éclaire : le mouvement qui est dirigé vers le haut tandis que l'insondable s'enfonce, se dégage finalement du danger. Les tensions se déchargent dans l'orage et tous les êtres respirent, allégés.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "El nombre del hexagrama, Chun, realmente connota una brizna de hierba empujando contra un obstáculo mientras brota de la tierra.",
       "jugement_titre": "",
-      "jugement_texte": "LA DIFICULTAD INICIAL obra un éxito sublime, favoreciendo por la perseverancia. No se debe emprender nada. Es favorable designar ayudantes.\n\nNubes y trueno: la imagen de LA DIFICULTAD INICIAL. Así el hombre noble pone orden en la confusión.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Nubes y trueno:\nLa imagen de LA DIFICULTAD INICIAL.\nAsí el hombre noble pone orden en la confusión.\n\nNubes y trueno están representados por líneas decorativas definidas; esto significa que en el caos de la dificultad inicial, el orden ya está implícito. Así también el hombre noble debe organizar la profusión incipiente de tales tiempos de comienzo.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -166,7 +170,9 @@
           "texte": "Cheval et chariot se séparent. Il coule des larmes de sang. Il est des hommes pour qui les difficultés du début sont trop lourdes. Ils en demeurent prisonniers sans pouvoir en sortir. Ils baissent les bras et renoncent à la lutte. Une telle résignation est une chose des plus affligeantes. C'est pourquoi Confucius fait à ce propos la remarque suivante : « Des larmes de sang coulent : on ne doit pas persister dans une telle attitude ». evol sent r brazil – 3 – 01/12/2009 Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DIFICULTAD INICIAL obra un éxito supremo, favoreciendo por la perseverancia. No se debe emprender nada. Es favorable designar ayudantes.\n\nLos tiempos de crecimiento están plagados de dificultades.",
+      "image": "Nubes y trueno: la imagen de LA DIFICULTAD INICIAL.\nAsí el hombre noble pone orden en la confusión."
     },
     {
       "numero": 4,
@@ -174,14 +180,14 @@
       "nom_fr": "La Necedad Juvenil",
       "caractere": "蒙",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "Le trigramme supérieur, Ken, a pour figure une montagne, et le trigramme inférieur, K'an, a pour image l'eau. La source qui sort du pied de la montagne est le symbole de la jeunesse sans expérience. L'attribut du signe supérieur est l'immobilité, celui du signe inférieur, le danger. S'arrêter plein de perplexité devant un dangereux abîme est également un symbole de la folie juvénile. Mais les deux trigrammes renferment également la voie qui permet de surmonter les folies juvéniles : l'eau est quelque chose qui continue nécessairement de couler. Lorsque la source jaillit, elle ne sait pas tout d'abord où elle veut aller. Mais, par son écoulement incessant, elle remplit les endroits profonds qui font obstacle à son progrès; le succès est alors obtenu.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "En este hexagrama se nos recuerda la juventud y la necedad de dos maneras diferentes. La imagen del trigrama superior, Kên, es la montaña; la del inferior, K'an, es el agua.",
       "jugement_titre": "",
-      "jugement_texte": "LA NECEDAD JUVENIL tiene éxito. No soy yo quien busca al joven necio; el joven necio me busca a mí. En la primera consulta le informo. Si pregunta dos o tres veces, es importunidad. Si importuna, no le doy información. La perseverancia es favorable.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Un manantial brota al pie de la montaña:\nLa imagen de LA JUVENTUD.\nAsí el hombre noble cultiva su carácter siendo minucioso en todo lo que hace.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -220,22 +226,24 @@
           "texte": "Lorsqu'on châtie la folie, il n'est pas avantageux de commettre des excès de pouvoir. La seule chose avantageuse est d'écarter les excès de pouvoir. Il arrive qu'un insensé incorrigible doive être châtié. Celui qui ne veut pas écouter devra en tâter. Punir ainsi quelqu'un est tout autre chose que de le secouer en commençant. Mais le châtiment ne doit pas être infligé sous le coup de la colère : on le limitera en veillant objectivement à éviter les excès injustifiés. La punition n'est pas à elle-même sa propre fin; son but est de servir à instaurer un comportement conforme à l'ordre. Ce conseil s'applique aussi bien à l'éducation qu'aux mesures qu'un gouvernement est amené à prendre contre une population qui s'est rendue coupable d'excès. L'intervention de l'autorité doit toujours demeurer préventive et avoir pour but unique l'instauration de la sécurité et de la paix publiques. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 9 – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses inc"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA NECEDAD JUVENIL tiene éxito. No soy yo quien busca al joven necio; el joven necio me busca a mí. En la primera consulta le informo. Si pregunta dos o tres veces, es importunidad. Si importuna, no le doy información. La perseverancia es favorable.",
+      "image": "Un manantial brota al pie de la montaña:\nLa imagen de LA JUVENTUD.\nAsí el hombre noble cultiva su carácter siendo minucioso en todo lo que hace."
     },
     {
       "numero": 5,
       "nom_pinyin": "Su",
-      "nom_fr": "La Espera",
+      "nom_fr": "La Espera (La Nutrición)",
       "caractere": "需",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Mais les aliments sont administrés en leur temps, qu'il faut attendre. L'hexagramme montre les nuages dans le ciel répandant la pluie qui réjouit tout ce qui croît et pourvoit l'homme de nourriture et de boisson. Cette pluie viendra à son heure. On ne peut la faire venir de force, mais il faut l'attendre. La pensée de l'attente est en outre suggérée par les propriétés de chacun des trigrammes : au-dedans, force; devant, danger . Face au danger, la force ne se précipite pas mais sait attendre, tandis que la faiblesse tombe dans l'agitation et n'a pas la patience d'attendre",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Todos los seres necesitan nutrición desde arriba. Pero el don del alimento llega a su debido tiempo, y para ello hay que esperar.",
       "jugement_titre": "",
-      "jugement_texte": "LA ESPERA. Si eres sincero, tienes luz y éxito. La perseverancia trae buena fortuna. Es favorable cruzar las grandes aguas.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Las nubes ascienden al cielo:\nLa imagen de LA ESPERA.\nAsí el hombre noble come y bebe, está alegre y de buen ánimo.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -268,7 +276,9 @@
           "texte": "On tombe dans le trou. Trois hôtes surviennent, qui n'étaient pas invités. Honore-les, ainsi la fortune viendra à la fin. L'attente est terminée : le danger ne se laisse plus écarter. On tombe dans le trou et il faut se résoudre à l'inévitable. Tout semble alors avoir été vain. Mais c'est précisément dans cet état de détresse que survient un tournant imprévu. Sans que l'on ait agi personnellement, il se produit une intervention extérieure dont on peut tout d'abord se demander ce qu'elle signifie, si elle vise à la délivrance ou à la destruction. Il convient alors de conserver la mobilité intérieure : l'attitude juste n'est pas de se retrancher en soi-même et d'opposer un refus dans un geste de bravade, mais de saluer avec respect ce nouveau tour des événements. Ainsi l'on finit par sortir du danger et tout va bien. Même les changements heureux se présentent souvent sous une forme qui paraît étrange au premier abord. renoncement sublime algiz – 1 – 03/11/2008 oioioioi"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA ESPERA. Si eres sincero, tienes luz y éxito. La perseverancia trae buena fortuna. Es favorable cruzar las grandes aguas.",
+      "image": "Las nubes ascienden al cielo:\nLa imagen de LA ESPERA.\nAsí el hombre noble come y bebe, está alegre y de buen ánimo."
     },
     {
       "numero": 6,
@@ -276,14 +286,14 @@
       "nom_fr": "El Conflicto",
       "caractere": "訟",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "Les mouvements des deux moitiés de l'hexagramme vont donc dans des sens opposés, d'où l'idée de conflit L'attribut du créateur est la force, et celui de l'insondable, le danger, la perfidie. Là où la ruse a devant elle la violence, il y a conflit. Une troisième indication de cette idée se rencontre dans un caractère qui unit une perfidie insondable au-dedans et une ferme résolution au-dehors. Un caractère de ce genre est à coup sûr querelleur.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "El trigrama superior, cuya imagen es el cielo, tiene un movimiento ascendente; el trigrama inferior, agua, de acuerdo con su naturaleza tiende hacia abajo. Así las dos mitades se alejan una de otra.",
       "jugement_titre": "",
-      "jugement_texte": "EL CONFLICTO. Eres sincero y estás siendo obstaculizado. Una pausa cautelosa a mitad de camino trae buena fortuna. Llegar hasta el final trae desgracia. Es favorable ver al gran hombre. No es favorable cruzar las grandes aguas.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "El cielo y el agua van en direcciones opuestas:\nLa imagen del CONFLICTO.\nAsí el hombre noble considera cuidadosamente el comienzo en todas sus transacciones.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -322,7 +332,9 @@
           "texte": "Même si par hasard quelqu'un se voit prêter une ceinture de cuir, à la fin de la matinée elle lui aura été ravie par trois fois. On est ici en présence de quelqu'un qui a conduit un conflit jusqu'à sa fin amère et a obtenu gain de cause. Il reçoit une distinction. Mais son bonheur est de courte durée. Il est sans cesse attaqué de nouveau, ce qui a pour conséquences des luttes à l'infini. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 3 – 01/12/2009 y"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL CONFLICTO. Eres sincero y estás siendo obstaculizado. Una pausa cautelosa a mitad de camino trae buena fortuna. Llegar hasta el final trae desgracia. Es favorable ver al gran hombre. No es favorable cruzar las grandes aguas.",
+      "image": "El cielo y el agua van en direcciones opuestas:\nLa imagen del CONFLICTO.\nAsí el hombre noble considera cuidadosamente el comienzo en todas sus transacciones."
     },
     {
       "numero": 7,
@@ -330,14 +342,14 @@
       "nom_fr": "El Ejército",
       "caractere": "師",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "Ainsi se trouve symbolisée l'eau qui s'accumule à l'intérieur de la terre. La force de l'armée s'accumule de même à l'intérieur de la multitude d'un peuple : invisible en temps de paix, mais toujours disponible comme source de puissance. Les attributs de l'hexagramme sont, à l'intérieur, danger, et à l'extérieur, obéissance. Par là est indiquée la nature de l'armée : elle est dans son essence intime quelque chose de dangereux, tandis qu'extérieurement la discipline et l'obéissance doivent prévaloir. Si l'on considère les différents traits, le maître de l'hexagramme est le neuf fort à la deuxième place, auquel sont subordonnés les autres traits, tous faibles. Ce trait désigne le commandant, car il est placé au centre de l'un des trigrammes constitutifs. Mais comme il se tient en bas et non en haut, il n'est pas l'image du souverain, mais celle de l'habile général qui, par son autorité, maintient l'armée dans l'obéissance.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Este hexagrama está compuesto por los trigramas K'an, agua, y K'un, tierra, simbolizando así el agua subterránea almacenada en la tierra. De la misma manera, la fuerza militar está almacenada en la masa del pueblo.",
       "jugement_titre": "",
-      "jugement_texte": "EL EJÉRCITO necesita perseverancia y un hombre fuerte. Buena fortuna sin culpa.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "En medio de la tierra hay agua:\nLa imagen del EJÉRCITO.\nAsí el hombre noble aumenta sus masas mediante la generosidad hacia el pueblo.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -376,22 +388,24 @@
           "texte": "Le grand prince édicte des ordres, fonde des Etats, pourvoit les familles de fiefs. On n'emploiera pas d'hommes vulgaires. La guerre s'est heureusement terminée; la victoire a été remportée. Le roi répartit entre ses fidèles les fiefs et les possessions familiales. Mais, ce faisant, il importe qu'il ne place pas au pouvoir des hommes vulgaires. Ils ont prêté main-forte, il peut rétribuer leurs services en argent. Mais on ne doit pas leur accorder de terres ou des privilèges pour éviter les risques d'abus. Une armée ne devrait servir l'humanité que pour lui assurer la paix. Général Kanzler et Lê Loï. an ninh – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL EJÉRCITO necesita perseverancia y un hombre fuerte. Buena fortuna sin culpa.\n\nUn ejército es una masa que necesita organización para convertirse en una fuerza de combate.",
+      "image": "En medio de la tierra hay agua:\nLa imagen del EJÉRCITO.\nAsí el hombre noble aumenta sus masas mediante la generosidad hacia el pueblo."
     },
     {
       "numero": 8,
       "nom_pinyin": "Pi",
-      "nom_fr": "La Solidaridad",
+      "nom_fr": "La Solidaridad (La Unión)",
       "caractere": "比",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Il y a là un symbole traduisant la solidarité et sa loi. La même idée est évoquée par le fait que tous les traits sont faibles jusqu'au cinquième à la cinquième place, celle du maître de l'hexagramme. Les faibles s'unissent pour s'entr'aimer parce qu'ils subissent l'influence de la volonté ferme à la place d'autorité qui est leur point de réunion. Mais cette personnalité forte et dirigeante conserve en outre l'union avec les autres hommes grâce auxquels elle trouve un complément de sa propre nature.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Las aguas en la superficie de la tierra fluyen juntas donde pueden, como por ejemplo en el océano, donde todos los ríos se encuentran.",
       "jugement_titre": "",
-      "jugement_texte": "LA SOLIDARIDAD trae buena fortuna. Consulta el oráculo una vez más para saber si posees sublimidad, constancia y perseverancia; entonces no hay culpa. Los indecisos se unen gradualmente. Quien llega demasiado tarde encuentra desgracia.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Sobre la tierra hay agua:\nLa imagen de LA SOLIDARIDAD.\nAsí los reyes de la antigüedad otorgaban los diferentes estados como feudos y cultivaban relaciones amistosas con los señores feudales.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -430,18 +444,20 @@
           "texte": "Il ne trouve pas de tête pour la solidarité. Infortune. La tête est le commencement. Sans commencement juste, il n'y a pas de juste fin. Quand on a manqué la jonction et que l'on demeure hésitant et craintif devant la perspective d'un don de soi véritable et sans réserve, on aura plus tard à se repentir de ses fautes. it seems that electronic matters a lot when there is no target. Hups soory I gat a meeting with my potatoes (solidarity in hard path) 1p0 – 03/12/2008 Le 08/08/08 était une date porte bonheur et je suis passé te voir Maître, pour fêter avec toi cet évènement sur l'union et l'unité du monde qui nous a enfin été révélée. an ninh – 08/12/2007 Sansele mele de a obtine postul de GM la \"creare\". De vazut..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA SOLIDARIDAD trae buena fortuna. Consulta el oráculo una vez más para saber si posees sublimidad, constancia y perseverancia; entonces no hay culpa. Los indecisos se unen gradualmente. Quien llega demasiado tarde encuentra desgracia.",
+      "image": "Sobre la tierra hay agua:\nLa imagen de LA SOLIDARIDAD.\nAsí los reyes de la antigüedad otorgaban los diferentes estados como feudos y cultivaban relaciones amistosas con los señores feudales."
     },
     {
       "numero": 9,
       "nom_pinyin": "Tch'ou",
-      "nom_fr": "La Fuerza Domesticadora Pequeña",
+      "nom_fr": "La Fuerza Domesticadora de lo Pequeño",
       "caractere": "小畜",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "L'hexagramme représente ce qui est petit, le pouvoir de ce qui est obscur : il retient, apprivoise, freine. A la quatrième place, qui est celle du ministre, il y a un trait faible qui tient en bride toutes les autres lignes, lesquelles sont fortes. L'image est celle du vent qui souffle, haut dans le ciel. Il ralentit l'haleine du créateur qui s'élève, les nuages, si bien qu'ils s'épaississent. Mais il n'est pas encore assez fort pour les faire retomber en pluie. L'hexagramme présente une constellation où un élément fort est passagèrement tenu en bride par un élément faible. C'est seulement grâce à de la douceur qu'une telle situation peut être accompagnée de succès.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Este hexagrama significa la fuerza de lo pequeño—el poder de lo sombrío—que restringe, doma, impide.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -484,18 +500,20 @@
           "texte": "La pluie vient, le repos vient. Cela est dû à l'action durable du caractère. La femme est mise en danger par la persévérance. La lune est presque pleine. Si l'homme noble continue sa marche, l'infortune vient. Le succès est obtenu. La poussée du vent a fait venir la pluie. Un état stable est atteint. Cet effet a été acquis par l'accumulation progressive de petites actions qui ont pris naissance dans le respect porté à un caractère élevé. Mais un tel succès bâti pierre à pierre demande beaucoup de prudence. S'abandonner à l'illusion qu'on peut s'en prévaloir serait chose dangereuse. L'élément féminin, faible, qui a remporté la victoire ne doit pas s'obstiner à s'en vanter, car cela attirerait le danger. La force obscure dans la lune atteint son maximum quand l'astre est proche de son plein; quand la pleine lune se tient en opposition directe avec le soleil, son déclin est inévitable. Dans de telles circonstances, on doit se contenter du résultat obtenu. S'avancer plus loin avant que le temps n'en soit venu apporterait l'infortune. le ptit rat de ratagass roi de forets va bien?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA FUERZA DOMESTICADORA DE LO PEQUEÑO tiene éxito. Nubes densas, sin lluvia de nuestra región occidental.",
+      "image": "El viento sopla a través del cielo:\nLa imagen de LA FUERZA DOMESTICADORA DE LO PEQUEÑO.\nAsí el hombre noble refina el aspecto exterior de su naturaleza."
     },
     {
       "numero": 10,
       "nom_pinyin": "Liu",
-      "nom_fr": "El Porte",
+      "nom_fr": "El Porte (La Conducta)",
       "caractere": "履",
       "trigramme_haut": "Ch'ien",
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "La marche signifie tout d'abord la façon correcte de se conduire. En haut se trouve le ciel, le père; en bas, le lac, la plus jeune fille. Ainsi est indiquée la distinction entre le haut et le bas et la manière dont elle est à la base de la tranquillité, de la conduite correcte dans la société. Marcher veut dire littéralement : « appuyer le pied sur ». Le petit, « le joyeux », prend appui sur le grand, le fort. Les deux trigrammes traduisent un mouvement vers le haut. Que le fort marche sur le faible, c'est là quelque chose qui va de soi; c'est pourquoi le Livre des Transformations n'en fait pas de mention spéciale. Que le faible se place contre le fort, cela n'est pas dangereux, parce que la chose se passe dans la sérénité, sans arrogance, si bien que le fort n'est pas irrité et le prend en bonne part.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "El nombre del hexagrama significa por un lado la manera correcta de conducirse. El cielo, el padre, está arriba, y el lago, la hija menor, está abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -538,7 +556,9 @@
           "texte": "Observe ta démarche et examine les signes favorables. Quand tout est achevé, survient une sublime fortune. L'œuvre est parvenue à son terme. Pour savoir si la fortune en sera la conséquence, on observera rétrospectivement sa démarche et ses suites. Si les résultats sont bons, la fortune est assurée. Nul ne se connaît lui-même. Seules les conséquences de notre activité et les fruits de nos actes permettent de juger de ce que nous pouvons escompter. je prends note....infaillible le yiking..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL PORTE. Pisar la cola del tigre. No muerde al hombre. Éxito.",
+      "image": "Arriba el cielo, abajo el lago:\nLa imagen del PORTE.\nAsí el hombre noble distingue entre lo alto y lo bajo, y con ello fortalece el pensamiento del pueblo."
     },
     {
       "numero": 11,
@@ -546,14 +566,14 @@
       "nom_fr": "La Paz",
       "caractere": "泰",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Le réceptif, dont le mouvement est dirigé vers le bas, est au-dessus; le créateur, dont le mouvement tend vers le haut, est au-dessous. Leurs influences se rencontrent donc et sont en harmonie, si bien que tous les êtres s'épanouissent et prospèrent. Cet hexagramme est rattaché au premier mois (février-mars) au cours duquel les puissances de la nature préparent le nouveau printemps.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Lo Receptivo, que se mueve hacia abajo, está arriba; Lo Creativo, que se mueve hacia arriba, está abajo. Por lo tanto sus influencias se encuentran y están en armonía.",
       "jugement_titre": "",
-      "jugement_texte": "LA PAZ. Lo pequeño parte, lo grande se acerca. Buena fortuna. Éxito.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "El cielo y la tierra se unen: la imagen de LA PAZ.\nAsí el gobernante divide y completa el curso del cielo y la tierra, fomenta y regula los dones del cielo y la tierra, y así ayuda al pueblo.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -592,22 +612,24 @@
           "texte": "Le mur retombe dans le fossé : n'emploie pas d'armée maintenant. Fais proclamer tes ordres dans ta propre ville. La persévérance apporte l'humiliation. Le changement déjà annoncé au milieu de l'hectogramme à commencé. Le mur de la cité retombe dans le fossé d'où il avait été tiré. La fatalité s'abat. Il convient dans ce cas d'épouser le destin et de ne pas vouloir l'arrêter par une résistance violente. Tout ce qu'il reste à faire est de se maintenir dans le cercle le plus étroit. Si l'on voulait s'opposer de façon persévérante au mal par les moyens habituels, la débâcle serait encore plus complète et la conséquence serait l'humiliation."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA PAZ. Lo pequeño parte, lo grande se acerca. Buena fortuna. Éxito.",
+      "image": "El cielo y la tierra se unen: la imagen de LA PAZ.\nAsí el gobernante divide y completa el curso del cielo y la tierra, y así ayuda al pueblo."
     },
     {
       "numero": 12,
       "nom_pinyin": "P'i",
-      "nom_fr": "El Estancamiento",
+      "nom_fr": "El Estancamiento (La Stagnación)",
       "caractere": "否",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Le ciel, en haut, se retire toujours davantage, et la terre, en bas, s'enfonce toujours davantage dans la profondeur. Les forces créatrices ne sont pas en relations mutuelles. C'est le temps de la stagnation et de la décadence. L'hexagramme est rattaché au 7e mois (août-septembre), période où l'année a dépassé son point culminant et où les flétrissures de l'automne se préparent.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Este hexagrama es lo opuesto del anterior. El cielo está arriba, alejándose cada vez más, mientras la tierra abajo se hunde más en las profundidades.",
       "jugement_titre": "",
-      "jugement_texte": "EL ESTANCAMIENTO. Las personas malvadas no favorecen la perseverancia del hombre noble. Lo grande parte; lo pequeño se acerca.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "El cielo y la tierra no se unen: la imagen del ESTANCAMIENTO.\nAsí el hombre noble se retira a su valor interior para escapar de las dificultades. No se permite ser honrado con ingresos.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -646,18 +668,20 @@
           "texte": "La stagnation prend fin. D'abord stagnation, ensuite fortune. La stagnation ne dure pas éternellement. Toutefois elle ne cesse pas d'elle-même, mais requiert l'homme capable d'y mettre un terme. Là réside la différence entre la paix et la stagnation. La consolidation de la paix demande un effort continuel. Laissée à elle-même, la paix se transformerait en stagnation et en décadence. Le temps de la décadence ne se change pas spontanément en paix et en prospérité, mais des efforts sont nécessaires pour en venir à bout. Ainsi se trouve souligné le rôle créateur de l'homme qui est indispensable pour que l'ordre règne dans le monde. c'est inouï je viens de faire deux lancers sur des sujets différents, et chaque signification correspond exactement à la situation"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL ESTANCAMIENTO. Las personas malvadas no favorecen la perseverancia del hombre noble. Lo grande parte; lo pequeño se acerca.",
+      "image": "El cielo y la tierra no se unen:\nLa imagen del ESTANCAMIENTO.\nAsí el hombre noble se retira a su valor interior para escapar de las dificultades."
     },
     {
       "numero": 13,
       "nom_pinyin": "Jen",
-      "nom_fr": "La Comunidad",
+      "nom_fr": "La Comunidad con los Hombres",
       "caractere": "同人",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "L'image du trigramme supérieur, K'ien, est le ciel, et celle du trigramme inférieur, Li, est la flamme. La nature du feu est de s'élever en flamboyant vers le ciel. Ainsi est évoquée l'idée de communauté. C'est le second trait qui, grâce à sa nature centrale, réunit autour de lui les cinq lignes fortes. Cet hexagramme est l'opposé du 7, « l'armée ». Là, péril au-dedans et obéissance au-dehors caractérisent la nature d'une armée martiale qui a besoin, pour être maintenue unie, de l'unique trait fort au milieu des traits faibles. Ici, clarté au-dedans et force au-dehors caractérisent la nature de l'union pacifique des hommes, qui a besoin, pour être maintenue, de l'unique trait faible parmi la multiplicité des traits forts.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "La imagen del trigrama superior Ch'ien es el cielo, y la del inferior, Li, es la llama. Es la naturaleza del fuego ascender hacia el cielo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -700,18 +724,20 @@
           "texte": "Communauté avec les hommes dans le pré. Pas de remords. Le chaleureux attachement du cœur fait ici défaut. En fait, on est désormais en dehors de la communauté avec les hommes. On s'allie toutefois avec eux. La communauté ne comprend pas tout le monde, mais ceux qui habitent ensemble hors de la ville. Le pré est le pâturage qui se trouve devant la ville. Ici le but ultime de l'union des hommes n'est pas encore atteint. Cependant il ne faut pas se faire de reproches. On s'allie à la communauté sans desseins égoïstes. klklklklk"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA COMUNIDAD CON LOS HOMBRES al aire libre. Éxito. Es favorable cruzar las grandes aguas. La perseverancia del hombre noble es favorable.",
+      "image": "El cielo junto con el fuego:\nLa imagen de LA COMUNIDAD CON LOS HOMBRES.\nAsí el hombre noble organiza los clanes y distingue entre las cosas."
     },
     {
       "numero": 14,
       "nom_pinyin": "Yéou",
-      "nom_fr": "La Gran Posesión",
+      "nom_fr": "La Posesión de lo Grande",
       "caractere": "大有",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Le feu dans le ciel brille au loin, si bien que toutes choses sont éclairées et deviennent manifestes. Le cinquième trait, qui est faible, est à la place d'honneur et tous les traits forts sont en harmonie avec lui. Celui qui, occupant une place élevée, est humble et doux voit toutes choses venir à lui",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "El fuego en el cielo arriba brilla lejos, y todas las cosas se destacan en la luz y se manifiestan.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -754,7 +780,9 @@
           "texte": "Il est béni du ciel. Fortune. Rien qui ne soit avantageux. Dans l'abondance des biens et de la puissance on demeure modeste et l'on vénère le sage qui se tient à l'écart de l'agitation du monde. On se place ainsi sous l'influence du ciel riche en bénédictions et tout va bien. Confucius dit à ce propos : « Bénir signifie aider. Le ciel aide l'être abandonné, les hommes aident l'être sincère. Celui qui marche dans la sincérité, qui est abandonné dans ses pensées et continue alors à respecter les hommes de mérite, celui-là est béni du ciel. Il trouve la fortune et il n'y a rien qui ne soit avantageux ». 13/02/09 il semble que ca soit toujours toi FoufeTTe. je t'avoue ne pas savoir comment c'est possible. Orsius – 02/12/2008 que cela soit!! luc"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA POSESIÓN DE LO GRANDE. Éxito supremo.",
+      "image": "Fuego en el cielo arriba:\nLa imagen de LA POSESIÓN DE LO GRANDE.\nAsí el hombre noble refrena el mal y fomenta el bien, obedeciendo así la voluntad benevolente del cielo."
     },
     {
       "numero": 15,
@@ -762,10 +790,10 @@
       "nom_fr": "La Modestia",
       "caractere": "謙",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "le Réceptif, la Terre",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "La montagne est le plus jeune fils du créateur, le représentant du ciel sur la terre. Elle dispense au-dessous d'elle les bénédictions du ciel, nuages et pluie qui se rassemblent autour de son sommet, et elle brille ensuite dans l'éclat d'une lumière céleste. Cela désigne l'humilité et ses effets chez les hommes élevés et forts. En haut se tient K'ouen, la terre. La propriété de la terre est la bassesse, mais dans cet hexagramme elle est représentée précisément pour cette raison comme élevée, puisque placée en haut, au-dessus de la montagne. Cela montre l'effet de l'humilité chez des hommes . modestes et simples : ils sont, de ce fait, élevés.",
+      "trigramme_bas_desc": "l'Immobilisation, la Montagne",
+      "description": "Este hexagrama está compuesto por los trigramas Kên, el Aquietamiento, montaña, y K'un. La montaña es el hijo menor de Lo Creativo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -808,7 +836,9 @@
           "texte": "Humilité qui s'extériorise. Il est avantageux de mettre en marche les armées pour châtier sa propre cité et son propre pays. Celui qui est vraiment conséquent avec son humilité doit veiller à ce qu'elle se manifeste dans la réalité. Il doit aller énergiquement de l'avant dans ce domaine. S'il naît de l'hostilité, rien n'est plus aisé que de rejeter la faute sur autrui. Il peut alors se faire qu'un homme faible, se sentant offensé, se replie sur lui-même, prenne compassion de lui-même et croie être humble en ne se défendant pas. L'humilité véritable se manifeste en ce que nous nous employons énergiquement à établir l'ordre et commençons par sévir sur nous-mêmes et sur notre entourage immédiat. On n'accomplira réellement une œuvre importante que si on a le courage de faire marcher son armée contre soi-même le chou : ça s'est bien; mais qu'est-ce qu'on fait avec autrui?? Il faut que je pose une autre question à mon livre de sagesse....."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA MODESTIA crea éxito. El hombre noble lleva las cosas hasta su conclusión.",
+      "image": "Dentro de la tierra, una montaña:\nLa imagen de LA MODESTIA.\nAsí el hombre noble reduce lo que es demasiado y aumenta lo que es muy poco. Sopesa las cosas y las iguala."
     },
     {
       "numero": 16,
@@ -816,10 +846,10 @@
       "nom_fr": "El Entusiasmo",
       "caractere": "豫",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Le trigramme supérieur Tchen a pour propriété le mouvement, et le trigramme inférieur, la terre, l'obéissance et le dévouement. On a ici le commencement d'un mouvement qui trouve en face de lui une attitude de dévouement et, par suite, entraîne tout avec lui et œuvre dans l'enthousiasme. Il est en outre une loi très importante : le mouvement doit s'exercer suivant la ligne de moindre résistance. Cette loi est exprimée dans l'hexagramme comme étant celle des phénomènes naturels et de la vie humaine.",
+      "trigramme_bas_desc": "Le Réceptif, La Terre",
+      "description": "La línea fuerte en el cuarto lugar, la del oficial principal, encuentra respuesta y obediencia de todas las otras líneas, que son todas débiles.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -862,7 +892,9 @@
           "texte": "Enthousiasme aveuglé. Mais lorsqu'après être parvenu à l'achèvement on change, il n'y a pas de blâme. Quand on se laisse aveugler par l'enthousiasme, cela est mauvais. Mais lorsqu'à son tour cet aveuglement est devenu une affaire dépassée et que l'on peut encore changer d'attitude, on est exempt de blâme. Se dégriser après un enthousiasme mal placé est chose tout à fait possible et très favorable. Thank you for allowing me such wonderful guidence SG – 07/12/2008 Thank you original music for the happiness and knowing as I enjoy the fruits of my labors and dreams for my friends and earthlings;-) JADE – 03/12/2008 as usual, clear ...so clear! ratafia – 01/11/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL ENTUSIASMO. Es favorable instalar ayudantes y poner ejércitos en marcha.",
+      "image": "El trueno sale retumbando de la tierra:\nLa imagen del ENTUSIASMO.\nAsí los antiguos reyes hacían música para honrar el mérito."
     },
     {
       "numero": 17,
@@ -870,10 +902,10 @@
       "nom_fr": "El Seguimiento",
       "caractere": "隨",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Chên",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "En haut est le joyeux dont le caractère est la gaîté, en bas, l'éveilleur dont le caractère est le mouvement. La gaîté unie au mouvement fait que l'on suit. Le joyeux est la plus jeune fille; l'éveilleur, le fils aîné. Un homme d'un certain âge s'incline devant une jeune fille et lui témoigne de la considération. De cette manière, il l'émeut si bien qu'elle le suit.",
+      "description": "El trigrama Tui, lo Sereno, cuyo atributo es la alegría, está arriba; Chên, lo Suscitativo, que tiene el atributo del movimiento, está abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -916,7 +948,9 @@
           "texte": "Il rencontre une ferme allégeance et s'y trouve encore lié. Le roi le présente à la montagne occidentale. Il s'agit d'un homme qui, en ce qui concerne sa propre personne, a déjà laissé derrière lui les agitations du monde, un très grand sage par conséquent. Mais voici que survient à sa suite quelqu'un qui le comprend et ne le laisse pas aller. Le sage revient donc une fois encore dans le monde et aide cet homme dans son travail. Ainsi prend naissance un lien de nature éternelle. La comparaison est empruntée à la dynastie des Tchéou. Cette dynastie honorait les serviteurs méritants en leur donnant une place dans le temple des ancêtres du souverain. Un tel homme prenait ainsi part au destin de la maison régnante. dying for her today algiz – 09/12/2008 Love sent. CyberShi – 08/12/2008 Il faut déjà être un sage et aimer vraiment pour comprendre le yi king. Il est préférable aussi de le tirer avec un livre mais, à défaut, ce tirage est bien. C'est un livre de sagesse et les mots peuvent sembler opaques. En fait, si on lit avec le coeur et l'âme vraiment ouverts, tout est clair."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL SEGUIMIENTO tiene éxito supremo. La perseverancia es favorable. Sin culpa.",
+      "image": "Trueno en medio del lago:\nLa imagen del SEGUIMIENTO.\nAsí el hombre noble al anochecer entra para descansar y recuperarse."
     },
     {
       "numero": 18,
@@ -924,10 +958,10 @@
       "nom_fr": "El Trabajo en lo Echado a Perder",
       "caractere": "蠱",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "C'est la représentation de ce qui est corrompu. Cela est provenu de ce que la douce indifférence du trigramme inférieur s'est unie à la rigide inertie du trigramme supérieur, si bien que les conditions ont dégénéré en stagnation. Puisqu'on se trouve là devant un état de choses qui laisse à désirer, la situation contient en même temps ce qui est nécessaire pour y mettre fin. C'est pourquoi l'hexagramme ne signifie pas simplement : « ce qui est corrompu », mais « ce qui est corrompu, en tant que tâche » ou « le travail sur ce qui est corrompu ».",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "El carácter chino ku representa un cuenco en cuyo contenido se reproducen gusanos. Esto significa deterioro.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -970,7 +1004,9 @@
           "texte": "Il ne sert pas des rois et des princes. Il se fixe des buts supérieurs. Tous les hommes ne sont pas tenus de se mêler aux affaires du monde. Il en est aussi qui sont parvenus à un tel degré d'évolution intérieure qu'ils ont le droit de laisser l'univers suivre son cours sans se mêler à la vie politique pour la réformer. Cependant cela ne veut pas dire qu'ils doivent se tenir inactifs ou observer une attitude purement critique. Seul le fait de travailler dans sa propre personne aux buts supérieurs de l'humanité justifie une pareille retraite. Car même lorsque le sage se tient éloigné des agitations quotidiennes, il continue de créer des valeurs humaines incomparables pour l'avenir r"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL TRABAJO EN LO ECHADO A PERDER tiene éxito supremo. Es favorable cruzar las grandes aguas. Antes del punto de partida, tres días. Después del punto de partida, tres días.",
+      "image": "El viento sopla bajo en la montaña:\nLa imagen del DETERIORO.\nAsí el hombre noble estimula al pueblo y fortalece su espíritu."
     },
     {
       "numero": 19,
@@ -978,10 +1014,10 @@
       "nom_fr": "El Acercamiento",
       "caractere": "臨",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "Le mot chinois Lin possède une série de significations qu'un seul terme français ne peut épuiser. Les anciennes explications du Livre des Transformations indiquent comme premier sens : « grandir ». Ce qui grandit, ce sont les deux traits forts qui poussent dans l'hexagramme à partir du bas. Avec eux la force lumineuse prend de l'expansion. De là on passe à l'idée d'approche, à savoir, approche de ce qui est fort, de ce qui est supérieur, par rapport à ce qui est bas. On a alors enfin le sens de condescendance d'un homme supérieur envers le peuple et celui de mise en route des affaires. L'hexagramme est rattaché au douzième mois (janvier-février), car après le solstice d'hiver la force lumineuse est conçue comme étant en ascension.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "El hexagrama en su conjunto señala un tiempo de progreso alegre y esperanzador. La primavera se acerca.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1024,18 +1060,20 @@
           "texte": "Approche magnanime. Fortune. Pas de blâme. Un sage qui a vaincu le monde et qui, intérieurement, en a terminé avec la vie, peut, dans certains cas, se trouver amené à rentrer encore une fois dans ce bas monde et à s'approcher des hommes. C'est là une grande fortune pour les hommes auxquels il confère son enseignement et son aide. Mais en ce qui le concerne, également, cet abaissement magnanime ne donne lieu à aucun blâme. Yi king, merci drinn – 02/11/2008 Surprenant...."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL ACERCAMIENTO tiene éxito supremo. La perseverancia es favorable. Cuando llegue el octavo mes, habrá desgracia.",
+      "image": "La tierra sobre el lago:\nLa imagen del ACERCAMIENTO.\nAsí el hombre noble es inagotable en su voluntad de enseñar y sin límites en su tolerancia y protección del pueblo."
     },
     {
       "numero": 20,
       "nom_pinyin": "Kouan",
-      "nom_fr": "La Contemplación",
+      "nom_fr": "La Contemplación (La Vista)",
       "caractere": "觀",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "D'un côté, il signifie la contemplation, et de l'autre, le fait d'être regardé, d'être un modèle. Ces idées sont suggérées par le fait que l'hexagramme peut être compris comme l'image d'une tour telle qu'il en existait un grand nombre dans l'ancienne Chine. Du haut de ces tours on avait une vue étendue à la ronde, et, d'autre part, une telle tour située au haut d'une montagne était visible au loin. Ainsi l'hexagramme montre un souverain qui contemple en haut la loi du ciel et en bas les coutumes du peuple et qui constitue, grâce à son bon gouvernement, un exemple élevé pour les masses. Ce signe est rattaché au huitième mois (septembre/octobre). La force lumineuse se retire, celle de l'obscurité est de nouveau en ascension. Toutefois cet aspect n'entre pas ici en ligne de compte pour l'interprétation d'ensemble de l'hexagramme.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Una ligera variación del acento tonal da al nombre chino de este hexagrama un doble significado. Significa tanto contemplar como ser visto.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1078,7 +1116,9 @@
           "texte": "Contemplation de sa vie. L'homme noble est sans tache. Tandis que le trait précédent représente un homme qui s'examine lui-même, ici, à la place la plus élevée, tout élément personnel et lié au moi est exclu. On montre ainsi un sage qui, hors de l'agitation du monde et libéré du moi, contemple la loi de la vie et reconnaît que le bien suprême est de savoir comment demeurer exempt de blâme. It is interesting to get the 4th and 6th line together in the world with insight and not of this world with insight, may be the very key to 45 Gathering together Priya – 02/11/2008 Il ne s'agit pas de changer les hexagrammes mais de les comprendre ... Et il n'y a rien à changer dans la contemplation de la vie :o) Kath – 08/12/2008 19/02/09 le temps entre l'ablution et le sacrifice m'exaspere.....HUP HUP HUP. Orsius – 02/12/2008 some one try to work on is breath and energy of is body and balance that, when you do the yi yink? without to make question, just manage your self, il est possible de changer exagrame par la volonter interieur, essayer... et prener votre vie en main. pierre – 02/11/2006 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA CONTEMPLACIÓN. La ablución se ha realizado, pero aún no la ofrenda. Llenos de confianza miran hacia él.",
+      "image": "El viento sopla sobre la tierra:\nLa imagen de LA CONTEMPLACIÓN.\nAsí los reyes de antaño visitaban las regiones del mundo, contemplaban al pueblo y le daban instrucción."
     },
     {
       "numero": 21,
@@ -1086,10 +1126,10 @@
       "nom_fr": "La Mordedura Tajante",
       "caractere": "噬嗑",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "L'hexagramme représente une bouche ouverte entre les dents de laquelle il y a un obstacle (à la quatrième place). Cet obstacle empêche les lèvres de se joindre. Pour réaliser leur jonction, il faut le mordre énergiquement. En outre, cet hexagramme se compose des trigrammes du tonnerre (Tchen) et de l'éclair (Li), afin d'indiquer la manière dont la nature écarte avec vigueur ce qui la gène. Cette morsure vigoureuse triomphe de ce qui empêche la réunion de se réaliser dans la bouche. L'orage avec son tonnerre et ses éclairs triomphe de la tension qui trouble la nature. Les procès et les châtiments triomphent des troubles introduits dans l'harmonie de la vie en société par les crimes et les calomnies. A la différence du sixième hexagramme, « le conflit » où il est question de procès civils, le thème est ici le procès criminel.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Este hexagrama representa una boca abierta con un obstáculo entre los dientes. Como resultado los labios no pueden juntarse.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1132,7 +1172,9 @@
           "texte": "Attaché par le cou dans la gangue de bois si bien que les oreilles disparaissent. Infortune. A la différence de la situation dépeinte par le premier trait, il s'agit ici d'un homme qui est irréformable. Il porte en punition la gangue de bois qui lui enserre le cou. Mais ses oreilles disparaissent à l'intérieur. Il n'entend plus les avertissements, mais y demeure sourd. Cet endurcissement conduit à l'infortune u"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA MORDEDURA TAJANTE tiene éxito. Es favorable dejar que se administre justicia.",
+      "image": "Trueno y relámpago:\nLa imagen de LA MORDEDURA TAJANTE.\nAsí los reyes de antaño afirmaban las leyes mediante penas claramente definidas."
     },
     {
       "numero": 22,
@@ -1140,10 +1182,10 @@
       "nom_fr": "La Gracia",
       "caractere": "賁",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "L'hexagramme représente un feu qui sort des profondeurs secrètes de la terre et dont les flammes, en s'élevant, illuminent la montagne, la hauteur céleste, et la revêtent de beauté. La grâce, la beauté de la forme est indispensable à toute union pour la rendre harmonieuse et aimable, et non chaotique et désordonnée.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Este hexagrama muestra un fuego que brota de las profundidades secretas de la tierra y, ardiendo, ilumina y embellece la montaña.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1186,7 +1228,9 @@
           "texte": "Grâce simple. Pas de blâme. Ici, au degré le plus élevé, on dépouille toute grâce. La forme ne dissimule plus le contenu, mais le laisse se mettre pleinement en valeur. La grâce suprême ne consiste pas à orner extérieurement les matériaux, mais à leur donner une forme simple et pratique. La grâce doit avoir son utilité pour prévenir et protéger les notres. an ninh – 06/12/2008 response to Banny Lu - clearly the advice here relates to oral sex - the nine in the third place suggesting a firm hold on the chin of the performer mentioned in the second place Ron Chang – 05/12/2008 anal penetration is the key advice to follow here - Banny Lu – 05/12/2008 d'une relation hm fm"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA GRACIA tiene éxito. En asuntos pequeños es favorable emprender algo.",
+      "image": "Fuego al pie de la montaña:\nLa imagen de LA GRACIA.\nAsí procede el hombre noble al aclarar los asuntos corrientes. Pero no se atreve a decidir asuntos controvertidos de esta manera."
     },
     {
       "numero": 23,
@@ -1194,10 +1238,10 @@
       "nom_fr": "La Desintegración",
       "caractere": "剝",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "L'homme vulgaire et obscur ne combat pas directement l'être noble, mais il le mine progressivement par une action imperceptible, si bien qu'à la fin il s'écroule. L'hexagramme représente l'image d'une maison. Le trait supérieur est le toit. Le toit une fois brisé, la maison s'effondre. Ce signe est rattaché au neuvième mois (octobre-novembre). La force yin pousse avec une vigueur croissante et elle est sur le point d'évincer complètement la force yang.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Las líneas oscuras están a punto de ascender y derrocar la última línea firme y luminosa ejerciendo una influencia desintegradora sobre ella.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1240,18 +1284,20 @@
           "texte": "Il y a là encore un gros fruit qui n'a pas été mangé. L'homme noble obtient un char. La maison de l'homme vulgaire vole en éclats. La fin de l'éclatement est ici atteinte. Quand l'infortune à épuisé sa malice, des temps meilleurs reviennent. La semence du bien est encore là. Comme le fruit tombe à terre, le bien sort de nouveau de sa semence. L'homme noble retrouve influence et possibilité d'agir. Il est porté par l'opinion générale comme sur un char. Mais l'homme vulgaire est châtié par sa propre méchanceté. Sa maison vole en éclats. Il y a là une loi de la nature. Le mal n'est pas seulement corrupteur du bien, mais il se détruit finalement lui-même. Car le mal, qui ne vit que de négation, ne peut subsister de lui-même. Pour l'homme vulgaire aussi, la meilleure situation est d'être tenu sous le contrôle de l'homme noble. bon , marcher dans la vertu durable ... algiz – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DESINTEGRACIÓN. No es favorable ir a ningún lugar.",
+      "image": "La montaña descansa sobre la tierra:\nLa imagen de LA DESINTEGRACIÓN.\nAsí los de arriba pueden asegurar su posición solo dando generosamente a los de abajo."
     },
     {
       "numero": 24,
       "nom_pinyin": "Fou",
-      "nom_fr": "El Retorno",
+      "nom_fr": "El Retorno (El Punto de Inflexión)",
       "caractere": "復",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "L'idée de tournant est indiquée par le fait qu'après que les traits sombres ont repoussé vers le haut tous les traits lumineux, un de ceux-ci rentre dans l'hexagramme par le bas. Le temps de l'obscurité est passé. Le solstice d'hiver amène la victoire de la lumière. L'hexagramme est rattaché au onzième mois, le mois du solstice (décembre-janvier).",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "La idea de un punto de inflexión surge del hecho de que después de que las líneas oscuras han empujado todas las líneas luminosas hacia arriba y fuera del hexagrama, una línea luminosa entra desde abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1294,18 +1340,20 @@
           "texte": "Retour manqué. Infortune. Malheur au-dedans et au-dehors. Si l'on fait marcher ainsi les armées, on subira finalement une grande défaite, désastreuse pour le souverain du pays. Pendant dix ans on n'est plus en mesure d'attaquer. Quand on laisse passer le temps du retour, on tombe dans le malheur. L'infortune est intérieurement causée par une fausse attitude face à l'ensemble de l'univers. L'infortune extérieure est la conséquence de cette position erronée. Ce qui est dépeint est l'endurcissement et la sentence qu'il attire. La création appartient au patrimoine de l'humanité, alors concervons le bagage essentiel qui restera avec nous dans l'Au-delà : L'Amour Inconditionnel Martin khalid Rosenberg – 01/11/2008 C'est difficile de rester immobile quand on a un ouragan à l'intérieur... lyliade – 03/12/2008 support thru changes embracing ones destiny akasha – 03/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL RETORNO. Éxito. Salir y entrar sin error. Los amigos vienen sin culpa. De ida y vuelta va el camino. Al séptimo día viene el retorno. Es favorable tener un lugar adonde ir.",
+      "image": "Trueno dentro de la tierra:\nLa imagen del PUNTO DE INFLEXIÓN.\nAsí los reyes de la antigüedad cerraban los pasos en el tiempo del solsticio."
     },
     {
       "numero": 25,
       "nom_pinyin": "Wang",
-      "nom_fr": "La Inocencia",
+      "nom_fr": "La Inocencia (Lo Inesperado)",
       "caractere": "無妄",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "En haut est K'ien, le créateur; en bas, Tchen, le mouvement. Le trigramme inférieur, Tchen, est sous l'influence du trait fort qu'il a reçu d'en haut, du ciel. Quand, conformément à cet état de choses, le mouvement suit la loi du ciel, l'homme est innocent et sans fausseté. C'est l'état pur et naturel, qui n'est pas troublé par des réflexions ou des arrière-pensées. En effet, partout où l'on observe un dessein, la vérité et l'innocence de la nature sont perdues. La nature sans les directives de l'esprit n'est pas la nature véritable, mais la nature dégénérée. A partir de la pensée de ce qui est naturel, l'association d'idées va partiellement plus loin encore, et l'hexagramme comprend en outre la notion d'imprévu, d'inattendu.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "Ch'ien, el cielo, está arriba; Chên, el movimiento, está abajo. El trigrama inferior Chên está bajo la influencia de la línea fuerte que ha recibido de arriba, del cielo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1348,18 +1396,20 @@
           "texte": "Une activité innocente apporte l'infortune. Rien n'est avantageux. Lorsqu'on est dans une situation où l'époque ne se prête plus au progrès, il importe d'attendre paisiblement et sans arrière-pensée. Si l'on agit d'une manière irréfléchie pour aller de l'avant contre le destin, on ne parviendra pas au succès. Garder son coeur et sa pureté d'esprit dans ses actions chaque choses vient en son heure MERCI!!"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA INOCENCIA. Éxito supremo. La perseverancia es favorable. Si alguien no es como debería ser, tiene desgracia, y no le favorece emprender nada.",
+      "image": "Bajo el cielo rueda el trueno:\nTodas las cosas alcanzan el estado natural de inocencia.\nAsí los reyes de antaño, ricos en virtud y en armonía con el tiempo, fomentaban y nutrían a todos los seres."
     },
     {
       "numero": 26,
       "nom_pinyin": "Ch'ou",
-      "nom_fr": "La Gran Fuerza Domesticadora",
+      "nom_fr": "El Poder Domesticador de lo Grande",
       "caractere": "大畜",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Cela donne un grand pouvoir, tout à fait différent de celui du n° 9 où c'est seulement le doux qui apprivoise le créateur. Tandis que là-bas un seul trait faible doit apprivoiser cinq traits forts, ici il y en a deux : en plus du ministre, il y a aussi le prince. C'est pourquoi cet hexagramme est beaucoup plus puissant. Le signe renferme une triple signification : le ciel au milieu de la montagne fait naître l'idée de « tenir ferme » au sens de « maintenir ensemble ». Le trigramme Ken qui immobilise K'ien donne l'idée de« tenir ferme » au sens de « retenir ». Enfin, comme il y a en haut un trait fort qui est le maître de l'hexagramme, on a l'idée de « tenir ferme » au sens de « cultiver », « nourrir ». Cette dernière pensée vaut spécialement pour le maître de l'hexagramme, le trait supérieur, qui représente le sage.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Lo Creativo es domado por Kên, el Aquietamiento. Esto produce gran poder. En contraste con la debilidad relativa indicada por el poder domesticador de lo pequeño.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1396,18 +1446,20 @@
           "texte": "On parvient à la voie du ciel. Succès. Le temps de l'obstruction est passé. La force longtemps accumulée grâce aux obstacles se fraye un chemin et remporte un grand succès. C'est un sage qui est honoré du souverain et dont les maximes s'imposent et modèlent le monde."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL PODER DOMESTICADOR DE LO GRANDE. La perseverancia es favorable. No comer en casa trae buena fortuna. Es favorable cruzar las grandes aguas.",
+      "image": "El cielo dentro de la montaña:\nLa imagen del PODER DOMESTICADOR DE LO GRANDE.\nAsí el hombre noble se familiariza con muchos dichos de la antigüedad y muchos hechos del pasado, para fortalecer así su carácter."
     },
     {
       "numero": 27,
       "nom_pinyin": "Français",
-      "nom_fr": "Las Comisuras de la Boca",
+      "nom_fr": "Las Comisuras de la Boca (Proporcionar Nutrición)",
       "caractere": "頤",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "L'hexagramme est l'image d'une bouche ouverte : en haut et en bas, les traits fermes des lèvres et, entre eux, l'ouverture de la bouche. De l'image de la bouche par laquelle on prend les aliments on passe à l'idée de la nourriture elle-même. L'administration de la nourriture est utilisée pour représenter, dans les trois traits inférieurs, l'alimentation de soi-même et plus spécialement celle du corps, et dans les traits supérieurs l'alimentation et la culture des autres dans le domaine supérieur, celui de l'esprit.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Este hexagrama es una imagen de una boca abierta; arriba y abajo están las líneas firmes de los labios, y entre ellas la apertura.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1450,7 +1502,9 @@
           "texte": "La source de l'alimentation. La conscience du danger apporte la fortune. Il est avantageux de traverser les grandes eaux. On est ici en présence d'un sage de l'espèce la plus élevée, de qui émanent toutes les influences qui pourvoient à l'alimentation des autres. Une telle position crée une lourde responsabilité. S'il en demeure conscient, il obtiendra la fortune et pourra entreprendre avec confiance des œuvres grandes et difficiles comme la traversée des grandes eaux. Ces œuvres amènent un bonheur général auquel il participe avec tous les autres. Hay que abandonar el nido... Mary_of_Silence – 05/12/2008 ombres, lumières et impermanence : les boucles se bouclent et se répètent, il faut briser le cercle , sortir de la matrice et rugir comme un tigre. algiz – 04/12/2008 retour de lumière je m'abandonne à la reine blanche"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LAS COMISURAS DE LA BOCA. La perseverancia trae buena fortuna. Presta atención a proporcionar nutrición y a lo que un hombre busca para llenar su propia boca.",
+      "image": "Al pie de la montaña, trueno:\nLa imagen de PROPORCIONAR NUTRICIÓN.\nAsí el hombre noble es cuidadoso con sus palabras y moderado en comer y beber."
     },
     {
       "numero": 28,
@@ -1458,10 +1512,10 @@
       "nom_fr": "La Preponderancia de lo Grande",
       "caractere": "大過",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "Quand les traits forts sont à l'extérieur et les traits faibles à l'intérieur, tout va bien, il n'y a pas d'excédent de poids, la situation ne comporte rien d'extraordinaire. Mais ici c'est l'inverse qui se produit. L'hexagramme représente une poutre épaisse et lourde au milieu, mais mince à ses extrémités. Cet état n'est pas durable. Il doit passer, se transformer, sinon le malheur menace.",
+      "trigramme_bas_desc": "Le Doux, le Vent, le Bois",
+      "description": "Este hexagrama consiste en cuatro líneas fuertes adentro y dos líneas débiles afuera.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1504,18 +1558,20 @@
           "texte": "Il faut traverser les eaux. Elles arrivent plus haut que la tête. Infortune. Pas de blâme. La situation indiquée ici est celle où l'extraordinaire est porté à son comble. On est courageux et l'on veut à tout prix venir à bout de sa tâche. On se met ainsi en danger. On se trouve submergé par l'eau. C'est l'infortune. Toutefois abandonner la vie en voulant faire triompher ce qui est bon et bien n'entraîne pas de blâme. Il est des choses plus importantes que la vie. I recently borrowed a laptop and have been working/playing on it till very late into the night, often till 1 or 2 am. I asked if the laptop computer was in the way of my path. the answer is pretty clear here and amazingly so; with the breaking point of the beam and then the image of the mutation is that the superiorman rests and recuperates at night leaving the thunder at rest, i.e., electronics off. thansk artgirls – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA PREPONDERANCIA DE LO GRANDE. La viga del techo se hunde hasta el punto de quiebre. Es favorable tener un lugar adonde ir. Éxito.",
+      "image": "El lago se eleva sobre los árboles:\nLa imagen de LA PREPONDERANCIA DE LO GRANDE.\nAsí el hombre noble, cuando está solo, no se preocupa, y si tiene que renunciar al mundo, no se acobarda."
     },
     {
       "numero": 29,
       "nom_pinyin": "K'an",
-      "nom_fr": "Lo Abismal",
+      "nom_fr": "Lo Abismal (El Agua)",
       "caractere": "坎",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "C'est un des hexagrammes doubles. Le trigramme K'an signifie l'action de s'enfoncer brusquement. Un trait yang est enfoncé entre deux traits yin et il se trouve enfermé par eux comme l'eau dans une gorge étroite. C'est le fils cadet. Le réceptif a acquis le trait yang médian du créateur; ainsi naît K'an. Ce trigramme a pour image l'eau en tant qu'elle vient d'en haut et circule sur la terre dans les rivières et les fleuves, étant ainsi la cause de la vie sur la terre. Appliqué aux hommes, K'an représente le coeur, l'âme où la vie est enfermée dans le corps, la lumière contenue dans les ténèbres, la raison. Le trigramme étant répété, le signe entier a le sens supplémentaire de « répétition du danger ». Il veut désigner par là une situation objective à laquelle on doit s'accoutumer et non une disposition subjective. Car le danger en tant que disposition subjective signifie témérité ou perfidie. C'est pourquoi le danger est également représenté par une gorge montagneuse, c'est-à-dire un é",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Este hexagrama consiste en una duplicación del trigrama K'an. Es uno de los ocho hexagramas en los que ocurre duplicación.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1558,18 +1614,20 @@
           "texte": "Lié avec des cordes et des câbles, enfermé entre les murs d'une prison hérissés de pointes. Pendant trois ans on ne peut trouver sa route. Infortune. Un homme qui a perdu le bon chemin dans l'extrême danger et qui est ligoté dans ses péchés n'a aucune perspective de sortir de sa situation périlleuse. Il ressemble à un criminel assis dans les chaînes derrière les murs d'une prison hérissés de pointes. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "Lo Abismal repetido. Si eres sincero, tienes éxito en tu corazón, y todo lo que hagas tiene éxito.",
+      "image": "El agua fluye sin interrupción y alcanza su meta:\nLa imagen de lo Abismal repetido.\nAsí el hombre noble camina en virtud duradera y lleva a cabo la tarea de enseñar."
     },
     {
       "numero": 30,
       "nom_pinyin": "Li",
-      "nom_fr": "Lo Adherente",
+      "nom_fr": "Lo Adherente (El Fuego)",
       "caractere": "離",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "L'hexagramme est double. Le trigramme Li signifie « s'attacher à quelque chose », « être conditionné », « reposer sur quelque chose », « clarté ». Un trait sombre s'attache à un trait lumineux par-dessus et par-dessous, image d'un espace vide entre deux traits forts, ce qui les rend clairs tous deux. C'est la fille cadette. Le créateur a pris en lui le trait central du réceptif, et c'est ainsi que naît Li. Comme image, c'est le feu. Le feu n'a pas de forme déterminée, mais il s'attache aux corps qui brûlent et, ainsi, est lumineux. De même que l'eau descend du ciel, le feu monte en flamboyant de la terre. Tandis que K'an signifie l'âme enfermée dans le corps, Li indique la nature dans son éclat.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Este hexagrama es otro signo doble. El trigrama Li significa adherirse a algo, y también brillo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1612,18 +1670,20 @@
           "texte": "Le roi l'emploie pour monter la garde et pour châtier. Il vaut mieux alors tuer les chefs et faire prisonniers ceux qui les suivent. Pas de blâme. Le but du châtiment est de créer la discipline et non d'imposer des peines aveugles. Il faut guérir le mal à la racine. Dans la vie de la cité, il importe de se débarrasser des chefs des complots, mais d'épargner leurs compagnons. Dans l'œuvre du perfectionnement de soi, il importe d'extirper les mauvaises habitudes, mais de tolérer celles qui sont inoffensives. Car une ascèse trop rude, tout comme un châtiment trop brutal, ne mène à rien de bon. attirance ou répulsion?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LO ADHERENTE. La perseverancia es favorable. Trae éxito. El cuidado de la vaca trae buena fortuna.",
+      "image": "Lo que es brillante se eleva dos veces:\nLa imagen del FUEGO.\nAsí el gran hombre, perpetuando esta claridad, ilumina los cuatro rincones del mundo."
     },
     {
       "numero": 31,
       "nom_pinyin": "Hien",
-      "nom_fr": "El Influjo",
+      "nom_fr": "La Influencia (El Cortejo)",
       "caractere": "咸",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "Le trigramme supérieur est Touei, le joyeux; l'inférieur, Ken, l'immobilisation. Le trigramme fort du bas émeut le trigramme faible du haut en exerçant sur lui une action persistante tendant à l'arrêter, et le second trigramme répond joyeusement et dans l'allégresse à l'invite du premier. Le trigramme inférieur, Ken, est le plus jeune fils; le trigramme supérieur, Touei, la plus jeune fille. Ainsi se trouve représentée l'attraction naturelle des sexes l'un pour l'autre. L'homme doit dans ce domaine prendre l'initiative et se placer au-dessous de la femme en la demandant en mariage. De même que la première partie du livre commence par les hexagrammes du ciel et de la terre, en tant que fondements de tout ce qui existe, la seconde débute par l'hexagramme représentant la demande en mariage et les épousailles, en tant que fondement de la vie sociale.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "El nombre del hexagrama significa universal, general, y en sentido figurado influir, estimular. El trigrama superior es Tui, lo Sereno; el inferior es Kên, el Aquietamiento.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1666,7 +1726,9 @@
           "texte": "L'influence se manifeste dans les mâchoires, les joues et la langue. La façon la plus superficielle de vouloir exercer de l'influence sur les autres est le pur bavardage derrière lequel il n'y a rien. Une telle excitation produite par les mouvements des organes de la parole demeure nécessairement insignifiante. C'est pourquoi rien n'est ajouté concernant le bonheur ou le malheur. oui merci"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "Influencia. Éxito. La perseverancia es favorable. Tomar una doncella por esposa trae buena fortuna.",
+      "image": "Un lago en la montaña:\nLa imagen de la influencia.\nAsí el hombre noble anima a la gente a acercarse a él mediante su disposición a recibirlos."
     },
     {
       "numero": 32,
@@ -1674,10 +1736,10 @@
       "nom_fr": "La Duración",
       "caractere": "恆",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "Cet hexagramme est l'inverse du précédent : là l'influence, ici l'union comme état durable. Les images sont celles du tonnerre et du vent qui sont également des phénomènes associés de façon constante. Le trigramme inférieur indique douceur au-dedans, le trigramme supérieur, mouvement au-dehors. Si nous appliquons l'hexagramme aux rapports sociaux, nous sommes en présence de l'institution matrimoniale comme union durable des sexes. Lors de la demande en mariage, le jeune homme se tenait placé au-dessous de la jeune fille. Par contre, dans le mariage qui est représenté par la réunion du fils aîné et de la fille aînée, l'homme est à l'extérieur fournissant direction et impulsion, tandis que la femme demeure à l'intérieur, douce et obéissante.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "El trigrama fuerte Chên está arriba, el trigrama débil Sun abajo. Este hexagrama es el inverso del anterior.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1720,7 +1782,9 @@
           "texte": "La hâte comme état durable apporte l'infortune. Il y a des êtres qui sont dans un état perpétuel de hâte sans trouver le repos à l'intérieur d'eux-mêmes. Non seulement la hâte empêche toute profondeur morale, mais elle devient bientôt un danger si elle règne à la place directrice. Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DURACIÓN. Éxito. Sin culpa. La perseverancia es favorable. Es favorable tener un lugar adonde ir.",
+      "image": "Trueno y viento: la imagen de LA DURACIÓN.\nAsí el hombre noble se mantiene firme y no cambia su dirección."
     },
     {
       "numero": 33,
@@ -1728,10 +1792,10 @@
       "nom_fr": "La Retirada",
       "caractere": "遯",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "La lumière se retire devant elle pour se mettre en sûreté, de sorte que l'obscurité n'a pas de prise sur elle. Il ne s'agit pas, dans la retraite, d'une action qui relève de la volonté humaine, mais d'une loi naturelle. C'est pourquoi se retirer constitue, dans ce cas, la façon correcte d'agir, qui n'use pas les forces",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "El poder de lo oscuro está ascendiendo. La luz se retira a la seguridad, para que lo oscuro no pueda invadirla.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1774,7 +1838,9 @@
           "texte": "Retraite joyeuse. Tout est avantageux. La situation est sans équivoque. Le détachement intérieur est un fait acquis. On a par suite la liberté de s'en aller. Quand on voit son chemin devant soi d'une façon si claire et si indubitable, il s'instaure dans l'âme une tranquillité joyeuse qui élit ce qui est juste sans balancer davantage. Une telle voie clairement tracée mène toujours au bien. evol sent r brazil – 01/12/2009 Un retour au calme à l'intérieur, une ferme décision morale, une fidélité à toute épreuve, un horizon qui fait plaisir à voir. Love sent too Loo – 02/11/2008 run away from running away... Julie – 05/12/2008 difficile retraite puisse-t-elle être joyeuse algiz – 03/12/2008 Our Time is Running ouT... Orsius – 02/12/2008 Oui"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA RETIRADA. Éxito. En lo pequeño, la perseverancia es favorable.",
+      "image": "Montaña bajo el cielo: la imagen de LA RETIRADA.\nAsí el hombre noble mantiene al hombre inferior a distancia, no con enojo sino con reserva."
     },
     {
       "numero": 34,
@@ -1782,10 +1848,10 @@
       "nom_fr": "El Poder de lo Grande",
       "caractere": "大壯",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "Quatre traits lumineux sont entrés dans l'hexagramme par le bas et s'apprêtent à poursuivre leur ascension. Le trigramme supérieur est Tchen, l'éveilleur; le trigramme inférieur est K'ien, le créateur. Le créateur est fort, l'éveilleur excite le mouvement. L'union du mouvement et de la force donne le sens de « puissance de ce qui est grand ». Cet hexagramme est rattaché au 2° mois (mars avril).",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Las líneas grandes, es decir, las líneas luminosas y fuertes, son poderosas. Cuatro líneas luminosas han entrado en el hexagrama desde abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1828,7 +1894,9 @@
           "texte": "Un bouc se heurte à une haie. Il ne peut pas reculer, il ne peut pas avancer. Rien n'est avantageux. Si l'on remarque la difficulté, cela apporte le succès. Si l'on s'aventure trop loin, on arrive à un point mort où l'on ne peut ni avancer, ni reculer et où tout ne sert qu'à embrouiller davantage les choses. Un pareil entêtement conduit à des difficultés insurmontables. Si, se rendant compte de la situation, on décide de ne pas continuer et l'on s'apaise, alors avec le temps tout ira bien. un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras. pierre – 03/11/2007 un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL PODER DE LO GRANDE. La perseverancia es favorable.",
+      "image": "Trueno en el cielo arriba:\nLa imagen del PODER DE LO GRANDE.\nAsí el hombre noble no pisa senderos que no concuerdan con el orden establecido."
     },
     {
       "numero": 35,
@@ -1836,10 +1904,10 @@
       "nom_fr": "El Progreso",
       "caractere": "晉",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Par suite, c'est l'image du progrès rapide et aisé qui traduit en même temps l'expansion toujours plus grande et la clarté.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "El hexagrama representa el sol elevándose sobre la tierra. Es por lo tanto el símbolo del progreso rápido y fácil.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1882,7 +1950,9 @@
           "texte": "Progresser avec les cornes n'est permis que pour châtier son propre domaine. La conscience du danger apporte la fortune. Pas de blâme. La persévérance apporte l'humiliation. Progresser les cornes abaissées, c'est-à-dire s'avancer de façon agressive est une attitude qu'un homme ne doit adopter dans les moments dont il est ici question qu'à l'égard des fautes des siens. On doit alors garder en mémoire qu'un danger est toujours lié à une telle démarche agressive. On évite ainsi les fautes qu'on risquerait de commettre en agissant différemment, et l'on atteint le but qu'on s'est fixé. Si par contre on persévère dans cette attitude trop énergique, notamment envers les personnes qui ne sont pas des proches, on aboutit à une humiliation. iz izinn"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL PROGRESO. El príncipe poderoso es honrado con caballos en gran número. En un solo día se le concede audiencia tres veces.",
+      "image": "El sol se eleva sobre la tierra:\nLa imagen del PROGRESO.\nAsí el hombre noble mismo ilumina su brillante virtud."
     },
     {
       "numero": 36,
@@ -1890,10 +1960,10 @@
       "nom_fr": "El Oscurecimiento de la Luz",
       "caractere": "明夷",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "Le soleil s'est enfoncé sous la terre et s'est donc obscurci. Le nom de l'hexagramme signifie proprement « le fait de blesser ce qui est lumineux », et c'est pourquoi les différents traits parlent souvent de blessure. La situation est exactement l'inverse de celle représentée par l'hexagramme précédent. Là on a au sommet un homme sage qui possède des assistants de valeur en compagnie desquels il progresse; ici la place d'autorité est occupée par un homme ténébreux qui porte préjudice à l'homme habile et vertueux.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Aquí el sol se ha hundido bajo la tierra y por lo tanto está oscurecido. El nombre del hexagrama significa literalmente herida de lo brillante.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1936,18 +2006,20 @@
           "texte": "Non la lumière mais l'obscurité. Tout d'abord il s'est élevé au ciel, puis il a plongé dans les profondeurs de la terre. L'obscurité parvient ici à son comble. La force ténébreuse était d'abord placée si haut qu'elle pouvait blesser toutes les puissances bonnes et lumineuses. A la fin pourtant elle périt par sa propre obscurité, car la chute du mal doit se produire au moment même où il a complètement vaincu le bien et, par suite, consumé la force à laquelle il devait jusque-là son existence. previous to receiving this hexagram, I was relating personal, spiritual info on another web site. I do not know what I hit on my keyboard, but all of the info disappeared. having written so much, I became \"entranced\" in my work and forgot to \"save\". poof, gone:( so upon reading this...I wonder if I said too much or perhaps what had been saved was enough. xander – 03/12/2007 I have taken this time to reflect on the response my initial post received and after several of daily consultations I confidently reiterate the position that the Oracle will guide and reveal that which is needed to understand the world around us but to pollute such a text with a transitory and inflammatory remark regarding one's personal political or social ideation's simply detracts from the ethereal magnificence of a work such as the I-Ching. Use it however you will but have enough respect for it to add text only if it serves to further understanding, not to forward an ideology. Aleph – 01/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL OSCURECIMIENTO DE LA LUZ. En la adversidad es favorable ser perseverante.",
+      "image": "La luz se ha hundido en la tierra:\nLa imagen del OSCURECIMIENTO DE LA LUZ.\nAsí vive el hombre noble con la gran masa: vela su luz, pero aún brilla."
     },
     {
       "numero": 37,
       "nom_pinyin": "Jen",
-      "nom_fr": "La Familia",
+      "nom_fr": "La Familia (El Clan)",
       "caractere": "家人",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "L'hexagramme représente les lois qui règnent à l'intérieur de la famille. Le trait fort du sommet représente le père, celui du bas, le fils; le cinquième trait, qui est également fort, figure le yang, le deuxième, qui est faible, indique la femme. D'autre part, les deux traits forts à la 5e et à la 3e place représentent deux frères; les traits faibles correspondants, à la 4e et à la 2e place, sont leurs femmes, si bien que toutes les relations et toutes les situations existant à l'intérieur de la famille trouvent ici leur expression appropriée. Chacun des traits a une nature conforme à la place qu'il occupe. La présence d'un trait fort à la 6e place où l'on pourrait s'attendre à trouver un trait faible désigne de la façon la plus claire la ferme autorité qui doit émaner du chef de famille. Ce trait entre ici en ligne de compte, non en sa qualité de sixième, mais en tant que trait supérieur. La famille manifeste les lois qui règnent à l'intérieur de la maison, lois qui, appliquées au mo",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "El hexagrama representa las leyes que rigen dentro de la familia. La línea fuerte en la parte superior representa al padre, la más baja al hijo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1990,18 +2062,20 @@
           "texte": "Son travail commande le respect. A la fin vient la fortune. Le bon ordre de la famille repose en dernière analyse sur la personne du maître de maison. S'il cultive sa personnalité de manière que son influence s'impose par la force de sa vérité intérieure, tout va bien dans la famille. Quand on occupe un poste de direction, on doit spontanément assumer les responsabilités. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA FAMILIA. La perseverancia de la mujer es favorable.",
+      "image": "El viento sale del fuego:\nLa imagen de LA FAMILIA.\nAsí el hombre noble tiene sustancia en sus palabras y duración en su modo de vida."
     },
     {
       "numero": 38,
       "nom_pinyin": "K'ouei",
-      "nom_fr": "El Antagonismo",
+      "nom_fr": "La Oposición",
       "caractere": "睽",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "L'hexagramme se compose du trigramme supérieur Li, la flamme, qui flamboie vers le haut, et du trigramme inférieur Touei, le lac, qui s'infiltre vers le bas. Ces mouvements sont dirigés en sens opposé. En outre Li est la cadette et Touei, la plus jeune des filles. Bien qu'elles habitent la même maison, elles appartiennent à des hommes différents; par suite, leurs volontés ne sont pas unanimes mais vont en sens contraire.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Este hexagrama está compuesto por el trigrama Li arriba, es decir, llama, que arde hacia arriba, y Tui abajo, es decir, el lago, que se filtra hacia abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2044,18 +2118,20 @@
           "texte": "Isolé par l'opposition, on voit son compagnon comme un porc recouvert de boue, comme un char rempli de démons. D'abord on tend son arc contre lui, puis on dépose son arc. Ce n'est pas un brigand, il fera sa demande en son temps. Tandis qu'on marche, la pluie tombe et la fortune vient. L'isolement est ici causé par des malentendus; il ne provient pas des circonstances extérieures, mais des dispositions intérieures. On méconnaît son meilleur ami, on le tient pour un porc impur et souillé de boue; on le croit dangereux comme un char rempli de démons. On adopte une attitude de défense. Toutefois on finit par reconnaître son erreur, on dépose son arc et l'on se rend compte que l'autre s'avance dans les meilleures intentions pour réaliser une union étroite. Ainsi la tension tombe. L'union fait s'évanouir l'opposition, comme la pluie en tombant dissipe la chaleur étouffante qui régnait avant l'orage. Tout va bien, car c'est précisément lorsqu'elle est parvenue à son point le plus aigu que l'opposition se transforme en son contraire give thanks . n – 01/12/2009 Le plus explicite de mes tirages (1989) J'ai rencontré mon maître dans une rue étroite où j'ai failli être mordu JM – 02/11/2008 On n'attend pas pour être sage ? affirmation présomptueuse"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA OPOSICIÓN. En asuntos pequeños, buena fortuna.",
+      "image": "Arriba, fuego; abajo, el lago:\nLa imagen de LA OPOSICIÓN.\nAsí, en medio de toda comunidad, el hombre noble conserva su individualidad."
     },
     {
       "numero": 39,
       "nom_pinyin": "Kien",
-      "nom_fr": "El Impedimento",
+      "nom_fr": "La Obstrucción",
       "caractere": "蹇",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "On se trouve ainsi environné d'obstacles. Mais la propriété de la montagne, qui est d'immobiliser, suggère également la façon dont on peut se libérer de cette obstruction. L'hexagramme représente des obstacles qui apparaissent dans le cours du temps, mais qui peuvent et doivent être surmontés. Toutes les indications données portent en conséquence sur la manière de vaincre les empêchements.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "El hexagrama muestra un abismo peligroso frente a nosotros y una montaña empinada e inaccesible detrás. Estamos rodeados de obstáculos.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2098,7 +2174,9 @@
           "texte": "Aller mène à des obstacles, venir mène à une grande fortune. Il est avantageux de voir le grand homme. On montre ici quelqu'un qui a déjà laissé derrière lui le monde et son agitation. Lorsque vient pour le monde le temps de l'obstacle, il pourrait sembler que la solution la plus simple serait pour lui de laisser purement et simplement le siècle derrière lui et de se réfugier dans l'au-delà. Mais cette voie lui est barrée. Il ne peut pas être bienheureux tout seul et abandonner le monde à sa détresse. Son devoir l'appelle une fois encore dans l'agitation du siècle. A cause précisément de son expérience et de sa liberté intérieure, il est capable de réaliser quelque chose de grand et de mûr qui apporte la fortune. Et il est avantageux de voir le grand homme en compagnie duquel on pourra achever l'œuvre du salut. Et hop, un coup dans le tibia"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA OBSTRUCCIÓN. El suroeste es favorable. El noreste no es favorable. Es favorable ver al gran hombre. La perseverancia trae buena fortuna.",
+      "image": "Agua en la montaña:\nLa imagen de LA OBSTRUCCIÓN.\nAsí el hombre noble dirige su atención hacia sí mismo y moldea su carácter."
     },
     {
       "numero": 40,
@@ -2106,10 +2184,10 @@
       "nom_fr": "La Liberación",
       "caractere": "解",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "L'obstacle est écarté, les difficultés sont conçues comme étant en cours de solution. La libération n'est pas encore achevée, elle ne fait juste que de commencer et ses différents stades sont représentés dans l'hexagramme.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Aquí el movimiento sale de la esfera del peligro. El obstáculo ha sido removido, las dificultades se están resolviendo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2146,18 +2224,20 @@
           "texte": "Le prince tire un faucon sur un mur élevé. Il l'abat. Tout est avantageux Le faucon sur un mur élevé est l'image d'un homme vulgaire devenu puissant et occupant un poste élevé, qui fait obstacle à la délivrance. Il s'oppose à l'influence libératrice par son action intérieure, car il est endurci dans sa méchanceté. Il doit être énergiquement écarté, et cela exige l'emploi des moyens adéquats. Confucius dit à ce sujet : « Le faucon est le but de la chasse. L'arc et la flèche sont les instruments et les moyens. Le tireur est l'homme, qui doit utiliser correctement les moyens en vue d'atteindre le but. L'homme noble cache les moyens dans sa personne. Il attend le moment et ensuite il agit. Comment dès lors tout n'irait-il pas très bien ? Il agit et il est libre. C'est pourquoi il lui suffit de sortir et il abat le gibier. Il en est ainsi de l'homme qui agit après avoir mis au point les moyens. » confusius commentary on line 6: The hawk is the object of the hunt; bow and arrow are the tools and means. The marksman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means. Priya – 02/11/2008 La liberation de cet envoutement tenace ? hilda algiz – 08/12/2008 Extremadura ! - Per espera ad astra - 1.0 – 0"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA LIBERACIÓN. El suroeste es favorable. Si ya no hay nada adonde ir, el retorno trae buena fortuna. Si todavía hay algo adonde ir, apresurarse trae buena fortuna.",
+      "image": "Trueno y lluvia comienzan:\nLa imagen de LA LIBERACIÓN.\nAsí el hombre noble perdona los errores y perdona las malas acciones."
     },
     {
       "numero": 41,
       "nom_pinyin": "Souen",
-      "nom_fr": "La Merma",
+      "nom_fr": "La Disminución",
       "caractere": "損",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "L'hexagramme montre une diminution du trigramme inférieur au profit du trigramme supérieur, car le 3e trait, qui était fort à l'origine, est passé à la place supérieure, et le trait faible qui, primitivement, occupait cette dernière position, l'a remplacé . Le trigramme inférieur s'est donc amoindri au bénéfice du trigramme supérieur. C'est un amoindrissement pur et simple ; si l'on diminue la base d'un édifice et que l'on en renforce les murs supérieurs, l'ensemble y perd de sa solidité. De même une diminution de la prospérité du peuple au profit des gouvernants constitue un amoindrissement pur et simple. Et l'hexagramme tout entier tend à montrer la manière dont ce déplacement de la prospérité peut s'opérer sans que les sources de cette dernière dans le peuple et ses couches inférieures en soient taries.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Este hexagrama representa una disminución del trigrama inferior en favor del superior, porque la tercera línea, originalmente fuerte, ha subido a la cima.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2200,7 +2280,9 @@
           "texte": "Lorsque quelqu'un est augmenté sans diminution des autres cela est sans blâme. La persévérance apporte la fortune. Il est avantageux d'entreprendre quelque chose. On obtient des serviteurs, mais on ne possède plus de maison séparée. Il y a des hommes qui dispensent des bénédictions au monde entier. Tout accroissement de force, toute augmentation qui leur échoit tourne au bien de l'ensemble des hommes et ne signifie donc pas une diminution pour les autres. Par un travail persévérant et plein de zèle on parvient au succès et l'on trouve les concours dont on a besoin. Mais ce qu'on réalise n'est pas quelque avantage personnel et limité : c'est un bénéfice public et accessible à tous. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DISMINUCIÓN combinada con sinceridad trae suprema buena fortuna sin culpa. Uno puede ser perseverante en esto. Es favorable emprender algo.",
+      "image": "Al pie de la montaña, el lago:\nLa imagen de LA DISMINUCIÓN.\nAsí el hombre noble controla su ira y refrena sus instintos."
     },
     {
       "numero": 42,
@@ -2210,8 +2292,8 @@
       "trigramme_haut": "Sun",
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "L'idée de l'augmentation s'exprime par le fait que le trait inférieur fort du trigramme supérieur est descendu et s'est placé au bas du trigramme inférieur. L'idée fondamentale du Livre des Transformations s'exprime également dans cette conception : régner véritablement, c'est servir. Un sacrifice de l'être supérieur qui réalise une augmentation de l'être inférieur est appelé augmentation pure et simple, pour indiquer l'esprit qui, seul, est en mesure d'aider le monde.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "La idea del aumento se expresa en el hecho de que la línea fuerte más baja del trigrama superior ha descendido y tomado su lugar bajo el trigrama inferior.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2254,18 +2336,20 @@
           "texte": "Il ne procure d'augmentation à personne. Quelqu'un assurément le frappe. Il ne conserve pas son cœur constamment ferme. Infortune. Le sens de la situation est que les supérieurs devraient augmenter les inférieurs en renonçant à eux-mêmes. Quand on néglige ce dévot agité dans ses paroles, celles-ci ne trouvent aucun écho chez lui et que l'on n'est utile à personne, on sort aussi de l'influence bienfaisante des autres et l'on se trouve vite isolé. On s'attire ainsi des attaques. Une disposition qui n'est pas en harmonie durable avec les exigences de l'époque apportera nécessairement l'infortune avec elle. Confucius dit à propos de ce trait : « L'homme noble met sa personne en repos avant de se mouvoir. Il se recueille dans son esprit avant de parler. Il affermit ses relations avant de demander quelque chose. Ayant mis ces trois choses en ordre, il est en parfaite sécurité. Mais si quelqu'un est brusque dans ses mouvements, les autres ne coopèrent pas avec lui. S'il demande quelque chose sans avoir auparavant noué des relations, les gens ne lui donnent pas. Si personne n'est avec lui, alors ceux qui veulent lui nuire s'approchent. ». je suis tombée sur ce tirage en de mandant si je devais retourner vers mon âme soeur pour nous unir à présent (nous nous étions séparés car je ne voulai spas d'enfant mais aujourd'hui je me sens prête à passer le pas) C'est notre unique objet de rupture...Que pouvez-vous me conseiller , je suis novice avec l'oracle! merci d'avance et bonne nuit dans"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL AUMENTO. Es favorable emprender algo. Es favorable cruzar las grandes aguas.",
+      "image": "Viento y trueno: la imagen del AUMENTO.\nAsí el hombre noble: si ve el bien, lo imita; si tiene defectos, se deshace de ellos."
     },
     {
       "numero": 43,
       "nom_pinyin": "Kouai",
-      "nom_fr": "La Resolución",
+      "nom_fr": "La Irrupción (La Resolución)",
       "caractere": "夬",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Lo Creativo, el Cielo",
-      "description": "L'hexagramme signifie d'une part une percée après une longue tension accumulée, comme la brèche qu'un fleuve fait à travers ses digues, comme un nuage qui crève. Sur le plan des situations humaines, c'est l'époque où les hommes vulgaires sont en voie de disparition. Leur influence décroît et une action résolue fait que le changement de conditions amène la percée. Ce signe est rattaché au 3 ème mois (avril-mai).",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Este hexagrama significa por un lado una irrupción después de una larga acumulación de tensión, como un río crecido rompe sus diques.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2308,18 +2392,20 @@
           "texte": "Pas d'appel. A la fin vient l'infortune. La victoire semble être achevée. Il ne demeure plus qu'un restant de mal qui doit être résolument déraciné comme l'époque le demande. Tout semble parfaitement aisé, mais c'est précisément en cela que réside le danger. Si l'on n'est pas sur ses gardes, le mal réussit à se frayer subrepticement un passage et, dès qu'il s'est échappé, de nouveaux malheurs naissent des germes qui avaient subsisté, car le mal ne meurt pas facilement. Face au mal que contient notre propre caractère, nous devons aussi faire un travail radical. Si, par négligence, on omettait de remédier à quelque point, il sortirait de là un nouveau mal. Ces précédents messages ne me semblent guère propices à de plus sages commentaires que je souhaite. Qui est cet Orsus qui parle ? Un inconnu vulgaire qui ne connait rien à la paix de Confusius. Heraclite – 09/12/2008 Oracle du Dieu vivant, t'es un enfoiré. les signes sont inconstants. c invivable pour qui te suit. Orsus ! ou rien 1p0 0rsus – 06/12/2008 19/02/09 Cry Havoc ! Orsius – 02/12/2008 le bien est mon chemin"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA IRRUPCIÓN. Uno debe hacer conocer el asunto resueltamente en la corte del rey. Debe anunciarse con verdad. Peligro. Es necesario notificar a la propia ciudad.",
+      "image": "El lago se ha elevado hasta el cielo:\nLa imagen de LA IRRUPCIÓN.\nAsí el hombre noble distribuye riquezas hacia abajo y se abstiene de descansar en su virtud."
     },
     {
       "numero": 44,
       "nom_pinyin": "Keou",
-      "nom_fr": "Ir al Encuentro",
+      "nom_fr": "El Ir al Encuentro",
       "caractere": "姤",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Lo Creativo, el Cielo",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "L'élément féminin vient de lui-même à la rencontre des hommes. C'est une situation dangereuse et non favorable à cause des conséquences possibles qu'il importe de reconnaître à temps et, par suite, d'enrayer. Ce signe est rattaché au 5e mois (juin-juillet) parce qu'avec le solstice d'été le principe obscur recommence peu à peu son ascension.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Este hexagrama indica una situación en la que el principio de la oscuridad, después de haber sido eliminado, se inmiscuye de nuevo furtiva e inesperadamente desde adentro y desde abajo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2362,7 +2448,9 @@
           "texte": "Il vient à la rencontre avec ses cornes. Humiliation. Pas de blâme. Quand un homme s'est retiré du monde, l'agitation profane lui devient souvent insupportable. Il y a souvent des hommes qui, dans un noble orgueil, se tiennent loin du vulgaire et le repoussent avec rudesse s'il vient à leur rencontre. De tels hommes sont réprimandés d'être durs et inaccessibles; toutefois comme ils ne sont plus liés par le devoir d'agir dans le monde, cela n'a pas grande importance. Ils savent supporter avec calme l'aversion de la masse. Labor comes from the word Passion (Obras). 1p0 – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL IR AL ENCUENTRO. La doncella es poderosa. No se debe casar con tal doncella.",
+      "image": "Bajo el cielo, viento:\nLa imagen del IR AL ENCUENTRO.\nAsí actúa el príncipe cuando disemina sus mandatos y los proclama a los cuatro rincones del cielo."
     },
     {
       "numero": 45,
@@ -2370,10 +2458,10 @@
       "nom_fr": "La Reunión",
       "caractere": "萃",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Lo Receptivo, la Tierra",
-      "description": "Là l'eau au-dessus de la terre, ici le lac au-dessus de la terre. Le lac est k point où se rassemblent les eaux, c'est pourquoi l'idée de rassemblement est ici plus fortement exprimée que dans l'hexagramme Pi. La même, idée fondamentale découle de ce qu'il y a ici à la 4e et à la 5e places deux traits forts qui réalisent le rassemblement, tandis que là il n'existe qu'un seul trait fort à la Se place au milieu des traits faibles.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Este hexagrama está relacionado en forma y significado con Pi, LA SOLIDARIDAD. En aquel, el agua está sobre la tierra; aquí un lago está sobre la tierra.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2416,18 +2504,20 @@
           "texte": "Lamentations et soupirs, larmes à flots. Pas de blâme. Il peut arriver que l'on veuille se joindre à quelqu'un, mais que l'on voie son intention méconnue. On est alors plein de tristesse et l'on se lamente. Mais c'est le bon chemin. Car cela peut amener l'autre à réfléchir et l'on peut parvenir encore à la réunion désirée et douloureusement manquée. felicitation a l'ecrivain really mais pour ma part je prefere la version original par ce qu'elle moins dirigiste et laisse ce fichu \"libre arbitre\" au demander aussi il a la possibilité de commettre des erreures mais de les rectifier de lui meme quand il en prend conscience cela dit faut il encore qu'on ne le me prise pas au point de le considerait uniquement comme le fils du vent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA REUNIÓN. Éxito. El rey se acerca a su templo. Es favorable ver al gran hombre. Esto trae éxito. La perseverancia es favorable.",
+      "image": "Sobre la tierra, el lago:\nLa imagen de LA REUNIÓN.\nAsí el hombre noble renueva sus armas para enfrentar lo imprevisto."
     },
     {
       "numero": 46,
       "nom_pinyin": "Cheng",
-      "nom_fr": "La Subida",
+      "nom_fr": "El Empuje Hacia Arriba",
       "caractere": "升",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Lo Receptivo, la Tierra",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "A cela est liée l'idée que le bois, dans la terre, pousse vers le haut. Cette « poussée vers le haut » est, par opposition au « progrès », (n° 35), liée à la notion d'effort, de même que les plantes ont besoin de force pour croître dans la terre.",
+      "trigramme_bas_desc": "le Doux, le Vent",
+      "description": "El trigrama inferior, Sun, representa la madera, y el superior, K'un, significa la tierra. Vinculada a esto está la idea de que la madera en la tierra crece hacia arriba.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2470,18 +2560,20 @@
           "texte": "Pousser vers le haut dans le noir. Il y a avantage à persévérer sans relâche. Celui qui pousse vers le haut en aveugle est intérieurement égaré. Il connaît seulement la progression, non la retraite. Mais de cette manière on s'épuise. Il est important dans de tels cas de se rappeler que l'on doit demeurer consciencieux et conséquent avec soi-même. Ce n'est qu'ainsi que l'on se préservera de la poussée aveugle qui est toujours mauvaise. That what he goes there for, is to unlock the door. While those around him criticize and sleep... And through a fractal on a breaking wall, I see you my friend, and touch your face again. Miracles will happen as we trip. But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy ^^ Orsius – 02/12/2008 silence"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL EMPUJE HACIA ARRIBA tiene éxito supremo. Uno debe ver al gran hombre. No temas. La partida hacia el sur trae buena fortuna.",
+      "image": "Dentro de la tierra, la madera crece:\nLa imagen del EMPUJE HACIA ARRIBA.\nAsí el hombre noble de carácter devoto acumula cosas pequeñas para lograr algo alto y grande."
     },
     {
       "numero": 47,
       "nom_pinyin": "K'ouen",
-      "nom_fr": "El Agotamiento",
+      "nom_fr": "La Opresión (El Agotamiento)",
       "caractere": "困",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "Le lac est vide, épuisé, tari. Mais l'idée d'épuisement apparaît d'une autre manière encore : en haut se trouve un trait obscur avec, au-dessous, deux traits lumineux; en bas est un trait lumineux entre deux traits obscurs. Le trigramme supérieur relève du principe obscur, tandis que le trigramme inférieur appartient au principe lumineux. Ainsi les hommes nobles sont partout accablés et contrariés dans leur action par les hommes vulgaires.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "El lago está arriba, el agua abajo; el lago está vacío, seco. El agotamiento se expresa de otra manera más.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2524,7 +2616,9 @@
           "texte": "Il est accablé par des sarments. Il se meut incertain et dit : « Le mouvement produit le remords ». Si l'on éprouve du remords à ce sujet et que l'on se mette en route on obtient une heureuse fortune. On est accablé par des liens qui se laissent rompre facilement. L'accablement touche à sa fin. Pourtant on est encore irrésolu : on demeure influencé par la situation antérieure et l'on pense qu'on aura à se repentir si l'on se meut. Mais dès qu'on a une vue claire des choses, que l'on se défait de cette attitude intérieure et que l'on embrasse une ferme résolution, on parvient à dominer l'accablement. gfhji"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA OPRESIÓN. Éxito. Perseverancia. El gran hombre produce buena fortuna. Sin culpa. Cuando uno tiene algo que decir, no se le cree.",
+      "image": "No hay agua en el lago:\nLa imagen del AGOTAMIENTO.\nAsí el hombre noble arriesga su vida siguiendo su voluntad."
     },
     {
       "numero": 48,
@@ -2532,10 +2626,10 @@
       "nom_fr": "El Pozo",
       "caractere": "井",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "Le bois s'enfonce dans la terre pour faire monter l'eau. C'est l'image des puits de l'ancienne Chine d'où l'on tirait l'eau à l'aide d'un seau suspendu à une perche. Le bois ne représente pas les seaux, qui étaient autrefois faits d'argile, mais les perches dont le mouvement permettait de tirer l'eau du puits. L'image s'applique également au monde des plantes qui font monter l'eau de la terre dans leurs fibres. Le puits où l'on trouve l'eau contient en outre l'idée de la nourriture prodiguée de façon inépuisable.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "La madera está abajo, el agua arriba. La madera baja a la tierra para traer agua. La imagen deriva del pozo de poste y cubo de la antigua China.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2578,18 +2672,20 @@
           "texte": "On tire de l'eau du puits sans obstacle. Il est sûr. Sublime fortune. Le puits est là pour tout le monde. Aucune défense ne vient gêner ceux qui veulent y puiser. Si nombreux soient-ils à venir, ils trouvent ce dont ils ont besoin, car on peut compter sur le puits. Il possède une source et n'est jamais à sec; c'est pourquoi il constitue une grande fortune pour le pays tout entier. Il en est de même de l'homme véritablement grand qui possède un trésor inépuisable d'excellence intérieure. Plus on y puise, plus son trésor s'accroît. de la réfection du puit à la puissance du grand, un pas , un renouveau algiz – 06/12/2008 Je m'épuise à vouloir boire de ton eau... lyliade – 04/12/2008 dommage que l'eau soit brouillé, les gens ont trop soif abandonne le puit inutilement ... felip69 – 04/12/2008 J'attendrai que ton eau redevienne claire... algiz – 01/12/2008 silence"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL POZO. La ciudad puede cambiarse, pero el pozo no puede cambiarse. Ni disminuye ni aumenta. Van y vienen y sacan del pozo.",
+      "image": "Agua sobre madera: la imagen del POZO.\nAsí el hombre noble anima al pueblo en su trabajo y los exhorta a ayudarse mutuamente."
     },
     {
       "numero": 49,
       "nom_pinyin": "Ko",
-      "nom_fr": "La Revolución",
+      "nom_fr": "La Revolución (La Muda)",
       "caractere": "革",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "Le sens primitif du caractère désignant l'hexagramme est celui d'une peau de bête qui se transforme en muant au cours de l'année. A partir de là le terme est appliqué aux mues qui se produisent dans la vie de l'Etat, aux grandes révolutions liées à un changement de régime. Les deux signes dont l'union forme l'hexagramme sont, comme dans K'ouei « L'opposition » (n° 38), les deux plus jeunes filles, Li et Touei. Mais, tandis que dans K'ouei la plus âgée des deux se tient en haut et qu'il n'en résulte pour l'essentiel qu'une opposition de tendances, ici c'est la plus jeune qui occupe la place supérieure et les effets s'affrontent mutuellement; les forces se combattent comme le feu et l'eau (le lac), chacune cherchant à détruire l'autre. D'où l'idée de révolution.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "El carácter chino para este hexagrama significa en su sentido original la piel de un animal, que cambia en el curso del año mediante la muda.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2632,7 +2728,9 @@
           "texte": "L'homme noble change comme une panthère. L'homme vulgaire mue de visage. Le départ apporte l'infortune. Demeurer persévérant apporte la fortune. Après que les grandes questions fondamentales ont été réglées, il reste encore à mener à bien des réformes de détail et des achèvements mineurs. Ceux-ci peuvent être comparés aux taches d'une peau de panthère, également visibles mais plus petites. Par suite, un changement se produit également chez les hommes vulgaires. Ils muent eux aussi conformément au changement général. Cette mue, il est vrai, n'est pas très profonde, mais il ne fallait pas en attendre davantage. On doit se contenter du possible. Si l'on voulait aller trop loin et atteindre trop de choses, on tomberait dans l'inquiétude et l'infortune. Car ce vers quoi l'on doit tendre dans une grande révolution, ce sont des conditions claires et précises qui assurent une sécurité générale dans la limite des possibilités de l'époque. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les "
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA REVOLUCIÓN. En tu propio día eres creído. Éxito supremo, favoreciendo por la perseverancia. El remordimiento desaparece.",
+      "image": "Fuego en el lago: la imagen de LA REVOLUCIÓN.\nAsí el hombre noble pone el calendario en orden y hace claras las estaciones."
     },
     {
       "numero": 50,
@@ -2640,10 +2738,10 @@
       "nom_fr": "El Caldero",
       "caractere": "鼎",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "L'image du chaudron évoque en même temps l'idée d'alimentation. Le chaudron en bronze était le récipient qui, dans les temples des ancêtres et lors des festins, contenait les aliments cuits. Le chef de famille les y puisait et les plaçait dans les coupes de ses hôtes. « Le puits » avait également le sens secondaire de distribution de la nourriture, mais surtout pour le peuple. Le chaudron, en tant que réalisation d'une civilisation raffinée, évoque les soins et l'alimentation prodigués aux hommes de valeur, qui tournent au bien du peuple (voir les 4 hexagrammes de l'alimentation : n\" 5, 27, 48, 50). Cet hexagramme et celui du « puits » sont les seuls du Livre des Transformations représentant des objets concrets artificiels. Toutefois l'idée d'alimentation a également son côté abstrait. Au-dessous, Souen est le bois et le vent; au-dessus, Li est la flamme. L'hexagramme représente donc également la flamme allumée par le bois et le vent qui évoque encore l'idée de la préparation des alime",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Las seis líneas construyen la imagen de Ting, EL CALDERO; en la parte inferior están las patas, sobre ellas el vientre, luego vienen las orejas (asas), y arriba los anillos de transporte.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2686,18 +2784,20 @@
           "texte": "Le chaudron a des anneaux de jade. Rien qui ne soit avantageux. Au trait précédent les anneaux sont d'or, ce qui indique leur solidité. Ici ils sont de jade. Le jade se distingue en ce qu'il joint la dureté à un doux éclat. Ce conseil, considéré par rapport à l'homme qui lui est accessible, exerce sur lui un effet très profitable. Il est ici présenté par rapport au sage qui le donne : un tel homme, lorsqu'il conseille, est doux et pur comme du jade précieux. De cette manière l'œuvre trouve grâce aux yeux de la divinité qui accorde une grande fortune, et elle est agréable aux yeux des hommes; c'est pourquoi tout va bien. \"Par là est désigné quelqu'un qui, à une époque de haute civilisation, se trouve à un poste où personne ne le reconnaît et ne prête attention à lui. C'est pour son action un obstacle considérable. Toutes ses bonnes qualités et tous les dons de son esprit sont ainsi dépensés en pure perte\" tu crois que c'est de toi qu'il s'agit? nino – 02/12/2008 et tombe la pluie nina – 02/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL CALDERO. Suprema buena fortuna. Éxito.",
+      "image": "Fuego sobre madera:\nLa imagen del CALDERO.\nAsí el hombre noble consolida su destino haciendo correcta su posición."
     },
     {
       "numero": 51,
       "nom_pinyin": "Tchen",
-      "nom_fr": "Lo Suscitativo",
+      "nom_fr": "Lo Suscitativo (La Conmoción, El Trueno)",
       "caractere": "震",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Lo Suscitativo, el Trueno",
-      "description": "L'hexagramme Tchen est le. fils aîné qui prend le commandement avec énergie et puissance. Un trait yang apparaît sous deux traits yin et exerce une puissante poussée vers le haut. Cc mouvement est si violent qu'il suscite l'effroi. Il a pour image le tonnerre qui jaillit de la terre et dont l'ébranlement provoque crainte et tremblement.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "El hexagrama Chên representa al hijo mayor, que toma el poder con energía y fuerza.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2740,18 +2840,20 @@
           "texte": "L'ébranlement apporte la ruine et les regards anxieux que l'on jette tout autour. Aller de l'avant apporte l'infortune. Si cela n'a pas encore atteint notre corps, mais a commencé par toucher notre voisin, il n'y a pas de blâme. Les compagnons en ont à raconter. Lorsque l'ébranlement intérieur a atteint son plus haut point d'intensité il prive un homme de sa faculté de réflexion et de sa clarté de regard. Dans une telle commotion il n'est naturellement pas possible d'agir de façon considérée. L'attitude juste est alors de se tenir en repos jusqu'à ce qu'on ait retrouvé le calme et la clarté. On ne peut cependant y parvenir que si l'on ne s'est pas encore laissé gagner par l'excitation dont il est déjà possible d'observer les effets fâcheux au sein de l'entourage. Si l'on se retire à temps de l'action, on demeure exempt de fautes et de dommages. Mais on peut être sûr que les compagnons qui, pris dans ce tourbillon, n'admettent plus désormais les avertissements, ne seront pas satisfaits d'une pareille conduite. On se bornera à ne faire aucun cas d'une telle attitude. renoncement sublime algiz – 03/11/2008 au revoir c'etait fort instructif"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA CONMOCIÓN trae éxito. La conmoción llega—¡oh, oh! Palabras risueñas—¡ja, ja! La conmoción aterroriza por cien millas.",
+      "image": "Trueno repetido: la imagen de LA CONMOCIÓN.\nAsí en temor y temblor el hombre noble pone su vida en orden y se examina a sí mismo."
     },
     {
       "numero": 52,
       "nom_pinyin": "Ken",
-      "nom_fr": "El Aquietamiento",
+      "nom_fr": "El Aquietamiento (La Montaña)",
       "caractere": "艮",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "El Aquietamiento, la Montaña",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "Le principe masculin est au-dessus, et suit en cela sa direction naturelle; le principe féminin est au-dessous, conformément à la direction de son mouvement. Un état de repos s'est donc établi, car le mouvement est parvenu à sa fin normale. Appliqué à l'homme, l'hexagramme traite du problème de la paix du cœur à acquérir. Le cœur est très difficile à calmer. Tandis que le bouddhisme s'efforce d'atteindre le repos par la cessation de tout mouvement dans l'état de nirvana, le point de vue du Livre des Transformations est que le repos constitue seulement un état polaire qui a toujours pour complément le mouvement. Il est possible que le texte contienne des allusions à des pratiques de yoga.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "La imagen de este hexagrama es la montaña, el hijo menor del cielo y la tierra.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2788,18 +2890,20 @@
           "texte": "Immobilisation magnanime. Fortune. Ici est exprimé l'achèvement de l'effort vers le calme. Non seulement on est en paix en ce qui concerne les détails, les choses comprises dans un cercle restreint, mais un renoncement général procure la paix dans tous les domaines et une heureuse fortune dans tous les actes. 6 mois de pratique de Natha-Yoga... nataraja – 07/12/2008 Wait and see..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL AQUIETAMIENTO. Mantener quieta su espalda de modo que ya no sienta su cuerpo. Va a su patio y no ve a su gente. Sin culpa.",
+      "image": "Montañas muy juntas:\nLa imagen del AQUIETAMIENTO.\nAsí el hombre noble no permite que sus pensamientos vayan más allá de su situación."
     },
     {
       "numero": 53,
       "nom_pinyin": "Tsien",
-      "nom_fr": "La Evolución",
+      "nom_fr": "El Desarrollo (Progreso Gradual)",
       "caractere": "漸",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "Un arbre sur une montagne se développe lentement et suivant un ordre et c'est pourquoi il se dresse ensuite solidement enraciné. De là naît l'idée d'un développement progressant graduellement, pas à pas. Les propriétés des trigrammes se rapportent également aux mêmes notions : à l'intérieur se trouve le repos qui préserve des actions précipitées et à l'extérieur la pénétration qui rend possibles le développement et le progrès",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Este hexagrama está compuesto por Sun (madera, penetración) arriba, es decir, afuera, y Kên (montaña, quietud) abajo, es decir, adentro.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2842,7 +2946,9 @@
           "texte": "L'oie sauvage se dirige progressivement vers les hauteurs nuageuses. Ses plumes peuvent être utilisées pour la danse sacrée. Fortune. La vie parvient ici à son terme. Lœuvre est là, achevée. Le chemin s'élève haut dans le ciel, comme le vol des oies sauvages lorsqu'elles ont laissé le sol loin derrière elles. Là elles poursuivent leur vol, conservant l'ordre de leur troupe et offrant la figure de lignes serrées. Et si leurs plumes viennent, à tomber, elles peuvent être utilisées comme ornement dans les ballets sacrés. Ainsi la vie d'un homme parvenu à la perfection est une claire lumière pour les êtres terrestres qui lèvent les yeux vers lui comme vers un modèle. in love with hilda ? algiz – 06/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL DESARROLLO. La doncella es dada en matrimonio. Buena fortuna. La perseverancia es favorable.",
+      "image": "En la montaña, un árbol:\nLa imagen del DESARROLLO.\nAsí el hombre noble permanece en dignidad y virtud, para mejorar las costumbres."
     },
     {
       "numero": 54,
@@ -2850,10 +2956,10 @@
       "nom_fr": "La Desposada",
       "caractere": "歸妹",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "En haut est Tchen, le fils aîné; en bas, Touei, la plus jeune fille. L'homme marche devant et la jeune fille suit, joyeuse. Ainsi se trouve dépeinte l'entrée de la jeune fille dans la maison de l'homme. Il y a en tout quatre hexagrammes décrivant les rapports entre époux. Le n° 31, Hien (l'influence) décrit l'attraction mutuelle qu'éprouvent les membres d'un jeune couple. Le n° 32, Hong (la durée) représente la situation durable qui est celle du mariage. Le n° 53 Tsien (le développement) offre le tableau des formes pleines d'hésitation et de cérémonie qui accompagnent la conclusion d'un mariage célébré selon les règles. Enfin Kouei Mei (le mariage de la jeune fille) montre un homme d'un certain âge suivi de la jeune fille qu'il épouse. NOTE : En Chine, la monogamie est la règle. Chaque homme n'a qu'une épouse officielle. Cette union, qui concerne moins ses deux contractants que l'institution familiale, est conclue suivant une stricte observation des formes. Cependant l'homme est autori",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Arriba tenemos Chên, el hijo mayor, y abajo, Tui, la hija menor. El hombre dirige y la muchacha lo sigue con alegría.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2896,18 +3002,20 @@
           "texte": "La femme tient la corbeille, mais il n'y a pas de fruits dedans. L'homme perce la brebis, mais il ne coule pas de sang. Rien qui soit avantageux. Lors des sacrifices aux ancêtres, la femme devait présenter les fruits dans une corbeille et l'homme immoler lui-même la victime. Ici les formes ne sont respectées que superficiellement. La femme prend un corbeille vide et l'homme perce une brebis déjà abattue, simplement pour sauvegarder les apparences. Mais cette attitude impie, frivole ne fait guère présager de bonheur pour les époux. ha bon robert – 09/12/2007 choglamsar bodhicitta"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DESPOSADA. Las empresas traen desgracia. Nada que sea favorable.",
+      "image": "Trueno sobre el lago:\nLa imagen de LA DESPOSADA.\nAsí el hombre noble comprende lo transitorio a la luz de la eternidad del fin."
     },
     {
       "numero": 55,
       "nom_pinyin": "Fong",
-      "nom_fr": "La Plenitud",
+      "nom_fr": "La Abundancia (La Plenitud)",
       "caractere": "豐",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "Tchen est le mouvement, Li, la flamme dont la propriété est la clarté. Clarté au-dedans, mouvement au-dehors produisent grandeur et abondance. Ce que représente l'hexagramme est une époque de haute civilisation. Toutefois le fait qu'il s'agisse d'un sommet entraîne l'idée que cet état extraordinaire d'abondance ne pourra se maintenir de façon durable.",
+      "trigramme_bas_desc": "Ce-qui-s'attache, la Flamme",
+      "description": "Chên es movimiento; Li es llama, cuyo atributo es la claridad. Claridad adentro, movimiento afuera—esto produce grandeza y abundancia.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2950,7 +3058,9 @@
           "texte": "Sa maison est dans l'abondance. Il cache sa famille. Il guette à travers la porte et ne remarque plus personne. Pendant trois ans il ne voit rien. Infortune. On montre ici un homme qui, par son arrogance et son entêtement, parvient à l'opposé du but de ses efforts. Il recherche l'abondance et le luxe pour sa maison. Il veut être le maître absolu chez lui. Mais il s'aliène ainsi sa famille, si bien que finalement il se trouve entièrement isolé i'm fullfill with the prediction of my inner self to become real. yoko – 09/12/2008 this is the very moment, I am getting this information from the universe, I am feeling the power and gain the power. I Ching is the guard.all will be good. yalin"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA ABUNDANCIA tiene éxito. El rey alcanza la abundancia. No estés triste. Sé como el sol a mediodía.",
+      "image": "Tanto el trueno como el relámpago vienen:\nLa imagen de LA ABUNDANCIA.\nAsí el hombre noble decide pleitos y ejecuta castigos."
     },
     {
       "numero": 56,
@@ -2958,10 +3068,10 @@
       "nom_fr": "El Viajero",
       "caractere": "旅",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "Ils ne restent donc pas ensemble. Eloignement et séparation, tel est le lot du voyageur.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "La montaña, Kên, permanece quieta; sobre ella el fuego, Li, arde hacia arriba y no se demora. Por lo tanto los dos trigramas no permanecen juntos.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3004,18 +3114,20 @@
           "texte": "Le nid de l'oiseau brûle. D'abord le voyageur rit, puis il doit se lamenter et gémir. Il perd étourdiment la vache. Infortune. L'image de l'oiseau dont le nid brûle désigne la perte du lieu de repos. Si l'oiseau a été étourdi et imprévoyant en construisant son nid, un tel malheur peut le frapper. Il en est de même du voyageur. S'il se laisse aller à plaisanter et à rire en oubliant qu'il est un voyageur, il aura plus tard à gémir et à se lamenter. Car si l'on perd étourdiment sa vache, c'est-à-dire sa faculté d'adaptation, les résultats seront mauvais. I'll keep trying!"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EL VIAJERO. Éxito a través de lo pequeño. La perseverancia trae buena fortuna al viajero.",
+      "image": "Fuego en la montaña:\nLa imagen del VIAJERO.\nAsí el hombre noble es claro y cauteloso al imponer penas, y no prolonga los litigios."
     },
     {
       "numero": 57,
       "nom_pinyin": "Souen",
-      "nom_fr": "Lo Suave",
+      "nom_fr": "Lo Suave (Lo Penetrante, El Viento)",
       "caractere": "巽",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Lo Suave, el Viento",
-      "description": "C'est la fille aînée; il a comme image le vent ou le bois, comme propriété la douceur qui pourtant pénètre à la façon du vent ou du bois qui pousse ses racines. Le principe obscur, qui est en lui-même rigide et immobile, est dissous par la pénétration du principe lumineux qui se l'assujettit doucement. Dans la nature, c'est le vent qui disperse les nuages amoncelés et crée la clarté sereine du ciel. Dans la vie humaine, c'est la clarté pénétrante du jugement qui anéantit toutes les sombres arrière-pensées. Dans la vie sociale, c'est l'influence d'une personnalité marquante qui démasque et dissipe toutes les intrigues nouées dans l'ombre.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Sun es uno de los ocho trigramas doblados. Es la hija mayor y simboliza el viento o la madera; tiene como atributo la gentileza, que sin embargo penetra como el viento.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3058,18 +3170,20 @@
           "texte": "Pénétration sous le lit. Il perd ses biens et sa hache. La persévérance apporte l'infortune. La connaissance est suffisamment pénétrante. On poursuit les influences mauvaises jusque dans les recoins les plus secrets, mais on n'a plus la force de les combattre de façon décisive. Dans ce cas, toute tentative pour pénétrer dans ce domaine propre de l'obscurité n'a que des conséquences fâcheuses. oioioioi"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LO SUAVE. Éxito a través de lo pequeño. Es favorable tener un lugar adonde ir. Es favorable ver al gran hombre.",
+      "image": "Vientos siguiéndose uno tras otro:\nLa imagen de LO SUAVEMENTE PENETRANTE.\nAsí el hombre noble difunde sus mandatos y lleva a cabo sus empresas."
     },
     {
       "numero": 58,
       "nom_pinyin": "Touei",
-      "nom_fr": "Lo Sereno",
+      "nom_fr": "Lo Sereno (El Lago)",
       "caractere": "兌",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Lo Sereno, el Lago",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "Touei est, comme Souen, l'un des huit hexagrammes doubles. Touei représente la plus jeune fille; son image est le lac souriant, sa propriété, la joie. La joie ne repose pas, comme on pourrait le croire, sur la malléabilité qui se manifeste dans le trait supérieur. En effet, la propriété du principe malléable, c'est-à-dire obscur, n'est pas la joie, mais la mélancolie. La joie repose bien plutôt sur la présence, à l'intérieur, de deux traits forts qui s'extériorisent par l'intermédiaire du trait faible. La vraie joie provient donc de la fermeté et de la force qui se trouvent à l'intérieur et qui s'extériorisent sous une forme tendre et douce.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Este hexagrama, como Sun, es uno de los ocho formados por la duplicación de un trigrama. Tui denota la hija menor; está simbolizado por el lago sonriente.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3112,18 +3226,20 @@
           "texte": "Gaîté séductrice. Un homme intérieurement vain attire à lui les plaisirs du divertissement et, au milieu d'eux, doit connaître la souffrance (voir six à la 3e place). Si l'on n'est pas affermi intérieurement, les plaisirs extérieurs auxquels on ne s'est pas soustrait exercent une action si violente qu'on se laisse emporter par eux. Il n'est plus ici question de danger, de fortune ou d'infortune. On a laissé échapper le gouvernail de sa propre vie et ce qu'il adviendra de nous dépend désormais du hasard et des influences extérieures. ..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LO SERENO. Éxito. La perseverancia es favorable.",
+      "image": "Lagos descansando uno sobre el otro:\nLa imagen de LO SERENO.\nAsí el hombre noble se une con sus amigos para discusión y práctica."
     },
     {
       "numero": 59,
       "nom_pinyin": "Houan",
-      "nom_fr": "La Disolución",
+      "nom_fr": "La Dispersión (La Disolución)",
       "caractere": "渙",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "L'hexagramme contient aussi l'idée que, si la force vitale s'accumule dans l'homme (ce que la propriété du trigramme inférieur donne pour dangereux), elle sera de nouveau dispersée et dissoute par la douceur.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "El viento soplando sobre el agua la dispersa, disolviéndola en espuma y neblina. Esto sugiere que cuando la energía vital de un hombre está represada dentro de él, la gentileza sirve para romper y disolver el bloqueo.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3166,18 +3282,20 @@
           "texte": "Il dissout son sang. S'en aller, se tenir à distance, sortir demeurent sans blâme. Dissoudre le sang signifie dissoudre ce qui pouvait amener le sang et les blessures, c'est-à-dire éviter le danger. Toutefois la pensée exprimée ici n'est pas que l'on évite les difficultés pour soi-même, mais que l'on délivre les êtres chers en les aidant à partir avant que le danger soit là, à se tenir à distance d'un danger déjà présent et à sortir d'un danger qui les a déjà assaillis. De cette manière on agit correctement. Se dissoudre pour s'augmenter... Comme les bergers du ciel en dispersent les moutons de pluie pour mieux rendre lumière aux moutons de la Terre... Avrel – 02/11/2008 Je n'ai fat que pleurer les dernieres mois a cause de la prise de conscience sur la dimention des douleurs que l'on cause a la terre. Je me demande si je vais trouver le courage d'acheter un billet d'avion por partir en Copenhage a la recherche de Hopenhagen ...et puis car je ne connais pas, il m'ont sugeré du faire du sac a dos vers cristiana, pour trouver si mon ami Amador qui avait eu un rêvé hier soir dont je trouvais l'amour de ma vie ...a Copenhage....Puis je dorme car il est tard maintenat et j'ai des rêves a dilucider. Camaleon sans Chaussettes – 02/11/2008 Dagnelle j ai arreté de fumer, un an plus tard avec le fric économisé je suis partit en Chine. J y vis et travaille encore. Fennec – 02/11/2008 me voila prete à en finir.. et que dois je penser ? qui est ce tigre sur la queue duquel je dois marcher"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA DISPERSIÓN. Éxito. El rey se acerca a su templo. Es favorable cruzar las grandes aguas. La perseverancia es favorable.",
+      "image": "El viento sopla sobre el agua:\nLa imagen de LA DISPERSIÓN.\nAsí los reyes de antaño sacrificaban al Señor y construían templos."
     },
     {
       "numero": 60,
       "nom_pinyin": "Tsie",
-      "nom_fr": "La Restricción",
+      "nom_fr": "La Limitación",
       "caractere": "節",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "Le lac occupe un espace limité. Quand il reçoit davantage d'eau, il déborde. C'est pourquoi on doit lui assigner des limites. L'image représente l'eau en bas et l'eau en haut, avec, entre les deux, le firmament comme limite. Le mot chinois pour exprimer la limitation désigne proprement les nœuds qui partagent une tige de bambou. Dans la vie courante, le même mot désigne l'économie qui se fixe des limites précises pour ses dépenses. Dans la vie morale, ce sont les limites rigoureuses que l'homme noble impose à ses actes et qui sont celles de la loyauté et du désintéressement.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Un lago ocupa un espacio limitado. Cuando entra más agua, se desborda. Por lo tanto deben establecerse límites para el agua.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3220,7 +3338,9 @@
           "texte": "Limitation amère : la persévérance apporte l'infortune. Le remords disparaît. Quand on s'impose des limites trop sévères, les hommes ne les supportent pas. Plus on applique cette sévérité avec logique, plus cela est mauvais, car, à la longue, une réaction est inévitable. Ainsi également le corps torturé s'insurge lorsqu'on suit la voie d'un ascétisme trop sévère. Mais, bien que cette sévérité impitoyable ne soit pas à utiliser durablement et de façon normale, il peut y avoir des moments où elle constitue l'unique moyen de se préserver de la faute et du remords. Ce sont les situations où l'absence de pitié à l'égard de soi-même est le seul moyen de sauver son âme qui, sans cela, tomberait dans l'indécision et la tentation. good"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA LIMITACIÓN. Éxito. La limitación irritante no debe ser persistida.",
+      "image": "Agua sobre el lago: la imagen de LA LIMITACIÓN.\nAsí el hombre noble crea número y medida, y examina la naturaleza de la virtud y la conducta correcta."
     },
     {
       "numero": 61,
@@ -3228,10 +3348,10 @@
       "nom_fr": "La Verdad Interior",
       "caractere": "中孚",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Lo Suave, el Viento",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Lo Sereno, el Lago",
-      "description": "Le vent souffle sur le lac et meut la surface de l'eau Ainsi se manifestent les effets visibles de l'invisible. L'hexagramme se compose de traits pleins dans ses parties supérieure et inférieure, tandis qu'au centre il est libre. Cela indique un cœur libre de préjugés et, par suite, capable d'accueillir la vérité. Par contre, chacun des trigrammes a un trait plein en son centre. Ainsi se trouve traduite la force de la vérité intérieure dans les effets qu'elle opère. Les propriétés des trigrammes sont : en haut, la douceur, la complaisance envers les inférieurs; en bas, la joie dans l'obéissance aux supérieurs. De telles dispositions créent la base d'une confiance réciproque qui rend le progrès possible. Le caractère fou (vérité) est en fait l'image d'une patte d'oiseau au-dessus d'un oisillon. Il contient l'idée de la couvaison. L'oeuf est creux. La vertu vivifiante du principe lumineux doit agir de l'extérieur. Mais il est nécessaire qu'un germe de vie existe déjà à l'intérieur pour q",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "El viento sopla sobre el lago y agita la superficie del agua. Así se manifiestan los efectos visibles de lo invisible. El hexagrama consiste en líneas firmes arriba y abajo, mientras está abierto en el centro.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3274,7 +3394,9 @@
           "texte": "Le chant du coq pénétrant jusqu'au ciel. La persévérance apporte l'infortune. Le remords disparaît. On peut se fier au coq. Il chante quand vient le matin. Toutefois il ne peut pas voler lui-même au ciel. Il se contente de lancer son cri. Ainsi on peut susciter la foi par de simples paroles. Cela réussit à l'occasion. Mais si l'on persiste dans cette manière de faire, les conséquences sont fâcheuses. Prétendre à la filiation familiale d'un Lê n'est pas un destin réservé à tous les mortels. Un abus d'une telle mansuétude n'est donc pas à redouter. Lê Van an ninh 27/07/08 an ninh – 08/12/2007 On peut entreprendre même les affaires les plus dangereuses, telles que la traversée de grandes eaux, et ces actions seront couronnées de succès... Dom – 01/12/2007 la reponse au doute... moi – 09/12/2006 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA VERDAD INTERIOR. Cerdos y peces. Buena fortuna. Es favorable cruzar las grandes aguas. La perseverancia es favorable.",
+      "image": "Viento sobre el lago: la imagen de LA VERDAD INTERIOR.\nAsí el hombre noble discute casos criminales para retrasar las ejecuciones."
     },
     {
       "numero": 62,
@@ -3282,10 +3404,10 @@
       "nom_fr": "La Preponderancia de lo Pequeño",
       "caractere": "小過",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Lo Suscitativo, el Trueno",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "El Aquietamiento, la Montaña",
-      "description": "n° 28) les traits forts l'emportent et se trouvent placés à l'intérieur, compris entre les deux traits faibles du début et de la fin; ici ce sont les traits faibles également placés à l'extérieur qui prédominent, tandis qu'à l'intérieur sont les traits forts. C'est là-dessus que repose la situation exceptionnelle décrite par l'hexagramme. Quand les traits forts sont à l'extérieur, nous avons les signes Yi, « L'alimentation » (n° 27), et Tchoung Fou, « La Vérité intérieure » (no 61), qui, tous deux, désignent des situations ne présentant pas de caractère exceptionnel. Si les traits forts situés à l'intérieur prédominent, ils doivent nécessairement tenter de s'imposer. Il s'ensuit un combat et des conditions exceptionnelles en général. Ici, par contre, l'élément faible est obligé d'assurer les relations avec le monde extérieur. Si l'on se trouve à un poste d'autorité que l'on n'est pas, par nature, de taille à assumer, une prudence extraordinaire est indispensable.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Mientras que en el hexagrama Ta Kuo, PREPONDERANCIA DE LO GRANDE, los pesos de los dos extremos son demasiado pesados para el medio, aquí el medio es demasiado fuerte para los dos extremos.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3322,7 +3444,9 @@
           "texte": "Il le dépasse sans le rencontrer. L'oiseau qui vole le quitte. Infortune. Cela signifie malheur et dommage. Si l'on tire au-dessus du but, on ne peut pas l'atteindre. Si l'oiseau ne veut pas gagner son nid, mais vole toujours plus haut, il tombe finalement dans le filet du chasseur. Celui qui, aux époques exceptionnelles où prédomine ce qui est petit, ne sait pas se contenir, mais, agité, veut toujours aller plus loin, celui-là s'attire le malheur de la part des dieux et des hommes, car il s'éloigne de l'ordre naturel. Ben Laden est-il mort?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "LA PREPONDERANCIA DE LO PEQUEÑO. Éxito. La perseverancia es favorable. Las cosas pequeñas pueden hacerse; las grandes cosas no deben hacerse.",
+      "image": "Trueno en la montaña:\nLa imagen de LA PREPONDERANCIA DE LO PEQUEÑO.\nAsí en su conducta el hombre noble da preponderancia a la reverencia."
     },
     {
       "numero": 63,
@@ -3330,14 +3454,14 @@
       "nom_fr": "Después de la Consumación",
       "caractere": "既濟",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Lo Abismal, el Agua",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Lo Adherente, el Fuego",
-      "description": "Cet hexagramme est le dérivé de l'hexagramme n° II Tai,« la paix » M. Le passage de la confusion à l'ordre est accompli, maintenant tout est à sa place jusque dans le détail. Les traits forts sont aux endroits forts et les traits faibles aux endroits faibles. C'est un aspect très favorable, mais il offre encore matière à réflexion. C'est précisément lorsque l'équilibre parfait est atteint que chaque mouvement peut entraîner l'apparition du déclin à partir de l'état où règne l'ordre. L'unique trait fort qui s'est dirigé vers le haut et a ainsi parachevé l'ordre dans le détail est suivi des autres qui se meuvent conformément à leur nature, et c'est ainsi que réapparaît subitement l'hexagramme n° 12 P'i, « la stagnation » . C'est ainsi que l'hexagramme indique les conditions d'un apogée qui rendent nécessaire une extrême prudence.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Este hexagrama es la evolución de T'ai, LA PAZ. La transición de la confusión al orden está completa, y todo está en su lugar apropiado.",
       "jugement_titre": "",
-      "jugement_texte": "DESPUÉS DE LA CONSUMACIÓN. Éxito en asuntos pequeños. La perseverancia es favorable. Al principio buena fortuna, al final desorden.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Agua sobre fuego: la imagen de la condición DESPUÉS DE LA CONSUMACIÓN.\nAsí el hombre noble piensa en la desgracia y se arma contra ella por adelantado.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -3376,7 +3500,9 @@
           "texte": "Il met la tête dans l'eau. Danger. En manière de conclusion, un avis est encore ajouté ici : après avoir traversé un cours d'eau, on ne peut mettre la tête dans l'eau que si l'on y retourne imprudemment. Tant que l'on va droit devant soi et que l'on ne regarde pas en arrière, on échappe à ce danger. Mais il y a quelque chose de fascinant à demeurer immobile et à regarder en arrière vers le danger que l'on a surmonté. Une admiration de soi aussi frivole n'amène rien d'heureux. On se met ainsi en danger et, si l'on ne se décide pas finalement à aller de l'avant sans s'arrêter, on devient victime de ce danger. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 01/12/2009 'Nine at the beginning means: He breaks his wheels. ' contains a typo. Should be 'brakes his wheels'.. this can be seen in the Chinese. If one doubts this one can check a print version of Wilhelm/Baynes."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DESPUÉS DE LA CONSUMACIÓN. Éxito en asuntos pequeños. La perseverancia es favorable. Al principio buena fortuna, al final desorden.",
+      "image": "Agua sobre fuego: la imagen de la condición DESPUÉS DE LA CONSUMACIÓN.\nAsí el hombre noble piensa en la desgracia y se arma contra ella por adelantado."
     },
     {
       "numero": 64,
@@ -3384,14 +3510,14 @@
       "nom_fr": "Antes de la Consumación",
       "caractere": "未濟",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Lo Adherente, el Fuego",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Lo Abismal, el Agua",
-      "description": "Sans doute le changement est déjà préparé : tous les traits du trigramme supérieur se trouvent en effet en relation avec ceux du trigramme inférieur. Cependant ils ne sont pas encore à leur place. Tandis que l'hexagramme précédent est analogue à l'automne qui constitue la transition de l'été à l'hiver, le présent hexagramme ressemble au printemps qui mène de la stagnation de l'hiver à la fécondité de l'été. C'est sur cette perspective pleine d'espoir que se clôt le Livre des Transformations.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Este hexagrama indica un tiempo en que la transición del desorden al orden aún no está completada. El cambio está preparado, ya que todas las líneas del trigrama superior están en relación con las del inferior.",
       "jugement_titre": "",
-      "jugement_texte": "ANTES DE LA CONSUMACIÓN. Éxito. Pero si el pequeño zorro, después de casi completar el cruce, moja su cola en el agua, no hay nada que sea favorable.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Fuego sobre agua: la imagen de la condición antes de la transición.\nAsí el hombre noble es cuidadoso en la diferenciación de las cosas, para que cada una encuentre su lugar.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -3430,7 +3556,9 @@
           "texte": "En pleine confiance on boit du vin. Pas de blâme. Mais si l'on se mouille la tête, on la perd, en vérité. Avant l'accomplissement, au seuil des temps nouveaux, l'homme se trouve réuni en pleine confiance mutuelle avec les siens et passe en buvant joyeusement le temps de l'attente. Comme l'ère nouvelle est à la porte, il n'y a pas là de sujet de blâme. On doit seulement veiller à garder la juste mesure. Mais si l'on se laisse aller à l'ivresse, on perd par sa démesure ce que la situation avait de favorable. les \"gentilles ombres\""
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ANTES DE LA CONSUMACIÓN. Éxito. Pero si el pequeño zorro, después de casi completar el cruce, moja su cola en el agua, no hay nada que sea favorable.",
+      "image": "Fuego sobre agua:\nLa imagen de la condición antes de la transición.\nAsí el hombre noble es cuidadoso en la diferenciación de las cosas, para que cada una encuentre su lugar."
     }
   ]
 }

@@ -12,14 +12,14 @@
       "nom_fr": "Das Schöpferische",
       "caractere": "乾",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Les traits pleins correspondent à la puissance originelle yang qui est lumineuse, forte, spirituelle, active. L'hexagramme est uniformément fort de nature. En tant qu'aucune faiblesse ne s'attache à lui, il a pour propriété la force. Son image est le ciel. La force est représentée comme n'étant pas liée à des conditions spatiales déterminées : elle est par suite conçue comme mouvement. Ce qui est tenu pour le fondement de ce mouvement est le temps. L'hexagramme inclut donc également la puissance du temps et la puissance de la persévérance dans le temps, la durée. Dans l'interprétation de l'hexagramme il faut toujours considérer un double sens : le sens macrocosmique et l'action dans le monde des hommes. Appliqué aux événements de l'univers, ce signe exprime la puissante action créatrice de la divinité. Envisagé par rapport au monde des hommes, il désigne l'action créatrice des saints sages, du souverain ou guide des hommes qui, par sa puissance, éveille et développe leur nature supérie",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Das erste Hexagramm besteht aus sechs durchgezogenen Linien. Diese durchgezogenen Linien stehen für die ursprüngliche Kraft, die lichtspendend, aktiv, stark und geistig ist. Das Hexagramm ist durchweg stark im Charakter.",
       "jugement_titre": "",
-      "jugement_texte": "DAS SCHÖPFERISCHE wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit.\n\nDes Himmels Bewegung ist kraftvoll. So macht der Edle sich stark und unermüdlich.\n\nDas Zeichen ist durchaus stark von Natur. Da keine Schwäche daran ist, hat es als Eigenschaft die Stärke. Sein Bild ist der Himmel. Die Kraft ist dargestellt als nicht an bestimmte räumliche Bedingungen gebunden, daher wird sie als Bewegung aufgefasst. Die Zeit ist die Grundlage dieser Bewegung.",
+      "jugement_texte": "LE CRÉATEUR opère une sublime réussite, favorisant par la persévérance.\n\nLe mouvement du ciel est puissant. Ainsi l'homme noble se rend fort et infatigable.\n\nL'hexagramme est uniformément fort de nature. En tant qu'aucune faiblesse ne s'y attache, il a pour propriété essentielle la force. Son image est le ciel. La force est représentée comme n'étant pas liée à des conditions spatiales déterminées : elle est par suite conçue comme mouvement. Le temps est le fondement de ce mouvement.",
       "image_titre": "",
-      "image_texte": "Des Himmels Bewegung ist kraftvoll.\nSo macht der Edle sich stark und unermüdlich.\n\nDie Zeitdauer ist das Bild der dem Schöpferischen eigentümlichen Kraft. Der Weise zieht daraus das Vorbild, nach dem er seine Eigenschaften entwickelt, um sie dauernd zu machen. Er entfernt gewissenhaft alles Geringe, alles Gemeine. So wird er unermüdlich durch freiwillige Einschränkung seines Wirkungskreises.",
+      "image_texte": "Le mouvement du ciel est puissant.\nAinsi l'homme noble se rend fort et infatigable.\n\nLa durée dans le temps est l'image de la force telle qu'elle est propre au Créateur. Le sage y puise le modèle selon lequel il développe ses qualités, de façon à les rendre durables. Il élimine consciencieusement tout ce qui est inférieur, tout ce qui est vulgaire. Ainsi il devient infatigable grâce à une limitation volontaire de son champ d'activité.",
       "traits": [
         {
           "position": 1,
@@ -58,7 +58,9 @@
           "texte": "Dragon orgueilleux aura à se repentir. Lorsqu'un homme veut s'élever si haut qu'il perd le contact avec les autres hommes, il devient isolé, et cela le conduit fatalement à l'échec. Il y a là une mise en garde contre une aspiration titanesque qui va au-delà de ses propres forces. La conséquence en serait une chute brutale et profonde."
         }
       ],
-      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,"
+      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,",
+      "jugement": "DAS SCHÖPFERISCHE wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit.\n\nNach der ursprünglichen Bedeutung sind die Eigenschaften Erhabenheit, Gelingen, Förderung und Beharrlichkeit gepaart. Wenn ein Mensch dieses Orakel zieht, bedeutet es, dass ihm Erfolg aus den Urtiefen des Universums zuteil wird.",
+      "image": "Des Himmels Bewegung ist kraftvoll.\nSo macht der Edle sich stark und unermüdlich.\n\nDa es nur einen Himmel gibt, deutet die Verdoppelung des Zeichens Kiën, dessen Bild der Himmel ist, auf die Bewegung des Himmels hin."
     },
     {
       "numero": 2,
@@ -66,14 +68,14 @@
       "nom_fr": "Das Empfangende",
       "caractere": "坤",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Les traits brisés correspondent à la puissance originelle du yin, qui est sombre, malléable, réceptive. La propriété de l'hexagramme est le don de soi i, son image est la terre. C'est le complément du créateur, son complément et non son opposé, car il ne le combat pas mais le complète. C'est la nature en face de l'esprit, la terre en face du ciel, le spatial en face du temporel, le féminin maternel en face du masculin paternel. Cependant, appliqué aux situations humaines, le principe de cette complémentarité ne se rencontre pas seulement dans les relations entre l'homme et la femme, mais aussi dans les rapports entre le prince et son ministre, le père et son fils; au sein de l'individu lui-même, cette dualité se retrouve dans la coexistence du spirituel et du sensible. On ne peut toutefois parler de véritable dualisme, car il existe entre les deux hexagrammes une claire relation hiérarchique. En soi, le réceptif est naturellement aussi important que le créateur, mais l'attribut de « do",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Dieses Hexagramm besteht nur aus gebrochenen Linien. Die gebrochene Linie repräsentiert die dunkle, nachgebende, empfangende Urkraft des Yin. Die Eigenschaft des Hexagramms ist Hingabe; sein Bild ist die Erde.",
       "jugement_titre": "",
-      "jugement_texte": "DAS EMPFANGENDE wirkt erhabenes Gelingen, fördernd durch die Beharrlichkeit einer Stute. Wenn der Edle etwas unternimmt und führen will, verirrt er sich; folgt er aber, so findet er Leitung.\n\nDer Erde Zustand ist hingebende Empfänglichkeit. So trägt der Edle mit weitem Charakter die Außenwelt.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Der Erde Zustand ist hingebende Empfänglichkeit.\nSo trägt der Edle mit weitem Charakter die Außenwelt.\n\nWie es nur einen Himmel gibt, gibt es auch nur eine Erde. Während aber beim Himmel die Verdoppelung des Zeichens zeitliche Dauer bedeutet, bezeichnet sie bei der Erde die räumliche Ausdehnung und Festigkeit, kraft deren die Erde alle lebenden und sich bewegenden Dinge trägt und erhält.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -112,7 +114,9 @@
           "texte": "Dragons se battant dans le pré. Leur sang est noir et jaune. A la place supérieure, l'obscurité doit céder à la lumière. Si elle tente de se maintenir à une place qui n'est pas la sienne et de commander au lieu de servir, elle attire sur elle la colère du fort. Il en résulte un combat dans lequel elle s'effondre, non sans dommage pour les deux parties. Le dragon, symbole du ciel, vient combattre le faux dragon dont le principe terrestre a usurpé la figure. Le bleu sombre est la couleur du ciel, le jaune est la couleur de la terre. Par conséquent, lorsqu'il coule un sang noir et jaune, c'est un signe que ce combat contre nature entraîne' du dommage pour les deux forces fondamentales"
         }
       ],
-      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à"
+      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à",
+      "jugement": "DAS EMPFANGENDE wirkt erhabenes Gelingen, fördernd durch die Beharrlichkeit einer Stute. Wenn der Edle etwas unternimmt und führen will, verirrt er sich; folgt er aber, so findet er Leitung. Es ist fördernd, im Westen und Süden Freunde zu finden, im Osten und Norden der Freunde zu entraten. Ruhige Beharrlichkeit bringt Heil.",
+      "image": "Der Erde Zustand ist hingebende Empfänglichkeit.\nSo trägt der Edle mit weitem Charakter die Außenwelt."
     },
     {
       "numero": 3,
@@ -120,14 +124,14 @@
       "nom_fr": "Die Anfangsschwierigkeit",
       "caractere": "屯",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "Le nom de l'hexagramme, Tchouen, désigne proprement une herbe qui rencontre un obstacle dans son effort pour sortir de terre. De là vient le sens de « difficulté initiale ». L'hexagramme indique la maniéré dont le ciel et la terre produisent les êtres individuels. C'est leur première rencontre qui s'accompagne de difficulté Le trigramme inférieur, Tchen, est l'éveilleur; son mouvement est. dirigé vers le haut. Il a pour image le tonnerre. Le signe supérieur est K'an, l'insondable, le dangereux. Son mouvement va vers le bas. Il a pour image la pluie. La situation décrit par conséquent une profusion dense et chaotique. Le tonnerre et la pluie remplissent l'air. Mais le chaos s'éclaire : le mouvement qui est dirigé vers le haut tandis que l'insondable s'enfonce, se dégage finalement du danger. Les tensions se déchargent dans l'orage et tous les êtres respirent, allégés.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "Der Name des Hexagramms, Dschun, bedeutet eigentlich einen Grashalm, der sich beim Hervorsprießen aus der Erde gegen ein Hindernis stemmt.",
       "jugement_titre": "",
-      "jugement_texte": "DIE ANFANGSSCHWIERIGKEIT wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit. Man soll nichts unternehmen. Fördernd ist es, Gehilfen einzusetzen.\n\nWolken und Donner: das Bild der ANFANGSSCHWIERIGKEIT. So bringt der Edle Ordnung aus der Verwirrung.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Wolken und Donner:\nDas Bild der ANFANGSSCHWIERIGKEIT.\nSo bringt der Edle Ordnung aus der Verwirrung.\n\nWolken und Donner sind durch bestimmte Schmucklinien dargestellt; das bedeutet, dass im Chaos der Anfangsschwierigkeit die Ordnung bereits enthalten ist. So muss auch der Edle die ungeformte Fülle solcher Anfangszeiten ordnen und organisieren.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -166,7 +170,9 @@
           "texte": "Cheval et chariot se séparent. Il coule des larmes de sang. Il est des hommes pour qui les difficultés du début sont trop lourdes. Ils en demeurent prisonniers sans pouvoir en sortir. Ils baissent les bras et renoncent à la lutte. Une telle résignation est une chose des plus affligeantes. C'est pourquoi Confucius fait à ce propos la remarque suivante : « Des larmes de sang coulent : on ne doit pas persister dans une telle attitude ». evol sent r brazil – 3 – 01/12/2009 Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE ANFANGSSCHWIERIGKEIT wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit. Man soll nichts unternehmen. Fördernd ist es, Gehilfen einzusetzen.\n\nZeiten des Wachstums sind voller Schwierigkeiten.",
+      "image": "Wolken und Donner: das Bild der ANFANGSSCHWIERIGKEIT.\nSo bringt der Edle Ordnung aus der Verwirrung."
     },
     {
       "numero": 4,
@@ -174,14 +180,14 @@
       "nom_fr": "Die Jugendtorheit",
       "caractere": "蒙",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "Le trigramme supérieur, Ken, a pour figure une montagne, et le trigramme inférieur, K'an, a pour image l'eau. La source qui sort du pied de la montagne est le symbole de la jeunesse sans expérience. L'attribut du signe supérieur est l'immobilité, celui du signe inférieur, le danger. S'arrêter plein de perplexité devant un dangereux abîme est également un symbole de la folie juvénile. Mais les deux trigrammes renferment également la voie qui permet de surmonter les folies juvéniles : l'eau est quelque chose qui continue nécessairement de couler. Lorsque la source jaillit, elle ne sait pas tout d'abord où elle veut aller. Mais, par son écoulement incessant, elle remplit les endroits profonds qui font obstacle à son progrès; le succès est alors obtenu.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "In diesem Hexagramm werden wir auf zwei verschiedene Weisen an Jugend und Torheit erinnert. Das Bild des oberen Zeichens Ken ist der Berg; das des unteren, Kan, ist Wasser.",
       "jugement_titre": "",
-      "jugement_texte": "JUGENDTORHEIT hat Gelingen. Nicht ich suche den jungen Toren, der junge Tor sucht mich. Beim ersten Orakel gebe ich Auskunft. Fragt er zwei-, dreimal, so ist es Belästigung. Wenn er belästigt, gebe ich keine Auskunft. Fördernd ist Beharrlichkeit.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Am Fuß des Berges quillt eine Quelle hervor:\nDas Bild der JUGEND.\nSo pflegt der Edle seinen Charakter durch Gründlichkeit in allem, was er tut.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -220,22 +226,24 @@
           "texte": "Lorsqu'on châtie la folie, il n'est pas avantageux de commettre des excès de pouvoir. La seule chose avantageuse est d'écarter les excès de pouvoir. Il arrive qu'un insensé incorrigible doive être châtié. Celui qui ne veut pas écouter devra en tâter. Punir ainsi quelqu'un est tout autre chose que de le secouer en commençant. Mais le châtiment ne doit pas être infligé sous le coup de la colère : on le limitera en veillant objectivement à éviter les excès injustifiés. La punition n'est pas à elle-même sa propre fin; son but est de servir à instaurer un comportement conforme à l'ordre. Ce conseil s'applique aussi bien à l'éducation qu'aux mesures qu'un gouvernement est amené à prendre contre une population qui s'est rendue coupable d'excès. L'intervention de l'autorité doit toujours demeurer préventive et avoir pour but unique l'instauration de la sécurité et de la paix publiques. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 9 – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses inc"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "JUGENDTORHEIT hat Gelingen. Nicht ich suche den jungen Toren, der junge Tor sucht mich. Beim ersten Orakel gebe ich Auskunft. Fragt er zwei-, dreimal, so ist es Belästigung. Wenn er belästigt, gebe ich keine Auskunft. Fördernd ist Beharrlichkeit.",
+      "image": "Am Fuß des Berges quillt eine Quelle hervor:\nDas Bild der JUGEND.\nSo pflegt der Edle seinen Charakter durch Gründlichkeit in allem, was er tut."
     },
     {
       "numero": 5,
       "nom_pinyin": "Su",
-      "nom_fr": "Das Warten",
+      "nom_fr": "Das Warten (Die Ernährung)",
       "caractere": "需",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Mais les aliments sont administrés en leur temps, qu'il faut attendre. L'hexagramme montre les nuages dans le ciel répandant la pluie qui réjouit tout ce qui croît et pourvoit l'homme de nourriture et de boisson. Cette pluie viendra à son heure. On ne peut la faire venir de force, mais il faut l'attendre. La pensée de l'attente est en outre suggérée par les propriétés de chacun des trigrammes : au-dedans, force; devant, danger . Face au danger, la force ne se précipite pas mais sait attendre, tandis que la faiblesse tombe dans l'agitation et n'a pas la patience d'attendre",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Alle Wesen bedürfen der Nahrung von oben. Aber die Gabe der Speise kommt zu ihrer eigenen Zeit, und darauf muss man warten.",
       "jugement_titre": "",
-      "jugement_texte": "WARTEN. Wenn du wahrhaftig bist, hast du Licht und Gelingen. Beharrlichkeit bringt Heil. Es fördert, das große Wasser zu durchqueren.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Wolken steigen am Himmel auf:\nDas Bild des WARTENS.\nSo isst und trinkt der Edle und ist heiter und guter Dinge.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -268,7 +276,9 @@
           "texte": "On tombe dans le trou. Trois hôtes surviennent, qui n'étaient pas invités. Honore-les, ainsi la fortune viendra à la fin. L'attente est terminée : le danger ne se laisse plus écarter. On tombe dans le trou et il faut se résoudre à l'inévitable. Tout semble alors avoir été vain. Mais c'est précisément dans cet état de détresse que survient un tournant imprévu. Sans que l'on ait agi personnellement, il se produit une intervention extérieure dont on peut tout d'abord se demander ce qu'elle signifie, si elle vise à la délivrance ou à la destruction. Il convient alors de conserver la mobilité intérieure : l'attitude juste n'est pas de se retrancher en soi-même et d'opposer un refus dans un geste de bravade, mais de saluer avec respect ce nouveau tour des événements. Ainsi l'on finit par sortir du danger et tout va bien. Même les changements heureux se présentent souvent sous une forme qui paraît étrange au premier abord. renoncement sublime algiz – 1 – 03/11/2008 oioioioi"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "WARTEN. Wenn du wahrhaftig bist, hast du Licht und Gelingen. Beharrlichkeit bringt Heil. Es fördert, das große Wasser zu durchqueren.",
+      "image": "Wolken steigen am Himmel auf:\nDas Bild des WARTENS.\nSo isst und trinkt der Edle und ist heiter und guter Dinge."
     },
     {
       "numero": 6,
@@ -276,14 +286,14 @@
       "nom_fr": "Der Streit",
       "caractere": "訟",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "Les mouvements des deux moitiés de l'hexagramme vont donc dans des sens opposés, d'où l'idée de conflit L'attribut du créateur est la force, et celui de l'insondable, le danger, la perfidie. Là où la ruse a devant elle la violence, il y a conflit. Une troisième indication de cette idée se rencontre dans un caractère qui unit une perfidie insondable au-dedans et une ferme résolution au-dehors. Un caractère de ce genre est à coup sûr querelleur.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Das obere Zeichen, dessen Bild der Himmel ist, hat eine Aufwärtsbewegung; das untere Zeichen, Wasser, strebt seiner Natur gemäß nach unten. So bewegen sich die beiden Hälften auseinander.",
       "jugement_titre": "",
-      "jugement_texte": "STREIT. Du bist wahrhaftig und wirst gehemmt. Vorsichtiges Innehalten in der Mitte bringt Heil. Durchführen bis zum Ende bringt Unheil. Fördernd ist es, den großen Mann zu sehen. Nicht fördernd ist es, das große Wasser zu durchqueren.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Himmel und Wasser gehen ihre entgegengesetzten Wege:\nDas Bild des STREITS.\nSo erwägt der Edle bei allen seinen Geschäften sorgfältig den Anfang.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -322,7 +332,9 @@
           "texte": "Même si par hasard quelqu'un se voit prêter une ceinture de cuir, à la fin de la matinée elle lui aura été ravie par trois fois. On est ici en présence de quelqu'un qui a conduit un conflit jusqu'à sa fin amère et a obtenu gain de cause. Il reçoit une distinction. Mais son bonheur est de courte durée. Il est sans cesse attaqué de nouveau, ce qui a pour conséquences des luttes à l'infini. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 3 – 01/12/2009 y"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "STREIT. Du bist wahrhaftig und wirst gehemmt. Vorsichtiges Innehalten in der Mitte bringt Heil. Durchführen bis zum Ende bringt Unheil. Fördernd ist es, den großen Mann zu sehen. Nicht fördernd ist es, das große Wasser zu durchqueren.",
+      "image": "Himmel und Wasser gehen ihre entgegengesetzten Wege:\nDas Bild des STREITS.\nSo erwägt der Edle bei allen seinen Geschäften sorgfältig den Anfang."
     },
     {
       "numero": 7,
@@ -330,14 +342,14 @@
       "nom_fr": "Das Heer",
       "caractere": "師",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "Ainsi se trouve symbolisée l'eau qui s'accumule à l'intérieur de la terre. La force de l'armée s'accumule de même à l'intérieur de la multitude d'un peuple : invisible en temps de paix, mais toujours disponible comme source de puissance. Les attributs de l'hexagramme sont, à l'intérieur, danger, et à l'extérieur, obéissance. Par là est indiquée la nature de l'armée : elle est dans son essence intime quelque chose de dangereux, tandis qu'extérieurement la discipline et l'obéissance doivent prévaloir. Si l'on considère les différents traits, le maître de l'hexagramme est le neuf fort à la deuxième place, auquel sont subordonnés les autres traits, tous faibles. Ce trait désigne le commandant, car il est placé au centre de l'un des trigrammes constitutifs. Mais comme il se tient en bas et non en haut, il n'est pas l'image du souverain, mais celle de l'habile général qui, par son autorité, maintient l'armée dans l'obéissance.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Dieses Hexagramm besteht aus den Zeichen Kan, Wasser, und Kun, Erde, und symbolisiert so das in der Erde gespeicherte Grundwasser. Ebenso ist die militärische Kraft in der Masse des Volkes gespeichert.",
       "jugement_titre": "",
-      "jugement_texte": "DAS HEER braucht Beharrlichkeit und einen starken Mann. Heil ohne Makel.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Mitten in der Erde ist Wasser:\nDas Bild des HEERES.\nSo mehrt der Edle seine Scharen durch Leutseligkeit gegen das Volk.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -376,22 +388,24 @@
           "texte": "Le grand prince édicte des ordres, fonde des Etats, pourvoit les familles de fiefs. On n'emploiera pas d'hommes vulgaires. La guerre s'est heureusement terminée; la victoire a été remportée. Le roi répartit entre ses fidèles les fiefs et les possessions familiales. Mais, ce faisant, il importe qu'il ne place pas au pouvoir des hommes vulgaires. Ils ont prêté main-forte, il peut rétribuer leurs services en argent. Mais on ne doit pas leur accorder de terres ou des privilèges pour éviter les risques d'abus. Une armée ne devrait servir l'humanité que pour lui assurer la paix. Général Kanzler et Lê Loï. an ninh – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS HEER braucht Beharrlichkeit und einen starken Mann. Heil ohne Makel.\n\nEin Heer ist eine Masse, die Organisation braucht, um eine Kampfkraft zu werden.",
+      "image": "Mitten in der Erde ist Wasser:\nDas Bild des HEERES.\nSo mehrt der Edle seine Scharen durch Leutseligkeit gegen das Volk."
     },
     {
       "numero": 8,
       "nom_pinyin": "Pi",
-      "nom_fr": "Das Zusammenhalten",
+      "nom_fr": "Das Zusammenhalten (Die Vereinigung)",
       "caractere": "比",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Il y a là un symbole traduisant la solidarité et sa loi. La même idée est évoquée par le fait que tous les traits sont faibles jusqu'au cinquième à la cinquième place, celle du maître de l'hexagramme. Les faibles s'unissent pour s'entr'aimer parce qu'ils subissent l'influence de la volonté ferme à la place d'autorité qui est leur point de réunion. Mais cette personnalité forte et dirigeante conserve en outre l'union avec les autres hommes grâce auxquels elle trouve un complément de sa propre nature.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Die Wasser auf der Erdoberfläche fließen zusammen, wo immer sie können, wie zum Beispiel im Ozean, wo alle Flüsse zusammenkommen.",
       "jugement_titre": "",
-      "jugement_texte": "ZUSAMMENHALTEN bringt Heil. Befrage das Orakel noch einmal, ob du Erhabenheit, Dauer und Beharrlichkeit hast; dann ist kein Makel. Die Unsicheren schließen sich allmählich an. Wer zu spät kommt, hat Unheil.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Auf der Erde ist Wasser:\nDas Bild des ZUSAMMENHALTENS.\nSo verliehen die Könige des Altertums die verschiedenen Staaten als Lehen und pflegten freundliche Beziehungen mit den Lehnsfürsten.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -430,7 +444,9 @@
           "texte": "Il ne trouve pas de tête pour la solidarité. Infortune. La tête est le commencement. Sans commencement juste, il n'y a pas de juste fin. Quand on a manqué la jonction et que l'on demeure hésitant et craintif devant la perspective d'un don de soi véritable et sans réserve, on aura plus tard à se repentir de ses fautes. it seems that electronic matters a lot when there is no target. Hups soory I gat a meeting with my potatoes (solidarity in hard path) 1p0 – 03/12/2008 Le 08/08/08 était une date porte bonheur et je suis passé te voir Maître, pour fêter avec toi cet évènement sur l'union et l'unité du monde qui nous a enfin été révélée. an ninh – 08/12/2007 Sansele mele de a obtine postul de GM la \"creare\". De vazut..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ZUSAMMENHALTEN bringt Heil. Befrage das Orakel noch einmal, ob du Erhabenheit, Dauer und Beharrlichkeit hast; dann ist kein Makel. Die Unsicheren schließen sich allmählich an. Wer zu spät kommt, hat Unheil.",
+      "image": "Auf der Erde ist Wasser:\nDas Bild des ZUSAMMENHALTENS.\nSo verliehen die Könige des Altertums die verschiedenen Staaten als Lehen und pflegten freundliche Beziehungen mit den Lehnsfürsten."
     },
     {
       "numero": 9,
@@ -438,10 +454,10 @@
       "nom_fr": "Des Kleinen Zähmungskraft",
       "caractere": "小畜",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "L'hexagramme représente ce qui est petit, le pouvoir de ce qui est obscur : il retient, apprivoise, freine. A la quatrième place, qui est celle du ministre, il y a un trait faible qui tient en bride toutes les autres lignes, lesquelles sont fortes. L'image est celle du vent qui souffle, haut dans le ciel. Il ralentit l'haleine du créateur qui s'élève, les nuages, si bien qu'ils s'épaississent. Mais il n'est pas encore assez fort pour les faire retomber en pluie. L'hexagramme présente une constellation où un élément fort est passagèrement tenu en bride par un élément faible. C'est seulement grâce à de la douceur qu'une telle situation peut être accompagnée de succès.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Dieses Hexagramm bedeutet die Kraft des Kleinen - die Macht des Schattenhaften - die zurückhält, zähmt, hemmt.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -484,18 +500,20 @@
           "texte": "La pluie vient, le repos vient. Cela est dû à l'action durable du caractère. La femme est mise en danger par la persévérance. La lune est presque pleine. Si l'homme noble continue sa marche, l'infortune vient. Le succès est obtenu. La poussée du vent a fait venir la pluie. Un état stable est atteint. Cet effet a été acquis par l'accumulation progressive de petites actions qui ont pris naissance dans le respect porté à un caractère élevé. Mais un tel succès bâti pierre à pierre demande beaucoup de prudence. S'abandonner à l'illusion qu'on peut s'en prévaloir serait chose dangereuse. L'élément féminin, faible, qui a remporté la victoire ne doit pas s'obstiner à s'en vanter, car cela attirerait le danger. La force obscure dans la lune atteint son maximum quand l'astre est proche de son plein; quand la pleine lune se tient en opposition directe avec le soleil, son déclin est inévitable. Dans de telles circonstances, on doit se contenter du résultat obtenu. S'avancer plus loin avant que le temps n'en soit venu apporterait l'infortune. le ptit rat de ratagass roi de forets va bien?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DES KLEINEN ZÄHMUNGSKRAFT hat Gelingen. Dichte Wolken, kein Regen von unserer westlichen Gegend.",
+      "image": "Der Wind streicht über den Himmel:\nDas Bild DES KLEINEN ZÄHMUNGSKRAFT.\nSo verfeinert der Edle die äußere Form seines Wesens."
     },
     {
       "numero": 10,
       "nom_pinyin": "Liu",
-      "nom_fr": "Das Auftreten",
+      "nom_fr": "Das Auftreten (Das Verhalten)",
       "caractere": "履",
       "trigramme_haut": "Ch'ien",
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "La marche signifie tout d'abord la façon correcte de se conduire. En haut se trouve le ciel, le père; en bas, le lac, la plus jeune fille. Ainsi est indiquée la distinction entre le haut et le bas et la manière dont elle est à la base de la tranquillité, de la conduite correcte dans la société. Marcher veut dire littéralement : « appuyer le pied sur ». Le petit, « le joyeux », prend appui sur le grand, le fort. Les deux trigrammes traduisent un mouvement vers le haut. Que le fort marche sur le faible, c'est là quelque chose qui va de soi; c'est pourquoi le Livre des Transformations n'en fait pas de mention spéciale. Que le faible se place contre le fort, cela n'est pas dangereux, parce que la chose se passe dans la sérénité, sans arrogance, si bien que le fort n'est pas irrité et le prend en bonne part.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Der Name des Hexagramms bedeutet einerseits die rechte Art, sich zu verhalten. Der Himmel, der Vater, ist oben, und der See, die jüngste Tochter, ist unten.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -538,7 +556,9 @@
           "texte": "Observe ta démarche et examine les signes favorables. Quand tout est achevé, survient une sublime fortune. L'œuvre est parvenue à son terme. Pour savoir si la fortune en sera la conséquence, on observera rétrospectivement sa démarche et ses suites. Si les résultats sont bons, la fortune est assurée. Nul ne se connaît lui-même. Seules les conséquences de notre activité et les fruits de nos actes permettent de juger de ce que nous pouvons escompter. je prends note....infaillible le yiking..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "AUFTRETEN. Treten auf den Schwanz des Tigers. Er beißt den Menschen nicht. Gelingen.",
+      "image": "Oben ist der Himmel, unten der See:\nDas Bild des AUFTRETENS.\nSo unterscheidet der Edle zwischen Hoch und Niedrig und festigt damit das Denken des Volkes."
     },
     {
       "numero": 11,
@@ -546,14 +566,14 @@
       "nom_fr": "Der Friede",
       "caractere": "泰",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Le réceptif, dont le mouvement est dirigé vers le bas, est au-dessus; le créateur, dont le mouvement tend vers le haut, est au-dessous. Leurs influences se rencontrent donc et sont en harmonie, si bien que tous les êtres s'épanouissent et prospèrent. Cet hexagramme est rattaché au premier mois (février-mars) au cours duquel les puissances de la nature préparent le nouveau printemps.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Das Empfangende, das sich nach unten bewegt, steht oben; das Schöpferische, das sich nach oben bewegt, ist unten. Daher treffen sich ihre Einflüsse und sind in Harmonie.",
       "jugement_titre": "",
-      "jugement_texte": "FRIEDE. Das Kleine geht, das Große kommt. Heil. Gelingen.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Himmel und Erde vereinigen sich: das Bild des FRIEDENS.\nSo teilt der Herrscher den Lauf von Himmel und Erde und vollendet ihn, fördert und regelt die Gaben von Himmel und Erde und hilft so dem Volk.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -592,22 +612,24 @@
           "texte": "Le mur retombe dans le fossé : n'emploie pas d'armée maintenant. Fais proclamer tes ordres dans ta propre ville. La persévérance apporte l'humiliation. Le changement déjà annoncé au milieu de l'hectogramme à commencé. Le mur de la cité retombe dans le fossé d'où il avait été tiré. La fatalité s'abat. Il convient dans ce cas d'épouser le destin et de ne pas vouloir l'arrêter par une résistance violente. Tout ce qu'il reste à faire est de se maintenir dans le cercle le plus étroit. Si l'on voulait s'opposer de façon persévérante au mal par les moyens habituels, la débâcle serait encore plus complète et la conséquence serait l'humiliation."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "FRIEDE. Das Kleine geht, das Große kommt. Heil. Gelingen.",
+      "image": "Himmel und Erde vereinigen sich: das Bild des FRIEDENS.\nSo teilt der Herrscher den Lauf von Himmel und Erde und vollendet ihn und hilft so dem Volk."
     },
     {
       "numero": 12,
       "nom_pinyin": "P'i",
-      "nom_fr": "Die Stockung",
+      "nom_fr": "Die Stockung (Die Stagnation)",
       "caractere": "否",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Le ciel, en haut, se retire toujours davantage, et la terre, en bas, s'enfonce toujours davantage dans la profondeur. Les forces créatrices ne sont pas en relations mutuelles. C'est le temps de la stagnation et de la décadence. L'hexagramme est rattaché au 7e mois (août-septembre), période où l'année a dépassé son point culminant et où les flétrissures de l'automne se préparent.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Dieses Hexagramm ist das Gegenteil des vorhergehenden. Der Himmel ist oben und entfernt sich immer weiter, während die Erde unten immer tiefer sinkt.",
       "jugement_titre": "",
-      "jugement_texte": "STOCKUNG. Böse Menschen fördern nicht die Beharrlichkeit des Edlen. Das Große geht; das Kleine kommt.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Himmel und Erde vereinigen sich nicht: das Bild der STOCKUNG.\nSo zieht der Edle sich auf seinen inneren Wert zurück, um den Schwierigkeiten zu entgehen. Er lässt sich nicht mit Gehalt ehren.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -646,7 +668,9 @@
           "texte": "La stagnation prend fin. D'abord stagnation, ensuite fortune. La stagnation ne dure pas éternellement. Toutefois elle ne cesse pas d'elle-même, mais requiert l'homme capable d'y mettre un terme. Là réside la différence entre la paix et la stagnation. La consolidation de la paix demande un effort continuel. Laissée à elle-même, la paix se transformerait en stagnation et en décadence. Le temps de la décadence ne se change pas spontanément en paix et en prospérité, mais des efforts sont nécessaires pour en venir à bout. Ainsi se trouve souligné le rôle créateur de l'homme qui est indispensable pour que l'ordre règne dans le monde. c'est inouï je viens de faire deux lancers sur des sujets différents, et chaque signification correspond exactement à la situation"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "STOCKUNG. Böse Menschen fördern nicht die Beharrlichkeit des Edlen. Das Große geht; das Kleine kommt.",
+      "image": "Himmel und Erde vereinigen sich nicht:\nDas Bild der STOCKUNG.\nSo zieht der Edle sich auf seinen inneren Wert zurück, um den Schwierigkeiten zu entgehen."
     },
     {
       "numero": 13,
@@ -654,10 +678,10 @@
       "nom_fr": "Gemeinschaft mit Menschen",
       "caractere": "同人",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "L'image du trigramme supérieur, K'ien, est le ciel, et celle du trigramme inférieur, Li, est la flamme. La nature du feu est de s'élever en flamboyant vers le ciel. Ainsi est évoquée l'idée de communauté. C'est le second trait qui, grâce à sa nature centrale, réunit autour de lui les cinq lignes fortes. Cet hexagramme est l'opposé du 7, « l'armée ». Là, péril au-dedans et obéissance au-dehors caractérisent la nature d'une armée martiale qui a besoin, pour être maintenue unie, de l'unique trait fort au milieu des traits faibles. Ici, clarté au-dedans et force au-dehors caractérisent la nature de l'union pacifique des hommes, qui a besoin, pour être maintenue, de l'unique trait faible parmi la multiplicité des traits forts.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Das Bild des oberen Zeichens Kiën ist der Himmel, das des unteren, Li, ist die Flamme. Es ist die Natur des Feuers, zum Himmel emporzulodern.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -700,7 +724,9 @@
           "texte": "Communauté avec les hommes dans le pré. Pas de remords. Le chaleureux attachement du cœur fait ici défaut. En fait, on est désormais en dehors de la communauté avec les hommes. On s'allie toutefois avec eux. La communauté ne comprend pas tout le monde, mais ceux qui habitent ensemble hors de la ville. Le pré est le pâturage qui se trouve devant la ville. Ici le but ultime de l'union des hommes n'est pas encore atteint. Cependant il ne faut pas se faire de reproches. On s'allie à la communauté sans desseins égoïstes. klklklklk"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "GEMEINSCHAFT MIT MENSCHEN im Freien. Gelingen. Es fördert, das große Wasser zu durchqueren. Fördernd ist die Beharrlichkeit des Edlen.",
+      "image": "Der Himmel zusammen mit dem Feuer:\nDas Bild der GEMEINSCHAFT MIT MENSCHEN.\nSo ordnet der Edle die Sippen und unterscheidet die Dinge."
     },
     {
       "numero": 14,
@@ -708,10 +734,10 @@
       "nom_fr": "Der Besitz von Großem",
       "caractere": "大有",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Le feu dans le ciel brille au loin, si bien que toutes choses sont éclairées et deviennent manifestes. Le cinquième trait, qui est faible, est à la place d'honneur et tous les traits forts sont en harmonie avec lui. Celui qui, occupant une place élevée, est humble et doux voit toutes choses venir à lui",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Das Feuer am Himmel oben scheint weit, und alle Dinge treten im Licht hervor und werden offenbar.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -754,7 +780,9 @@
           "texte": "Il est béni du ciel. Fortune. Rien qui ne soit avantageux. Dans l'abondance des biens et de la puissance on demeure modeste et l'on vénère le sage qui se tient à l'écart de l'agitation du monde. On se place ainsi sous l'influence du ciel riche en bénédictions et tout va bien. Confucius dit à ce propos : « Bénir signifie aider. Le ciel aide l'être abandonné, les hommes aident l'être sincère. Celui qui marche dans la sincérité, qui est abandonné dans ses pensées et continue alors à respecter les hommes de mérite, celui-là est béni du ciel. Il trouve la fortune et il n'y a rien qui ne soit avantageux ». 13/02/09 il semble que ca soit toujours toi FoufeTTe. je t'avoue ne pas savoir comment c'est possible. Orsius – 02/12/2008 que cela soit!! luc"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DER BESITZ VON GROSSEM. Erhabenes Gelingen.",
+      "image": "Feuer am Himmel oben:\nDas Bild des BESITZES VON GROSSEM.\nSo hemmt der Edle das Böse und fördert das Gute und gehorcht damit dem gütigen Willen des Himmels."
     },
     {
       "numero": 15,
@@ -762,10 +790,10 @@
       "nom_fr": "Die Bescheidenheit",
       "caractere": "謙",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "le Réceptif, la Terre",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "La montagne est le plus jeune fils du créateur, le représentant du ciel sur la terre. Elle dispense au-dessous d'elle les bénédictions du ciel, nuages et pluie qui se rassemblent autour de son sommet, et elle brille ensuite dans l'éclat d'une lumière céleste. Cela désigne l'humilité et ses effets chez les hommes élevés et forts. En haut se tient K'ouen, la terre. La propriété de la terre est la bassesse, mais dans cet hexagramme elle est représentée précisément pour cette raison comme élevée, puisque placée en haut, au-dessus de la montagne. Cela montre l'effet de l'humilité chez des hommes . modestes et simples : ils sont, de ce fait, élevés.",
+      "trigramme_bas_desc": "l'Immobilisation, la Montagne",
+      "description": "Dieses Hexagramm besteht aus den Zeichen Ken, das Stillehalten, Berg, und Kun. Der Berg ist der jüngste Sohn des Schöpferischen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -808,7 +836,9 @@
           "texte": "Humilité qui s'extériorise. Il est avantageux de mettre en marche les armées pour châtier sa propre cité et son propre pays. Celui qui est vraiment conséquent avec son humilité doit veiller à ce qu'elle se manifeste dans la réalité. Il doit aller énergiquement de l'avant dans ce domaine. S'il naît de l'hostilité, rien n'est plus aisé que de rejeter la faute sur autrui. Il peut alors se faire qu'un homme faible, se sentant offensé, se replie sur lui-même, prenne compassion de lui-même et croie être humble en ne se défendant pas. L'humilité véritable se manifeste en ce que nous nous employons énergiquement à établir l'ordre et commençons par sévir sur nous-mêmes et sur notre entourage immédiat. On n'accomplira réellement une œuvre importante que si on a le courage de faire marcher son armée contre soi-même le chou : ça s'est bien; mais qu'est-ce qu'on fait avec autrui?? Il faut que je pose une autre question à mon livre de sagesse....."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BESCHEIDENHEIT schafft Gelingen. Der Edle bringt die Dinge zu Ende.",
+      "image": "In der Erde ist ein Berg:\nDas Bild der BESCHEIDENHEIT.\nSo vermindert der Edle, was zu viel ist, und vermehrt, was zu wenig ist. Er wägt die Dinge ab und macht sie gleich."
     },
     {
       "numero": 16,
@@ -816,10 +846,10 @@
       "nom_fr": "Die Begeisterung",
       "caractere": "豫",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Le trigramme supérieur Tchen a pour propriété le mouvement, et le trigramme inférieur, la terre, l'obéissance et le dévouement. On a ici le commencement d'un mouvement qui trouve en face de lui une attitude de dévouement et, par suite, entraîne tout avec lui et œuvre dans l'enthousiasme. Il est en outre une loi très importante : le mouvement doit s'exercer suivant la ligne de moindre résistance. Cette loi est exprimée dans l'hexagramme comme étant celle des phénomènes naturels et de la vie humaine.",
+      "trigramme_bas_desc": "Le Réceptif, La Terre",
+      "description": "Der starke Strich an vierter Stelle, der des leitenden Beamten, findet Antwort und Gehorsam bei allen anderen Strichen, die alle schwach sind.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -862,7 +892,9 @@
           "texte": "Enthousiasme aveuglé. Mais lorsqu'après être parvenu à l'achèvement on change, il n'y a pas de blâme. Quand on se laisse aveugler par l'enthousiasme, cela est mauvais. Mais lorsqu'à son tour cet aveuglement est devenu une affaire dépassée et que l'on peut encore changer d'attitude, on est exempt de blâme. Se dégriser après un enthousiasme mal placé est chose tout à fait possible et très favorable. Thank you for allowing me such wonderful guidence SG – 07/12/2008 Thank you original music for the happiness and knowing as I enjoy the fruits of my labors and dreams for my friends and earthlings;-) JADE – 03/12/2008 as usual, clear ...so clear! ratafia – 01/11/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BEGEISTERUNG. Es fördert, Gehilfen einzusetzen und Heere marschieren zu lassen.",
+      "image": "Der Donner kommt dröhnend aus der Erde:\nDas Bild der BEGEISTERUNG.\nSo machten die alten Könige Musik, um das Verdienst zu ehren."
     },
     {
       "numero": 17,
@@ -870,10 +902,10 @@
       "nom_fr": "Die Nachfolge",
       "caractere": "隨",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Chên",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "En haut est le joyeux dont le caractère est la gaîté, en bas, l'éveilleur dont le caractère est le mouvement. La gaîté unie au mouvement fait que l'on suit. Le joyeux est la plus jeune fille; l'éveilleur, le fils aîné. Un homme d'un certain âge s'incline devant une jeune fille et lui témoigne de la considération. De cette manière, il l'émeut si bien qu'elle le suit.",
+      "description": "Das Zeichen Tui, das Heitere, dessen Eigenschaft Freude ist, ist oben; Dschen, das Erregende, das die Eigenschaft Bewegung hat, ist unten.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -916,7 +948,9 @@
           "texte": "Il rencontre une ferme allégeance et s'y trouve encore lié. Le roi le présente à la montagne occidentale. Il s'agit d'un homme qui, en ce qui concerne sa propre personne, a déjà laissé derrière lui les agitations du monde, un très grand sage par conséquent. Mais voici que survient à sa suite quelqu'un qui le comprend et ne le laisse pas aller. Le sage revient donc une fois encore dans le monde et aide cet homme dans son travail. Ainsi prend naissance un lien de nature éternelle. La comparaison est empruntée à la dynastie des Tchéou. Cette dynastie honorait les serviteurs méritants en leur donnant une place dans le temple des ancêtres du souverain. Un tel homme prenait ainsi part au destin de la maison régnante. dying for her today algiz – 09/12/2008 Love sent. CyberShi – 08/12/2008 Il faut déjà être un sage et aimer vraiment pour comprendre le yi king. Il est préférable aussi de le tirer avec un livre mais, à défaut, ce tirage est bien. C'est un livre de sagesse et les mots peuvent sembler opaques. En fait, si on lit avec le coeur et l'âme vraiment ouverts, tout est clair."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE NACHFOLGE hat erhabenes Gelingen. Beharrlichkeit fördert. Kein Makel.",
+      "image": "Der Donner mitten im See:\nDas Bild der NACHFOLGE.\nSo geht der Edle bei Einbruch der Dunkelheit hinein zur Ruhe und Erholung."
     },
     {
       "numero": 18,
@@ -924,10 +958,10 @@
       "nom_fr": "Die Arbeit am Verdorbenen",
       "caractere": "蠱",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "C'est la représentation de ce qui est corrompu. Cela est provenu de ce que la douce indifférence du trigramme inférieur s'est unie à la rigide inertie du trigramme supérieur, si bien que les conditions ont dégénéré en stagnation. Puisqu'on se trouve là devant un état de choses qui laisse à désirer, la situation contient en même temps ce qui est nécessaire pour y mettre fin. C'est pourquoi l'hexagramme ne signifie pas simplement : « ce qui est corrompu », mais « ce qui est corrompu, en tant que tâche » ou « le travail sur ce qui est corrompu ».",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Das chinesische Zeichen Gu stellt eine Schale dar, in deren Inhalt Würmer brüten. Das bedeutet Verderben.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -970,7 +1004,9 @@
           "texte": "Il ne sert pas des rois et des princes. Il se fixe des buts supérieurs. Tous les hommes ne sont pas tenus de se mêler aux affaires du monde. Il en est aussi qui sont parvenus à un tel degré d'évolution intérieure qu'ils ont le droit de laisser l'univers suivre son cours sans se mêler à la vie politique pour la réformer. Cependant cela ne veut pas dire qu'ils doivent se tenir inactifs ou observer une attitude purement critique. Seul le fait de travailler dans sa propre personne aux buts supérieurs de l'humanité justifie une pareille retraite. Car même lorsque le sage se tient éloigné des agitations quotidiennes, il continue de créer des valeurs humaines incomparables pour l'avenir r"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE ARBEIT AM VERDORBENEN hat erhabenes Gelingen. Es fördert, das große Wasser zu durchqueren. Vor dem Anfangspunkt drei Tage. Nach dem Anfangspunkt drei Tage.",
+      "image": "Der Wind weht unten am Berg:\nDas Bild des VERDERBENS.\nSo rüttelt der Edle das Volk auf und stärkt seinen Geist."
     },
     {
       "numero": 19,
@@ -978,10 +1014,10 @@
       "nom_fr": "Die Annäherung",
       "caractere": "臨",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "Le mot chinois Lin possède une série de significations qu'un seul terme français ne peut épuiser. Les anciennes explications du Livre des Transformations indiquent comme premier sens : « grandir ». Ce qui grandit, ce sont les deux traits forts qui poussent dans l'hexagramme à partir du bas. Avec eux la force lumineuse prend de l'expansion. De là on passe à l'idée d'approche, à savoir, approche de ce qui est fort, de ce qui est supérieur, par rapport à ce qui est bas. On a alors enfin le sens de condescendance d'un homme supérieur envers le peuple et celui de mise en route des affaires. L'hexagramme est rattaché au douzième mois (janvier-février), car après le solstice d'hiver la force lumineuse est conçue comme étant en ascension.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Das Hexagramm als Ganzes weist auf eine Zeit freudigen, hoffnungsvollen Fortschritts hin. Der Frühling naht.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1024,18 +1060,20 @@
           "texte": "Approche magnanime. Fortune. Pas de blâme. Un sage qui a vaincu le monde et qui, intérieurement, en a terminé avec la vie, peut, dans certains cas, se trouver amené à rentrer encore une fois dans ce bas monde et à s'approcher des hommes. C'est là une grande fortune pour les hommes auxquels il confère son enseignement et son aide. Mais en ce qui le concerne, également, cet abaissement magnanime ne donne lieu à aucun blâme. Yi king, merci drinn – 02/11/2008 Surprenant...."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE ANNÄHERUNG hat erhabenes Gelingen. Beharrlichkeit fördert. Wenn der achte Monat kommt, wird es Unheil geben.",
+      "image": "Die Erde über dem See:\nDas Bild der ANNÄHERUNG.\nSo ist der Edle unerschöpflich in seinem Willen zu lehren und ohne Grenzen in seiner Duldsamkeit und im Schutz des Volkes."
     },
     {
       "numero": 20,
       "nom_pinyin": "Kouan",
-      "nom_fr": "Die Betrachtung",
+      "nom_fr": "Die Betrachtung (Die Schau)",
       "caractere": "觀",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "D'un côté, il signifie la contemplation, et de l'autre, le fait d'être regardé, d'être un modèle. Ces idées sont suggérées par le fait que l'hexagramme peut être compris comme l'image d'une tour telle qu'il en existait un grand nombre dans l'ancienne Chine. Du haut de ces tours on avait une vue étendue à la ronde, et, d'autre part, une telle tour située au haut d'une montagne était visible au loin. Ainsi l'hexagramme montre un souverain qui contemple en haut la loi du ciel et en bas les coutumes du peuple et qui constitue, grâce à son bon gouvernement, un exemple élevé pour les masses. Ce signe est rattaché au huitième mois (septembre/octobre). La force lumineuse se retire, celle de l'obscurité est de nouveau en ascension. Toutefois cet aspect n'entre pas ici en ligne de compte pour l'interprétation d'ensemble de l'hexagramme.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Eine leichte Variation der Betonung gibt dem chinesischen Namen für dieses Hexagramm eine doppelte Bedeutung. Es bedeutet sowohl Betrachten als auch Angeschaut werden.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1078,7 +1116,9 @@
           "texte": "Contemplation de sa vie. L'homme noble est sans tache. Tandis que le trait précédent représente un homme qui s'examine lui-même, ici, à la place la plus élevée, tout élément personnel et lié au moi est exclu. On montre ainsi un sage qui, hors de l'agitation du monde et libéré du moi, contemple la loi de la vie et reconnaît que le bien suprême est de savoir comment demeurer exempt de blâme. It is interesting to get the 4th and 6th line together in the world with insight and not of this world with insight, may be the very key to 45 Gathering together Priya – 02/11/2008 Il ne s'agit pas de changer les hexagrammes mais de les comprendre ... Et il n'y a rien à changer dans la contemplation de la vie :o) Kath – 08/12/2008 19/02/09 le temps entre l'ablution et le sacrifice m'exaspere.....HUP HUP HUP. Orsius – 02/12/2008 some one try to work on is breath and energy of is body and balance that, when you do the yi yink? without to make question, just manage your self, il est possible de changer exagrame par la volonter interieur, essayer... et prener votre vie en main. pierre – 02/11/2006 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BETRACHTUNG. Die Waschung ist geschehen, doch noch nicht das Opfer. Voller Vertrauen schauen sie zu ihm auf.",
+      "image": "Der Wind weht über die Erde:\nDas Bild der BETRACHTUNG.\nSo besuchten die Könige der Vorzeit die Gegenden der Welt, betrachteten das Volk und gaben ihm Belehrung."
     },
     {
       "numero": 21,
@@ -1086,10 +1126,10 @@
       "nom_fr": "Das Durchbeißen",
       "caractere": "噬嗑",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "L'hexagramme représente une bouche ouverte entre les dents de laquelle il y a un obstacle (à la quatrième place). Cet obstacle empêche les lèvres de se joindre. Pour réaliser leur jonction, il faut le mordre énergiquement. En outre, cet hexagramme se compose des trigrammes du tonnerre (Tchen) et de l'éclair (Li), afin d'indiquer la manière dont la nature écarte avec vigueur ce qui la gène. Cette morsure vigoureuse triomphe de ce qui empêche la réunion de se réaliser dans la bouche. L'orage avec son tonnerre et ses éclairs triomphe de la tension qui trouble la nature. Les procès et les châtiments triomphent des troubles introduits dans l'harmonie de la vie en société par les crimes et les calomnies. A la différence du sixième hexagramme, « le conflit » où il est question de procès civils, le thème est ici le procès criminel.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Dieses Hexagramm stellt einen offenen Mund mit einem Hindernis zwischen den Zähnen dar. Daher können sich die Lippen nicht treffen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1132,7 +1172,9 @@
           "texte": "Attaché par le cou dans la gangue de bois si bien que les oreilles disparaissent. Infortune. A la différence de la situation dépeinte par le premier trait, il s'agit ici d'un homme qui est irréformable. Il porte en punition la gangue de bois qui lui enserre le cou. Mais ses oreilles disparaissent à l'intérieur. Il n'entend plus les avertissements, mais y demeure sourd. Cet endurcissement conduit à l'infortune u"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS DURCHBEISSEN hat Gelingen. Es ist fördernd, Gerechtigkeit walten zu lassen.",
+      "image": "Donner und Blitz:\nDas Bild des DURCHBEISSENS.\nSo festigten die Könige der Vorzeit die Gesetze durch klar festgelegte Strafen."
     },
     {
       "numero": 22,
@@ -1140,10 +1182,10 @@
       "nom_fr": "Die Anmut",
       "caractere": "賁",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "L'hexagramme représente un feu qui sort des profondeurs secrètes de la terre et dont les flammes, en s'élevant, illuminent la montagne, la hauteur céleste, et la revêtent de beauté. La grâce, la beauté de la forme est indispensable à toute union pour la rendre harmonieuse et aimable, et non chaotique et désordonnée.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Dieses Hexagramm zeigt ein Feuer, das aus den geheimen Tiefen der Erde hervorbricht und auflodert, den Berg erhellt und verschönt.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1186,7 +1228,9 @@
           "texte": "Grâce simple. Pas de blâme. Ici, au degré le plus élevé, on dépouille toute grâce. La forme ne dissimule plus le contenu, mais le laisse se mettre pleinement en valeur. La grâce suprême ne consiste pas à orner extérieurement les matériaux, mais à leur donner une forme simple et pratique. La grâce doit avoir son utilité pour prévenir et protéger les notres. an ninh – 06/12/2008 response to Banny Lu - clearly the advice here relates to oral sex - the nine in the third place suggesting a firm hold on the chin of the performer mentioned in the second place Ron Chang – 05/12/2008 anal penetration is the key advice to follow here - Banny Lu – 05/12/2008 d'une relation hm fm"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ANMUT hat Gelingen. In kleinen Dingen ist es fördernd, etwas zu unternehmen.",
+      "image": "Das Feuer am Fuß des Berges:\nDas Bild der ANMUT.\nSo verfährt der Edle, wenn er laufende Geschäfte klärt. Aber er darf nicht so über strittige Fragen entscheiden."
     },
     {
       "numero": 23,
@@ -1194,10 +1238,10 @@
       "nom_fr": "Die Zersplitterung",
       "caractere": "剝",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "L'homme vulgaire et obscur ne combat pas directement l'être noble, mais il le mine progressivement par une action imperceptible, si bien qu'à la fin il s'écroule. L'hexagramme représente l'image d'une maison. Le trait supérieur est le toit. Le toit une fois brisé, la maison s'effondre. Ce signe est rattaché au neuvième mois (octobre-novembre). La force yin pousse avec une vigueur croissante et elle est sur le point d'évincer complètement la force yang.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Die dunklen Linien sind dabei, nach oben zu steigen und den letzten festen, hellen Strich zu stürzen, indem sie einen zersetzenden Einfluss auf ihn ausüben.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1240,18 +1284,20 @@
           "texte": "Il y a là encore un gros fruit qui n'a pas été mangé. L'homme noble obtient un char. La maison de l'homme vulgaire vole en éclats. La fin de l'éclatement est ici atteinte. Quand l'infortune à épuisé sa malice, des temps meilleurs reviennent. La semence du bien est encore là. Comme le fruit tombe à terre, le bien sort de nouveau de sa semence. L'homme noble retrouve influence et possibilité d'agir. Il est porté par l'opinion générale comme sur un char. Mais l'homme vulgaire est châtié par sa propre méchanceté. Sa maison vole en éclats. Il y a là une loi de la nature. Le mal n'est pas seulement corrupteur du bien, mais il se détruit finalement lui-même. Car le mal, qui ne vit que de négation, ne peut subsister de lui-même. Pour l'homme vulgaire aussi, la meilleure situation est d'être tenu sous le contrôle de l'homme noble. bon , marcher dans la vertu durable ... algiz – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ZERSPLITTERUNG. Es fördert nicht, irgendwohin zu gehen.",
+      "image": "Der Berg ruht auf der Erde:\nDas Bild der ZERSPLITTERUNG.\nSo können die Oberen ihre Stellung nur sichern, indem sie den Unteren reichlich geben."
     },
     {
       "numero": 24,
       "nom_pinyin": "Fou",
-      "nom_fr": "Die Wiederkehr",
+      "nom_fr": "Die Wiederkehr (Der Wendepunkt)",
       "caractere": "復",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "L'idée de tournant est indiquée par le fait qu'après que les traits sombres ont repoussé vers le haut tous les traits lumineux, un de ceux-ci rentre dans l'hexagramme par le bas. Le temps de l'obscurité est passé. Le solstice d'hiver amène la victoire de la lumière. L'hexagramme est rattaché au onzième mois, le mois du solstice (décembre-janvier).",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Die Vorstellung eines Wendepunkts entsteht daraus, dass, nachdem die dunklen Striche alle hellen Striche nach oben aus dem Hexagramm gedrängt haben, ein heller Strich von unten ins Hexagramm eintritt.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1294,18 +1340,20 @@
           "texte": "Retour manqué. Infortune. Malheur au-dedans et au-dehors. Si l'on fait marcher ainsi les armées, on subira finalement une grande défaite, désastreuse pour le souverain du pays. Pendant dix ans on n'est plus en mesure d'attaquer. Quand on laisse passer le temps du retour, on tombe dans le malheur. L'infortune est intérieurement causée par une fausse attitude face à l'ensemble de l'univers. L'infortune extérieure est la conséquence de cette position erronée. Ce qui est dépeint est l'endurcissement et la sentence qu'il attire. La création appartient au patrimoine de l'humanité, alors concervons le bagage essentiel qui restera avec nous dans l'Au-delà : L'Amour Inconditionnel Martin khalid Rosenberg – 01/11/2008 C'est difficile de rester immobile quand on a un ouragan à l'intérieur... lyliade – 03/12/2008 support thru changes embracing ones destiny akasha – 03/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "WIEDERKEHR. Gelingen. Ausgehen und Eingehen ohne Fehler. Freunde kommen ohne Makel. Hin und her geht der Weg. Am siebenten Tage kommt Wiederkehr. Es fördert, irgendwohin zu gehen.",
+      "image": "Der Donner in der Erde:\nDas Bild des WENDEPUNKTS.\nSo schlossen die Könige der Vorzeit die Pässe zur Zeit der Sonnenwende."
     },
     {
       "numero": 25,
       "nom_pinyin": "Wang",
-      "nom_fr": "Die Unschuld",
+      "nom_fr": "Die Unschuld (Das Unerwartete)",
       "caractere": "無妄",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "En haut est K'ien, le créateur; en bas, Tchen, le mouvement. Le trigramme inférieur, Tchen, est sous l'influence du trait fort qu'il a reçu d'en haut, du ciel. Quand, conformément à cet état de choses, le mouvement suit la loi du ciel, l'homme est innocent et sans fausseté. C'est l'état pur et naturel, qui n'est pas troublé par des réflexions ou des arrière-pensées. En effet, partout où l'on observe un dessein, la vérité et l'innocence de la nature sont perdues. La nature sans les directives de l'esprit n'est pas la nature véritable, mais la nature dégénérée. A partir de la pensée de ce qui est naturel, l'association d'idées va partiellement plus loin encore, et l'hexagramme comprend en outre la notion d'imprévu, d'inattendu.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "Kiën, der Himmel, ist oben; Dschen, die Bewegung, ist unten. Das untere Zeichen Dschen steht unter dem Einfluss des starken Strichs, den es von oben, vom Himmel, empfangen hat.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1348,7 +1396,9 @@
           "texte": "Une activité innocente apporte l'infortune. Rien n'est avantageux. Lorsqu'on est dans une situation où l'époque ne se prête plus au progrès, il importe d'attendre paisiblement et sans arrière-pensée. Si l'on agit d'une manière irréfléchie pour aller de l'avant contre le destin, on ne parviendra pas au succès. Garder son coeur et sa pureté d'esprit dans ses actions chaque choses vient en son heure MERCI!!"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "UNSCHULD. Erhabenes Gelingen. Beharrlichkeit fördert. Wenn jemand nicht ist, wie er sein sollte, hat er Unheil, und es fördert ihn nicht, etwas zu unternehmen.",
+      "image": "Unter dem Himmel rollt der Donner:\nAlle Dinge erreichen den natürlichen Zustand der Unschuld.\nSo pflegten und nährten die Könige der Vorzeit, reich an Tugend und in Harmonie mit der Zeit, alle Wesen."
     },
     {
       "numero": 26,
@@ -1356,10 +1406,10 @@
       "nom_fr": "Des Großen Zähmungskraft",
       "caractere": "大畜",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Cela donne un grand pouvoir, tout à fait différent de celui du n° 9 où c'est seulement le doux qui apprivoise le créateur. Tandis que là-bas un seul trait faible doit apprivoiser cinq traits forts, ici il y en a deux : en plus du ministre, il y a aussi le prince. C'est pourquoi cet hexagramme est beaucoup plus puissant. Le signe renferme une triple signification : le ciel au milieu de la montagne fait naître l'idée de « tenir ferme » au sens de « maintenir ensemble ». Le trigramme Ken qui immobilise K'ien donne l'idée de« tenir ferme » au sens de « retenir ». Enfin, comme il y a en haut un trait fort qui est le maître de l'hexagramme, on a l'idée de « tenir ferme » au sens de « cultiver », « nourrir ». Cette dernière pensée vaut spécialement pour le maître de l'hexagramme, le trait supérieur, qui représente le sage.",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Das Schöpferische wird von Ken, dem Stillehalten, gezähmt. Das erzeugt große Kraft. Im Gegensatz zu der relativen Schwäche, die durch die Zähmungskraft des Kleinen angezeigt wird.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1396,18 +1446,20 @@
           "texte": "On parvient à la voie du ciel. Succès. Le temps de l'obstruction est passé. La force longtemps accumulée grâce aux obstacles se fraye un chemin et remporte un grand succès. C'est un sage qui est honoré du souverain et dont les maximes s'imposent et modèlent le monde."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DES GROSSEN ZÄHMUNGSKRAFT. Beharrlichkeit fördert. Nicht zu Hause essen bringt Heil. Es fördert, das große Wasser zu durchqueren.",
+      "image": "Der Himmel innerhalb des Berges:\nDas Bild DES GROSSEN ZÄHMUNGSKRAFT.\nSo macht der Edle sich mit vielen Aussprüchen des Altertums und vielen Taten der Vergangenheit vertraut, um dadurch seinen Charakter zu stärken."
     },
     {
       "numero": 27,
       "nom_pinyin": "Français",
-      "nom_fr": "Die Ernährung",
+      "nom_fr": "Die Mundwinkel (Die Ernährung)",
       "caractere": "頤",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "L'hexagramme est l'image d'une bouche ouverte : en haut et en bas, les traits fermes des lèvres et, entre eux, l'ouverture de la bouche. De l'image de la bouche par laquelle on prend les aliments on passe à l'idée de la nourriture elle-même. L'administration de la nourriture est utilisée pour représenter, dans les trois traits inférieurs, l'alimentation de soi-même et plus spécialement celle du corps, et dans les traits supérieurs l'alimentation et la culture des autres dans le domaine supérieur, celui de l'esprit.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Dieses Hexagramm ist ein Bild eines offenen Mundes; oben und unten sind die festen Striche der Lippen, und dazwischen die Öffnung.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1450,7 +1502,9 @@
           "texte": "La source de l'alimentation. La conscience du danger apporte la fortune. Il est avantageux de traverser les grandes eaux. On est ici en présence d'un sage de l'espèce la plus élevée, de qui émanent toutes les influences qui pourvoient à l'alimentation des autres. Une telle position crée une lourde responsabilité. S'il en demeure conscient, il obtiendra la fortune et pourra entreprendre avec confiance des œuvres grandes et difficiles comme la traversée des grandes eaux. Ces œuvres amènent un bonheur général auquel il participe avec tous les autres. Hay que abandonar el nido... Mary_of_Silence – 05/12/2008 ombres, lumières et impermanence : les boucles se bouclent et se répètent, il faut briser le cercle , sortir de la matrice et rugir comme un tigre. algiz – 04/12/2008 retour de lumière je m'abandonne à la reine blanche"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE MUNDWINKEL. Beharrlichkeit bringt Heil. Achte auf die Ernährung und darauf, womit ein Mensch seinen eigenen Mund zu füllen sucht.",
+      "image": "Am Fuß des Berges, Donner:\nDas Bild der ERNÄHRUNG.\nSo ist der Edle vorsichtig mit seinen Worten und mäßig im Essen und Trinken."
     },
     {
       "numero": 28,
@@ -1458,10 +1512,10 @@
       "nom_fr": "Des Großen Übergewicht",
       "caractere": "大過",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "Quand les traits forts sont à l'extérieur et les traits faibles à l'intérieur, tout va bien, il n'y a pas d'excédent de poids, la situation ne comporte rien d'extraordinaire. Mais ici c'est l'inverse qui se produit. L'hexagramme représente une poutre épaisse et lourde au milieu, mais mince à ses extrémités. Cet état n'est pas durable. Il doit passer, se transformer, sinon le malheur menace.",
+      "trigramme_bas_desc": "Le Doux, le Vent, le Bois",
+      "description": "Dieses Hexagramm besteht aus vier starken Strichen innen und zwei schwachen Strichen außen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1504,18 +1558,20 @@
           "texte": "Il faut traverser les eaux. Elles arrivent plus haut que la tête. Infortune. Pas de blâme. La situation indiquée ici est celle où l'extraordinaire est porté à son comble. On est courageux et l'on veut à tout prix venir à bout de sa tâche. On se met ainsi en danger. On se trouve submergé par l'eau. C'est l'infortune. Toutefois abandonner la vie en voulant faire triompher ce qui est bon et bien n'entraîne pas de blâme. Il est des choses plus importantes que la vie. I recently borrowed a laptop and have been working/playing on it till very late into the night, often till 1 or 2 am. I asked if the laptop computer was in the way of my path. the answer is pretty clear here and amazingly so; with the breaking point of the beam and then the image of the mutation is that the superiorman rests and recuperates at night leaving the thunder at rest, i.e., electronics off. thansk artgirls – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DES GROSSEN ÜBERGEWICHT. Der Firstbalken biegt sich bis zum Bruchpunkt. Es fördert, irgendwohin zu gehen. Gelingen.",
+      "image": "Der See steigt über die Bäume:\nDas Bild DES GROSSEN ÜBERGEWICHT.\nSo ist der Edle, wenn er allein steht, unbekümmert, und wenn er der Welt entsagen muss, unverzagt."
     },
     {
       "numero": 29,
       "nom_pinyin": "K'an",
-      "nom_fr": "Das Abgründige",
+      "nom_fr": "Das Abgründige (Das Wasser)",
       "caractere": "坎",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "C'est un des hexagrammes doubles. Le trigramme K'an signifie l'action de s'enfoncer brusquement. Un trait yang est enfoncé entre deux traits yin et il se trouve enfermé par eux comme l'eau dans une gorge étroite. C'est le fils cadet. Le réceptif a acquis le trait yang médian du créateur; ainsi naît K'an. Ce trigramme a pour image l'eau en tant qu'elle vient d'en haut et circule sur la terre dans les rivières et les fleuves, étant ainsi la cause de la vie sur la terre. Appliqué aux hommes, K'an représente le coeur, l'âme où la vie est enfermée dans le corps, la lumière contenue dans les ténèbres, la raison. Le trigramme étant répété, le signe entier a le sens supplémentaire de « répétition du danger ». Il veut désigner par là une situation objective à laquelle on doit s'accoutumer et non une disposition subjective. Car le danger en tant que disposition subjective signifie témérité ou perfidie. C'est pourquoi le danger est également représenté par une gorge montagneuse, c'est-à-dire un é",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Dieses Hexagramm besteht aus einer Verdoppelung des Zeichens Kan. Es ist eines der acht Hexagramme, in denen Verdoppelung vorkommt.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1558,18 +1614,20 @@
           "texte": "Lié avec des cordes et des câbles, enfermé entre les murs d'une prison hérissés de pointes. Pendant trois ans on ne peut trouver sa route. Infortune. Un homme qui a perdu le bon chemin dans l'extrême danger et qui est ligoté dans ses péchés n'a aucune perspective de sortir de sa situation périlleuse. Il ressemble à un criminel assis dans les chaînes derrière les murs d'une prison hérissés de pointes. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "Das Abgründige wiederholt. Wenn du wahrhaftig bist, hast du Gelingen im Herzen, und was immer du tust, gelingt.",
+      "image": "Das Wasser fließt ununterbrochen und erreicht sein Ziel:\nDas Bild des wiederholten Abgründigen.\nSo wandelt der Edle in dauerhafter Tugend und führt das Geschäft des Lehrens fort."
     },
     {
       "numero": 30,
       "nom_pinyin": "Li",
-      "nom_fr": "Das Haftende",
+      "nom_fr": "Das Haftende (Das Feuer)",
       "caractere": "離",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "L'hexagramme est double. Le trigramme Li signifie « s'attacher à quelque chose », « être conditionné », « reposer sur quelque chose », « clarté ». Un trait sombre s'attache à un trait lumineux par-dessus et par-dessous, image d'un espace vide entre deux traits forts, ce qui les rend clairs tous deux. C'est la fille cadette. Le créateur a pris en lui le trait central du réceptif, et c'est ainsi que naît Li. Comme image, c'est le feu. Le feu n'a pas de forme déterminée, mais il s'attache aux corps qui brûlent et, ainsi, est lumineux. De même que l'eau descend du ciel, le feu monte en flamboyant de la terre. Tandis que K'an signifie l'âme enfermée dans le corps, Li indique la nature dans son éclat.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Dieses Hexagramm ist ein weiteres Doppelzeichen. Das Zeichen Li bedeutet, an etwas haften, und auch Helligkeit.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1612,18 +1670,20 @@
           "texte": "Le roi l'emploie pour monter la garde et pour châtier. Il vaut mieux alors tuer les chefs et faire prisonniers ceux qui les suivent. Pas de blâme. Le but du châtiment est de créer la discipline et non d'imposer des peines aveugles. Il faut guérir le mal à la racine. Dans la vie de la cité, il importe de se débarrasser des chefs des complots, mais d'épargner leurs compagnons. Dans l'œuvre du perfectionnement de soi, il importe d'extirper les mauvaises habitudes, mais de tolérer celles qui sont inoffensives. Car une ascèse trop rude, tout comme un châtiment trop brutal, ne mène à rien de bon. attirance ou répulsion?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS HAFTENDE. Beharrlichkeit fördert. Es bringt Gelingen. Die Pflege der Kuh bringt Heil.",
+      "image": "Das Helle steigt zweimal empor:\nDas Bild des FEUERS.\nSo erhellt der große Mann, indem er diese Helligkeit fortführt, die vier Enden der Welt."
     },
     {
       "numero": 31,
       "nom_pinyin": "Hien",
-      "nom_fr": "Die Einwirkung",
+      "nom_fr": "Die Einwirkung (Die Werbung)",
       "caractere": "咸",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "Le trigramme supérieur est Touei, le joyeux; l'inférieur, Ken, l'immobilisation. Le trigramme fort du bas émeut le trigramme faible du haut en exerçant sur lui une action persistante tendant à l'arrêter, et le second trigramme répond joyeusement et dans l'allégresse à l'invite du premier. Le trigramme inférieur, Ken, est le plus jeune fils; le trigramme supérieur, Touei, la plus jeune fille. Ainsi se trouve représentée l'attraction naturelle des sexes l'un pour l'autre. L'homme doit dans ce domaine prendre l'initiative et se placer au-dessous de la femme en la demandant en mariage. De même que la première partie du livre commence par les hexagrammes du ciel et de la terre, en tant que fondements de tout ce qui existe, la seconde débute par l'hexagramme représentant la demande en mariage et les épousailles, en tant que fondement de la vie sociale.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Der Name des Hexagramms bedeutet allgemein, universal, und im übertragenen Sinn einwirken, anregen. Das obere Zeichen ist Tui, das Heitere; das untere ist Ken, das Stillehalten.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1666,7 +1726,9 @@
           "texte": "L'influence se manifeste dans les mâchoires, les joues et la langue. La façon la plus superficielle de vouloir exercer de l'influence sur les autres est le pur bavardage derrière lequel il n'y a rien. Une telle excitation produite par les mouvements des organes de la parole demeure nécessairement insignifiante. C'est pourquoi rien n'est ajouté concernant le bonheur ou le malheur. oui merci"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "Einwirkung. Gelingen. Beharrlichkeit fördert. Ein Mädchen zur Frau nehmen bringt Heil.",
+      "image": "Ein See auf dem Berg:\nDas Bild der Einwirkung.\nSo ermutigt der Edle die Menschen, sich ihm zu nähern, durch seine Bereitschaft, sie zu empfangen."
     },
     {
       "numero": 32,
@@ -1674,10 +1736,10 @@
       "nom_fr": "Die Dauer",
       "caractere": "恆",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "Cet hexagramme est l'inverse du précédent : là l'influence, ici l'union comme état durable. Les images sont celles du tonnerre et du vent qui sont également des phénomènes associés de façon constante. Le trigramme inférieur indique douceur au-dedans, le trigramme supérieur, mouvement au-dehors. Si nous appliquons l'hexagramme aux rapports sociaux, nous sommes en présence de l'institution matrimoniale comme union durable des sexes. Lors de la demande en mariage, le jeune homme se tenait placé au-dessous de la jeune fille. Par contre, dans le mariage qui est représenté par la réunion du fils aîné et de la fille aînée, l'homme est à l'extérieur fournissant direction et impulsion, tandis que la femme demeure à l'intérieur, douce et obéissante.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Das starke Zeichen Dschen ist oben, das schwache Zeichen Sun unten. Dieses Hexagramm ist das Inverse des vorhergehenden.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1720,7 +1782,9 @@
           "texte": "La hâte comme état durable apporte l'infortune. Il y a des êtres qui sont dans un état perpétuel de hâte sans trouver le repos à l'intérieur d'eux-mêmes. Non seulement la hâte empêche toute profondeur morale, mais elle devient bientôt un danger si elle règne à la place directrice. Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAUER. Gelingen. Kein Makel. Beharrlichkeit fördert. Es fördert, irgendwohin zu gehen.",
+      "image": "Donner und Wind: das Bild der DAUER.\nSo steht der Edle fest und ändert nicht seine Richtung."
     },
     {
       "numero": 33,
@@ -1728,10 +1792,10 @@
       "nom_fr": "Der Rückzug",
       "caractere": "遯",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "La lumière se retire devant elle pour se mettre en sûreté, de sorte que l'obscurité n'a pas de prise sur elle. Il ne s'agit pas, dans la retraite, d'une action qui relève de la volonté humaine, mais d'une loi naturelle. C'est pourquoi se retirer constitue, dans ce cas, la façon correcte d'agir, qui n'use pas les forces",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Die Macht des Dunklen ist im Aufstieg. Das Licht zieht sich in Sicherheit zurück, damit das Dunkle nicht auf es übergreifen kann.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1774,18 +1838,20 @@
           "texte": "Retraite joyeuse. Tout est avantageux. La situation est sans équivoque. Le détachement intérieur est un fait acquis. On a par suite la liberté de s'en aller. Quand on voit son chemin devant soi d'une façon si claire et si indubitable, il s'instaure dans l'âme une tranquillité joyeuse qui élit ce qui est juste sans balancer davantage. Une telle voie clairement tracée mène toujours au bien. evol sent r brazil – 01/12/2009 Un retour au calme à l'intérieur, une ferme décision morale, une fidélité à toute épreuve, un horizon qui fait plaisir à voir. Love sent too Loo – 02/11/2008 run away from running away... Julie – 05/12/2008 difficile retraite puisse-t-elle être joyeuse algiz – 03/12/2008 Our Time is Running ouT... Orsius – 02/12/2008 Oui"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "RÜCKZUG. Gelingen. Im Kleinen fördert Beharrlichkeit.",
+      "image": "Berg unter dem Himmel: das Bild des RÜCKZUGS.\nSo hält der Edle den gemeinen Mann auf Abstand, nicht ärgerlich, aber mit Reserve."
     },
     {
       "numero": 34,
       "nom_pinyin": "Chouang",
-      "nom_fr": "Des Großen Macht",
+      "nom_fr": "Die Macht des Großen",
       "caractere": "大壯",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "Quatre traits lumineux sont entrés dans l'hexagramme par le bas et s'apprêtent à poursuivre leur ascension. Le trigramme supérieur est Tchen, l'éveilleur; le trigramme inférieur est K'ien, le créateur. Le créateur est fort, l'éveilleur excite le mouvement. L'union du mouvement et de la force donne le sens de « puissance de ce qui est grand ». Cet hexagramme est rattaché au 2° mois (mars avril).",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Die großen Striche, das heißt die hellen, starken Striche, sind mächtig. Vier helle Striche sind von unten ins Hexagramm eingetreten.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1828,7 +1894,9 @@
           "texte": "Un bouc se heurte à une haie. Il ne peut pas reculer, il ne peut pas avancer. Rien n'est avantageux. Si l'on remarque la difficulté, cela apporte le succès. Si l'on s'aventure trop loin, on arrive à un point mort où l'on ne peut ni avancer, ni reculer et où tout ne sert qu'à embrouiller davantage les choses. Un pareil entêtement conduit à des difficultés insurmontables. Si, se rendant compte de la situation, on décide de ne pas continuer et l'on s'apaise, alors avec le temps tout ira bien. un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras. pierre – 03/11/2007 un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE MACHT DES GROSSEN. Beharrlichkeit fördert.",
+      "image": "Donner am Himmel oben:\nDas Bild der MACHT DES GROSSEN.\nSo betritt der Edle keine Pfade, die nicht der festgelegten Ordnung entsprechen."
     },
     {
       "numero": 35,
@@ -1836,10 +1904,10 @@
       "nom_fr": "Der Fortschritt",
       "caractere": "晉",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Par suite, c'est l'image du progrès rapide et aisé qui traduit en même temps l'expansion toujours plus grande et la clarté.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Das Hexagramm stellt die Sonne dar, die über der Erde aufsteigt. Es ist daher das Symbol des raschen, leichten Fortschritts.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1882,7 +1950,9 @@
           "texte": "Progresser avec les cornes n'est permis que pour châtier son propre domaine. La conscience du danger apporte la fortune. Pas de blâme. La persévérance apporte l'humiliation. Progresser les cornes abaissées, c'est-à-dire s'avancer de façon agressive est une attitude qu'un homme ne doit adopter dans les moments dont il est ici question qu'à l'égard des fautes des siens. On doit alors garder en mémoire qu'un danger est toujours lié à une telle démarche agressive. On évite ainsi les fautes qu'on risquerait de commettre en agissant différemment, et l'on atteint le but qu'on s'est fixé. Si par contre on persévère dans cette attitude trop énergique, notamment envers les personnes qui ne sont pas des proches, on aboutit à une humiliation. iz izinn"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "FORTSCHRITT. Der mächtige Fürst wird mit Pferden in großer Zahl geehrt. An einem einzigen Tag wird ihm dreimal Audienz gewährt.",
+      "image": "Die Sonne erhebt sich über die Erde:\nDas Bild des FORTSCHRITTS.\nSo erhellt der Edle selbst seine helle Tugend."
     },
     {
       "numero": 36,
@@ -1890,10 +1960,10 @@
       "nom_fr": "Die Verfinsterung des Lichts",
       "caractere": "明夷",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "Le soleil s'est enfoncé sous la terre et s'est donc obscurci. Le nom de l'hexagramme signifie proprement « le fait de blesser ce qui est lumineux », et c'est pourquoi les différents traits parlent souvent de blessure. La situation est exactement l'inverse de celle représentée par l'hexagramme précédent. Là on a au sommet un homme sage qui possède des assistants de valeur en compagnie desquels il progresse; ici la place d'autorité est occupée par un homme ténébreux qui porte préjudice à l'homme habile et vertueux.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Hier ist die Sonne unter die Erde gesunken und ist daher verfinstert. Der Name des Hexagramms bedeutet wörtlich Verwundung des Hellen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1936,18 +2006,20 @@
           "texte": "Non la lumière mais l'obscurité. Tout d'abord il s'est élevé au ciel, puis il a plongé dans les profondeurs de la terre. L'obscurité parvient ici à son comble. La force ténébreuse était d'abord placée si haut qu'elle pouvait blesser toutes les puissances bonnes et lumineuses. A la fin pourtant elle périt par sa propre obscurité, car la chute du mal doit se produire au moment même où il a complètement vaincu le bien et, par suite, consumé la force à laquelle il devait jusque-là son existence. previous to receiving this hexagram, I was relating personal, spiritual info on another web site. I do not know what I hit on my keyboard, but all of the info disappeared. having written so much, I became \"entranced\" in my work and forgot to \"save\". poof, gone:( so upon reading this...I wonder if I said too much or perhaps what had been saved was enough. xander – 03/12/2007 I have taken this time to reflect on the response my initial post received and after several of daily consultations I confidently reiterate the position that the Oracle will guide and reveal that which is needed to understand the world around us but to pollute such a text with a transitory and inflammatory remark regarding one's personal political or social ideation's simply detracts from the ethereal magnificence of a work such as the I-Ching. Use it however you will but have enough respect for it to add text only if it serves to further understanding, not to forward an ideology. Aleph – 01/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "VERFINSTERUNG DES LICHTS. In Widrigkeiten fördert es, beharrlich zu sein.",
+      "image": "Das Licht ist in die Erde gesunken:\nDas Bild der VERFINSTERUNG DES LICHTS.\nSo lebt der Edle mit der großen Masse: er verhüllt sein Licht, doch scheint er noch."
     },
     {
       "numero": 37,
       "nom_pinyin": "Jen",
-      "nom_fr": "Die Sippe",
+      "nom_fr": "Die Sippe (Die Familie)",
       "caractere": "家人",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "L'hexagramme représente les lois qui règnent à l'intérieur de la famille. Le trait fort du sommet représente le père, celui du bas, le fils; le cinquième trait, qui est également fort, figure le yang, le deuxième, qui est faible, indique la femme. D'autre part, les deux traits forts à la 5e et à la 3e place représentent deux frères; les traits faibles correspondants, à la 4e et à la 2e place, sont leurs femmes, si bien que toutes les relations et toutes les situations existant à l'intérieur de la famille trouvent ici leur expression appropriée. Chacun des traits a une nature conforme à la place qu'il occupe. La présence d'un trait fort à la 6e place où l'on pourrait s'attendre à trouver un trait faible désigne de la façon la plus claire la ferme autorité qui doit émaner du chef de famille. Ce trait entre ici en ligne de compte, non en sa qualité de sixième, mais en tant que trait supérieur. La famille manifeste les lois qui règnent à l'intérieur de la maison, lois qui, appliquées au mo",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Das Hexagramm stellt die Gesetze dar, die innerhalb der Familie gelten. Der starke Strich oben stellt den Vater dar, der unterste den Sohn.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -1990,7 +2062,9 @@
           "texte": "Son travail commande le respect. A la fin vient la fortune. Le bon ordre de la famille repose en dernière analyse sur la personne du maître de maison. S'il cultive sa personnalité de manière que son influence s'impose par la force de sa vérité intérieure, tout va bien dans la famille. Quand on occupe un poste de direction, on doit spontanément assumer les responsabilités. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DIE SIPPE. Die Beharrlichkeit der Frau fördert.",
+      "image": "Der Wind kommt aus dem Feuer hervor:\nDas Bild der SIPPE.\nSo hat der Edle Gehalt in seinen Worten und Dauer in seiner Lebensweise."
     },
     {
       "numero": 38,
@@ -1998,10 +2072,10 @@
       "nom_fr": "Der Gegensatz",
       "caractere": "睽",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "L'hexagramme se compose du trigramme supérieur Li, la flamme, qui flamboie vers le haut, et du trigramme inférieur Touei, le lac, qui s'infiltre vers le bas. Ces mouvements sont dirigés en sens opposé. En outre Li est la cadette et Touei, la plus jeune des filles. Bien qu'elles habitent la même maison, elles appartiennent à des hommes différents; par suite, leurs volontés ne sont pas unanimes mais vont en sens contraire.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Dieses Hexagramm besteht aus dem Zeichen Li oben, d.h. Flamme, die nach oben brennt, und Tui unten, d.h. der See, der nach unten sickert.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2044,7 +2118,9 @@
           "texte": "Isolé par l'opposition, on voit son compagnon comme un porc recouvert de boue, comme un char rempli de démons. D'abord on tend son arc contre lui, puis on dépose son arc. Ce n'est pas un brigand, il fera sa demande en son temps. Tandis qu'on marche, la pluie tombe et la fortune vient. L'isolement est ici causé par des malentendus; il ne provient pas des circonstances extérieures, mais des dispositions intérieures. On méconnaît son meilleur ami, on le tient pour un porc impur et souillé de boue; on le croit dangereux comme un char rempli de démons. On adopte une attitude de défense. Toutefois on finit par reconnaître son erreur, on dépose son arc et l'on se rend compte que l'autre s'avance dans les meilleures intentions pour réaliser une union étroite. Ainsi la tension tombe. L'union fait s'évanouir l'opposition, comme la pluie en tombant dissipe la chaleur étouffante qui régnait avant l'orage. Tout va bien, car c'est précisément lorsqu'elle est parvenue à son point le plus aigu que l'opposition se transforme en son contraire give thanks . n – 01/12/2009 Le plus explicite de mes tirages (1989) J'ai rencontré mon maître dans une rue étroite où j'ai failli être mordu JM – 02/11/2008 On n'attend pas pour être sage ? affirmation présomptueuse"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "GEGENSATZ. In kleinen Dingen Heil.",
+      "image": "Oben Feuer, unten der See:\nDas Bild des GEGENSATZES.\nSo bewahrt der Edle inmitten aller Gemeinschaft seine Individualität."
     },
     {
       "numero": 39,
@@ -2052,10 +2128,10 @@
       "nom_fr": "Die Hemmung",
       "caractere": "蹇",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "On se trouve ainsi environné d'obstacles. Mais la propriété de la montagne, qui est d'immobiliser, suggère également la façon dont on peut se libérer de cette obstruction. L'hexagramme représente des obstacles qui apparaissent dans le cours du temps, mais qui peuvent et doivent être surmontés. Toutes les indications données portent en conséquence sur la manière de vaincre les empêchements.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Das Hexagramm zeigt einen gefährlichen Abgrund vor uns und einen steilen, unzugänglichen Berg hinter uns. Wir sind von Hindernissen umgeben.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2098,7 +2174,9 @@
           "texte": "Aller mène à des obstacles, venir mène à une grande fortune. Il est avantageux de voir le grand homme. On montre ici quelqu'un qui a déjà laissé derrière lui le monde et son agitation. Lorsque vient pour le monde le temps de l'obstacle, il pourrait sembler que la solution la plus simple serait pour lui de laisser purement et simplement le siècle derrière lui et de se réfugier dans l'au-delà. Mais cette voie lui est barrée. Il ne peut pas être bienheureux tout seul et abandonner le monde à sa détresse. Son devoir l'appelle une fois encore dans l'agitation du siècle. A cause précisément de son expérience et de sa liberté intérieure, il est capable de réaliser quelque chose de grand et de mûr qui apporte la fortune. Et il est avantageux de voir le grand homme en compagnie duquel on pourra achever l'œuvre du salut. Et hop, un coup dans le tibia"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "HEMMUNG. Der Südwesten fördert. Der Nordosten fördert nicht. Es fördert, den großen Mann zu sehen. Beharrlichkeit bringt Heil.",
+      "image": "Wasser auf dem Berg:\nDas Bild der HEMMUNG.\nSo wendet der Edle seine Aufmerksamkeit sich selbst zu und formt seinen Charakter."
     },
     {
       "numero": 40,
@@ -2106,10 +2184,10 @@
       "nom_fr": "Die Befreiung",
       "caractere": "解",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "L'obstacle est écarté, les difficultés sont conçues comme étant en cours de solution. La libération n'est pas encore achevée, elle ne fait juste que de commencer et ses différents stades sont représentés dans l'hexagramme.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Hier geht die Bewegung aus dem Bereich der Gefahr heraus. Das Hindernis ist beseitigt, die Schwierigkeiten lösen sich.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2146,7 +2224,9 @@
           "texte": "Le prince tire un faucon sur un mur élevé. Il l'abat. Tout est avantageux Le faucon sur un mur élevé est l'image d'un homme vulgaire devenu puissant et occupant un poste élevé, qui fait obstacle à la délivrance. Il s'oppose à l'influence libératrice par son action intérieure, car il est endurci dans sa méchanceté. Il doit être énergiquement écarté, et cela exige l'emploi des moyens adéquats. Confucius dit à ce sujet : « Le faucon est le but de la chasse. L'arc et la flèche sont les instruments et les moyens. Le tireur est l'homme, qui doit utiliser correctement les moyens en vue d'atteindre le but. L'homme noble cache les moyens dans sa personne. Il attend le moment et ensuite il agit. Comment dès lors tout n'irait-il pas très bien ? Il agit et il est libre. C'est pourquoi il lui suffit de sortir et il abat le gibier. Il en est ainsi de l'homme qui agit après avoir mis au point les moyens. » confusius commentary on line 6: The hawk is the object of the hunt; bow and arrow are the tools and means. The marksman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means. Priya – 02/11/2008 La liberation de cet envoutement tenace ? hilda algiz – 08/12/2008 Extremadura ! - Per espera ad astra - 1.0 – 0"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BEFREIUNG. Der Südwesten fördert. Wenn es nichts mehr gibt, wohin man gehen muss, bringt Rückkehr Heil. Wenn es noch etwas gibt, wohin man gehen muss, bringt Eilen Heil.",
+      "image": "Donner und Regen setzen ein:\nDas Bild der BEFREIUNG.\nSo verzeiht der Edle Fehler und vergibt Missetaten."
     },
     {
       "numero": 41,
@@ -2154,10 +2234,10 @@
       "nom_fr": "Die Minderung",
       "caractere": "損",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "L'hexagramme montre une diminution du trigramme inférieur au profit du trigramme supérieur, car le 3e trait, qui était fort à l'origine, est passé à la place supérieure, et le trait faible qui, primitivement, occupait cette dernière position, l'a remplacé . Le trigramme inférieur s'est donc amoindri au bénéfice du trigramme supérieur. C'est un amoindrissement pur et simple ; si l'on diminue la base d'un édifice et que l'on en renforce les murs supérieurs, l'ensemble y perd de sa solidité. De même une diminution de la prospérité du peuple au profit des gouvernants constitue un amoindrissement pur et simple. Et l'hexagramme tout entier tend à montrer la manière dont ce déplacement de la prospérité peut s'opérer sans que les sources de cette dernière dans le peuple et ses couches inférieures en soient taries.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Dieses Hexagramm stellt eine Minderung des unteren Zeichens zugunsten des oberen dar, weil der dritte Strich, ursprünglich stark, nach oben gewandert ist.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2200,7 +2280,9 @@
           "texte": "Lorsque quelqu'un est augmenté sans diminution des autres cela est sans blâme. La persévérance apporte la fortune. Il est avantageux d'entreprendre quelque chose. On obtient des serviteurs, mais on ne possède plus de maison séparée. Il y a des hommes qui dispensent des bénédictions au monde entier. Tout accroissement de force, toute augmentation qui leur échoit tourne au bien de l'ensemble des hommes et ne signifie donc pas une diminution pour les autres. Par un travail persévérant et plein de zèle on parvient au succès et l'on trouve les concours dont on a besoin. Mais ce qu'on réalise n'est pas quelque avantage personnel et limité : c'est un bénéfice public et accessible à tous. love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "MINDERUNG verbunden mit Wahrhaftigkeit bringt erhabenes Heil ohne Makel. Man darf darin beharrlich sein. Es fördert, etwas zu unternehmen.",
+      "image": "Am Fuß des Berges, der See:\nDas Bild der MINDERUNG.\nSo beherrscht der Edle seinen Zorn und zügelt seine Triebe."
     },
     {
       "numero": 42,
@@ -2210,8 +2292,8 @@
       "trigramme_haut": "Sun",
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "L'idée de l'augmentation s'exprime par le fait que le trait inférieur fort du trigramme supérieur est descendu et s'est placé au bas du trigramme inférieur. L'idée fondamentale du Livre des Transformations s'exprime également dans cette conception : régner véritablement, c'est servir. Un sacrifice de l'être supérieur qui réalise une augmentation de l'être inférieur est appelé augmentation pure et simple, pour indiquer l'esprit qui, seul, est en mesure d'aider le monde.",
+      "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
+      "description": "Die Idee der Mehrung drückt sich darin aus, dass der starke unterste Strich des oberen Zeichens herabgesunken ist und seinen Platz unter dem unteren Zeichen eingenommen hat.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2254,18 +2336,20 @@
           "texte": "Il ne procure d'augmentation à personne. Quelqu'un assurément le frappe. Il ne conserve pas son cœur constamment ferme. Infortune. Le sens de la situation est que les supérieurs devraient augmenter les inférieurs en renonçant à eux-mêmes. Quand on néglige ce dévot agité dans ses paroles, celles-ci ne trouvent aucun écho chez lui et que l'on n'est utile à personne, on sort aussi de l'influence bienfaisante des autres et l'on se trouve vite isolé. On s'attire ainsi des attaques. Une disposition qui n'est pas en harmonie durable avec les exigences de l'époque apportera nécessairement l'infortune avec elle. Confucius dit à propos de ce trait : « L'homme noble met sa personne en repos avant de se mouvoir. Il se recueille dans son esprit avant de parler. Il affermit ses relations avant de demander quelque chose. Ayant mis ces trois choses en ordre, il est en parfaite sécurité. Mais si quelqu'un est brusque dans ses mouvements, les autres ne coopèrent pas avec lui. S'il demande quelque chose sans avoir auparavant noué des relations, les gens ne lui donnent pas. Si personne n'est avec lui, alors ceux qui veulent lui nuire s'approchent. ». je suis tombée sur ce tirage en de mandant si je devais retourner vers mon âme soeur pour nous unir à présent (nous nous étions séparés car je ne voulai spas d'enfant mais aujourd'hui je me sens prête à passer le pas) C'est notre unique objet de rupture...Que pouvez-vous me conseiller , je suis novice avec l'oracle! merci d'avance et bonne nuit dans"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "MEHRUNG. Es fördert, etwas zu unternehmen. Es fördert, das große Wasser zu durchqueren.",
+      "image": "Wind und Donner: das Bild der MEHRUNG.\nSo der Edle: wenn er Gutes sieht, ahmt er es nach; wenn er Fehler hat, befreit er sich von ihnen."
     },
     {
       "numero": 43,
       "nom_pinyin": "Kouai",
-      "nom_fr": "Der Durchbruch",
+      "nom_fr": "Der Durchbruch (Die Entschlossenheit)",
       "caractere": "夬",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ien",
-      "trigramme_bas_desc": "Das Schöpferische, der Himmel",
-      "description": "L'hexagramme signifie d'une part une percée après une longue tension accumulée, comme la brèche qu'un fleuve fait à travers ses digues, comme un nuage qui crève. Sur le plan des situations humaines, c'est l'époque où les hommes vulgaires sont en voie de disparition. Leur influence décroît et une action résolue fait que le changement de conditions amène la percée. Ce signe est rattaché au 3 ème mois (avril-mai).",
+      "trigramme_bas_desc": "Le Créateur, le Ciel",
+      "description": "Dieses Hexagramm bedeutet einerseits einen Durchbruch nach langer Ansammlung von Spannung, wie ein angeschwollener Fluss seine Deiche durchbricht.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2308,7 +2392,9 @@
           "texte": "Pas d'appel. A la fin vient l'infortune. La victoire semble être achevée. Il ne demeure plus qu'un restant de mal qui doit être résolument déraciné comme l'époque le demande. Tout semble parfaitement aisé, mais c'est précisément en cela que réside le danger. Si l'on n'est pas sur ses gardes, le mal réussit à se frayer subrepticement un passage et, dès qu'il s'est échappé, de nouveaux malheurs naissent des germes qui avaient subsisté, car le mal ne meurt pas facilement. Face au mal que contient notre propre caractère, nous devons aussi faire un travail radical. Si, par négligence, on omettait de remédier à quelque point, il sortirait de là un nouveau mal. Ces précédents messages ne me semblent guère propices à de plus sages commentaires que je souhaite. Qui est cet Orsus qui parle ? Un inconnu vulgaire qui ne connait rien à la paix de Confusius. Heraclite – 09/12/2008 Oracle du Dieu vivant, t'es un enfoiré. les signes sont inconstants. c invivable pour qui te suit. Orsus ! ou rien 1p0 0rsus – 06/12/2008 19/02/09 Cry Havoc ! Orsius – 02/12/2008 le bien est mon chemin"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DURCHBRUCH. Man muss die Sache entschlossen am Hofe des Königs bekannt machen. Sie muss wahrheitsgemäß verkündet werden. Gefahr. Es ist notwendig, die eigene Stadt zu benachrichtigen.",
+      "image": "Der See ist zum Himmel aufgestiegen:\nDas Bild des DURCHBRUCHS.\nSo verteilt der Edle Reichtümer nach unten und ruht nicht auf seiner Tugend aus."
     },
     {
       "numero": 44,
@@ -2316,10 +2402,10 @@
       "nom_fr": "Das Entgegenkommen",
       "caractere": "姤",
       "trigramme_haut": "K'ien",
-      "trigramme_haut_desc": "Das Schöpferische, der Himmel",
+      "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "L'élément féminin vient de lui-même à la rencontre des hommes. C'est une situation dangereuse et non favorable à cause des conséquences possibles qu'il importe de reconnaître à temps et, par suite, d'enrayer. Ce signe est rattaché au 5e mois (juin-juillet) parce qu'avec le solstice d'été le principe obscur recommence peu à peu son ascension.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Dieses Hexagramm zeigt eine Situation, in der das Prinzip der Finsternis, nachdem es eliminiert wurde, heimlich und unerwartet von innen und unten wieder hervordringt.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2362,7 +2448,9 @@
           "texte": "Il vient à la rencontre avec ses cornes. Humiliation. Pas de blâme. Quand un homme s'est retiré du monde, l'agitation profane lui devient souvent insupportable. Il y a souvent des hommes qui, dans un noble orgueil, se tiennent loin du vulgaire et le repoussent avec rudesse s'il vient à leur rencontre. De tels hommes sont réprimandés d'être durs et inaccessibles; toutefois comme ils ne sont plus liés par le devoir d'agir dans le monde, cela n'a pas grande importance. Ils savent supporter avec calme l'aversion de la masse. Labor comes from the word Passion (Obras). 1p0 – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ENTGEGENKOMMEN. Das Mädchen ist mächtig. Man sollte ein solches Mädchen nicht heiraten.",
+      "image": "Unter dem Himmel, Wind:\nDas Bild des ENTGEGENKOMMENS.\nSo handelt der Fürst, wenn er seine Befehle verbreitet und sie in die vier Himmelsrichtungen verkündet."
     },
     {
       "numero": 45,
@@ -2370,10 +2458,10 @@
       "nom_fr": "Die Sammlung",
       "caractere": "萃",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ouen",
-      "trigramme_bas_desc": "Das Empfangende, die Erde",
-      "description": "Là l'eau au-dessus de la terre, ici le lac au-dessus de la terre. Le lac est k point où se rassemblent les eaux, c'est pourquoi l'idée de rassemblement est ici plus fortement exprimée que dans l'hexagramme Pi. La même, idée fondamentale découle de ce qu'il y a ici à la 4e et à la 5e places deux traits forts qui réalisent le rassemblement, tandis que là il n'existe qu'un seul trait fort à la Se place au milieu des traits faibles.",
+      "trigramme_bas_desc": "Le Réceptif, la Terre",
+      "description": "Dieses Hexagramm ist in Form und Bedeutung mit Pi, DAS ZUSAMMENHALTEN, verwandt. Bei jenem ist Wasser über der Erde; hier ist ein See über der Erde.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2416,7 +2504,9 @@
           "texte": "Lamentations et soupirs, larmes à flots. Pas de blâme. Il peut arriver que l'on veuille se joindre à quelqu'un, mais que l'on voie son intention méconnue. On est alors plein de tristesse et l'on se lamente. Mais c'est le bon chemin. Car cela peut amener l'autre à réfléchir et l'on peut parvenir encore à la réunion désirée et douloureusement manquée. felicitation a l'ecrivain really mais pour ma part je prefere la version original par ce qu'elle moins dirigiste et laisse ce fichu \"libre arbitre\" au demander aussi il a la possibilité de commettre des erreures mais de les rectifier de lui meme quand il en prend conscience cela dit faut il encore qu'on ne le me prise pas au point de le considerait uniquement comme le fils du vent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "SAMMLUNG. Gelingen. Der König naht seinem Tempel. Es fördert, den großen Mann zu sehen. Das bringt Gelingen. Beharrlichkeit fördert.",
+      "image": "Über der Erde, der See:\nDas Bild der SAMMLUNG.\nSo erneuert der Edle seine Waffen, um dem Unvorhergesehenen zu begegnen."
     },
     {
       "numero": 46,
@@ -2424,10 +2514,10 @@
       "nom_fr": "Das Empordringen",
       "caractere": "升",
       "trigramme_haut": "K'ouen",
-      "trigramme_haut_desc": "Das Empfangende, die Erde",
+      "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "A cela est liée l'idée que le bois, dans la terre, pousse vers le haut. Cette « poussée vers le haut » est, par opposition au « progrès », (n° 35), liée à la notion d'effort, de même que les plantes ont besoin de force pour croître dans la terre.",
+      "trigramme_bas_desc": "le Doux, le Vent",
+      "description": "Das untere Zeichen Sun stellt das Holz dar, und das obere, Kun, bedeutet die Erde. Damit verbunden ist die Vorstellung, dass Holz in der Erde nach oben wächst.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2470,18 +2560,20 @@
           "texte": "Pousser vers le haut dans le noir. Il y a avantage à persévérer sans relâche. Celui qui pousse vers le haut en aveugle est intérieurement égaré. Il connaît seulement la progression, non la retraite. Mais de cette manière on s'épuise. Il est important dans de tels cas de se rappeler que l'on doit demeurer consciencieux et conséquent avec soi-même. Ce n'est qu'ainsi que l'on se préservera de la poussée aveugle qui est toujours mauvaise. That what he goes there for, is to unlock the door. While those around him criticize and sleep... And through a fractal on a breaking wall, I see you my friend, and touch your face again. Miracles will happen as we trip. But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy ^^ Orsius – 02/12/2008 silence"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "EMPORDRINGEN hat erhabenes Gelingen. Man muss den großen Mann sehen. Fürchte dich nicht. Aufbruch nach Süden bringt Heil.",
+      "image": "In der Erde wächst Holz:\nDas Bild des EMPORDRINGENS.\nSo häuft der Edle von hingebendem Charakter kleine Dinge auf, um etwas Hohes und Großes zu erreichen."
     },
     {
       "numero": 47,
       "nom_pinyin": "K'ouen",
-      "nom_fr": "Die Bedrängnis",
+      "nom_fr": "Die Bedrängnis (Die Erschöpfung)",
       "caractere": "困",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "Le lac est vide, épuisé, tari. Mais l'idée d'épuisement apparaît d'une autre manière encore : en haut se trouve un trait obscur avec, au-dessous, deux traits lumineux; en bas est un trait lumineux entre deux traits obscurs. Le trigramme supérieur relève du principe obscur, tandis que le trigramme inférieur appartient au principe lumineux. Ainsi les hommes nobles sont partout accablés et contrariés dans leur action par les hommes vulgaires.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Der See ist oben, Wasser unten; der See ist leer, ausgetrocknet. Die Erschöpfung kommt noch auf andere Weise zum Ausdruck.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2524,7 +2616,9 @@
           "texte": "Il est accablé par des sarments. Il se meut incertain et dit : « Le mouvement produit le remords ». Si l'on éprouve du remords à ce sujet et que l'on se mette en route on obtient une heureuse fortune. On est accablé par des liens qui se laissent rompre facilement. L'accablement touche à sa fin. Pourtant on est encore irrésolu : on demeure influencé par la situation antérieure et l'on pense qu'on aura à se repentir si l'on se meut. Mais dès qu'on a une vue claire des choses, que l'on se défait de cette attitude intérieure et que l'on embrasse une ferme résolution, on parvient à dominer l'accablement. gfhji"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BEDRÄNGNIS. Gelingen. Beharrlichkeit. Der große Mann bringt Heil zustande. Kein Makel. Wenn man etwas zu sagen hat, wird es nicht geglaubt.",
+      "image": "Im See ist kein Wasser:\nDas Bild der ERSCHÖPFUNG.\nSo setzt der Edle sein Leben daran, seinem Willen zu folgen."
     },
     {
       "numero": 48,
@@ -2532,10 +2626,10 @@
       "nom_fr": "Der Brunnen",
       "caractere": "井",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "Le bois s'enfonce dans la terre pour faire monter l'eau. C'est l'image des puits de l'ancienne Chine d'où l'on tirait l'eau à l'aide d'un seau suspendu à une perche. Le bois ne représente pas les seaux, qui étaient autrefois faits d'argile, mais les perches dont le mouvement permettait de tirer l'eau du puits. L'image s'applique également au monde des plantes qui font monter l'eau de la terre dans leurs fibres. Le puits où l'on trouve l'eau contient en outre l'idée de la nourriture prodiguée de façon inépuisable.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Holz ist unten, Wasser oben. Das Holz geht in die Erde hinab, um Wasser heraufzubringen. Das Bild stammt vom Stangen- und Eimerbrunnen des alten China.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2578,7 +2672,9 @@
           "texte": "On tire de l'eau du puits sans obstacle. Il est sûr. Sublime fortune. Le puits est là pour tout le monde. Aucune défense ne vient gêner ceux qui veulent y puiser. Si nombreux soient-ils à venir, ils trouvent ce dont ils ont besoin, car on peut compter sur le puits. Il possède une source et n'est jamais à sec; c'est pourquoi il constitue une grande fortune pour le pays tout entier. Il en est de même de l'homme véritablement grand qui possède un trésor inépuisable d'excellence intérieure. Plus on y puise, plus son trésor s'accroît. de la réfection du puit à la puissance du grand, un pas , un renouveau algiz – 06/12/2008 Je m'épuise à vouloir boire de ton eau... lyliade – 04/12/2008 dommage que l'eau soit brouillé, les gens ont trop soif abandonne le puit inutilement ... felip69 – 04/12/2008 J'attendrai que ton eau redevienne claire... algiz – 01/12/2008 silence"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DER BRUNNEN. Die Stadt kann geändert werden, aber der Brunnen kann nicht geändert werden. Er nimmt weder ab noch zu. Sie kommen und gehen und schöpfen aus dem Brunnen.",
+      "image": "Wasser über Holz: das Bild des BRUNNENS.\nSo ermutigt der Edle das Volk bei seiner Arbeit und ermahnt es, einander zu helfen."
     },
     {
       "numero": 49,
@@ -2586,10 +2682,10 @@
       "nom_fr": "Die Umwälzung",
       "caractere": "革",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "Le sens primitif du caractère désignant l'hexagramme est celui d'une peau de bête qui se transforme en muant au cours de l'année. A partir de là le terme est appliqué aux mues qui se produisent dans la vie de l'Etat, aux grandes révolutions liées à un changement de régime. Les deux signes dont l'union forme l'hexagramme sont, comme dans K'ouei « L'opposition » (n° 38), les deux plus jeunes filles, Li et Touei. Mais, tandis que dans K'ouei la plus âgée des deux se tient en haut et qu'il n'en résulte pour l'essentiel qu'une opposition de tendances, ici c'est la plus jeune qui occupe la place supérieure et les effets s'affrontent mutuellement; les forces se combattent comme le feu et l'eau (le lac), chacune cherchant à détruire l'autre. D'où l'idée de révolution.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Das chinesische Zeichen für dieses Hexagramm bedeutet in seiner ursprünglichen Bedeutung das Fell eines Tieres, das sich im Laufe des Jahres durch Häutung ändert.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2632,7 +2728,9 @@
           "texte": "L'homme noble change comme une panthère. L'homme vulgaire mue de visage. Le départ apporte l'infortune. Demeurer persévérant apporte la fortune. Après que les grandes questions fondamentales ont été réglées, il reste encore à mener à bien des réformes de détail et des achèvements mineurs. Ceux-ci peuvent être comparés aux taches d'une peau de panthère, également visibles mais plus petites. Par suite, un changement se produit également chez les hommes vulgaires. Ils muent eux aussi conformément au changement général. Cette mue, il est vrai, n'est pas très profonde, mais il ne fallait pas en attendre davantage. On doit se contenter du possible. Si l'on voulait aller trop loin et atteindre trop de choses, on tomberait dans l'inquiétude et l'infortune. Car ce vers quoi l'on doit tendre dans une grande révolution, ce sont des conditions claires et précises qui assurent une sécurité générale dans la limite des possibilités de l'époque. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les "
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "UMWÄLZUNG. An deinem eigenen Tag wirst du geglaubt. Erhabenes Gelingen, fördernd durch Beharrlichkeit. Reue verschwindet.",
+      "image": "Feuer im See: das Bild der UMWÄLZUNG.\nSo ordnet der Edle den Kalender und macht die Jahreszeiten klar."
     },
     {
       "numero": 50,
@@ -2640,10 +2738,10 @@
       "nom_fr": "Der Tiegel",
       "caractere": "鼎",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "L'image du chaudron évoque en même temps l'idée d'alimentation. Le chaudron en bronze était le récipient qui, dans les temples des ancêtres et lors des festins, contenait les aliments cuits. Le chef de famille les y puisait et les plaçait dans les coupes de ses hôtes. « Le puits » avait également le sens secondaire de distribution de la nourriture, mais surtout pour le peuple. Le chaudron, en tant que réalisation d'une civilisation raffinée, évoque les soins et l'alimentation prodigués aux hommes de valeur, qui tournent au bien du peuple (voir les 4 hexagrammes de l'alimentation : n\" 5, 27, 48, 50). Cet hexagramme et celui du « puits » sont les seuls du Livre des Transformations représentant des objets concrets artificiels. Toutefois l'idée d'alimentation a également son côté abstrait. Au-dessous, Souen est le bois et le vent; au-dessus, Li est la flamme. L'hexagramme représente donc également la flamme allumée par le bois et le vent qui évoque encore l'idée de la préparation des alime",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Die sechs Striche bilden das Bild des Ting, des TIEGELS; unten sind die Beine, darüber der Bauch, dann kommen die Ohren (Griffe), und oben die Tragringe.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2686,18 +2784,20 @@
           "texte": "Le chaudron a des anneaux de jade. Rien qui ne soit avantageux. Au trait précédent les anneaux sont d'or, ce qui indique leur solidité. Ici ils sont de jade. Le jade se distingue en ce qu'il joint la dureté à un doux éclat. Ce conseil, considéré par rapport à l'homme qui lui est accessible, exerce sur lui un effet très profitable. Il est ici présenté par rapport au sage qui le donne : un tel homme, lorsqu'il conseille, est doux et pur comme du jade précieux. De cette manière l'œuvre trouve grâce aux yeux de la divinité qui accorde une grande fortune, et elle est agréable aux yeux des hommes; c'est pourquoi tout va bien. \"Par là est désigné quelqu'un qui, à une époque de haute civilisation, se trouve à un poste où personne ne le reconnaît et ne prête attention à lui. C'est pour son action un obstacle considérable. Toutes ses bonnes qualités et tous les dons de son esprit sont ainsi dépensés en pure perte\" tu crois que c'est de toi qu'il s'agit? nino – 02/12/2008 et tombe la pluie nina – 02/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DER TIEGEL. Erhabenes Heil. Gelingen.",
+      "image": "Feuer über Holz:\nDas Bild des TIEGELS.\nSo festigt der Edle sein Schicksal, indem er seine Stellung richtig macht."
     },
     {
       "numero": 51,
       "nom_pinyin": "Tchen",
-      "nom_fr": "Das Erregende",
+      "nom_fr": "Das Erregende (Der Erschütternde, der Donner)",
       "caractere": "震",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Tchen",
-      "trigramme_bas_desc": "Das Erregende, der Donner",
-      "description": "L'hexagramme Tchen est le. fils aîné qui prend le commandement avec énergie et puissance. Un trait yang apparaît sous deux traits yin et exerce une puissante poussée vers le haut. Cc mouvement est si violent qu'il suscite l'effroi. Il a pour image le tonnerre qui jaillit de la terre et dont l'ébranlement provoque crainte et tremblement.",
+      "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
+      "description": "Das Hexagramm Dschen stellt den ältesten Sohn dar, der die Herrschaft mit Energie und Macht ergreift.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2740,18 +2840,20 @@
           "texte": "L'ébranlement apporte la ruine et les regards anxieux que l'on jette tout autour. Aller de l'avant apporte l'infortune. Si cela n'a pas encore atteint notre corps, mais a commencé par toucher notre voisin, il n'y a pas de blâme. Les compagnons en ont à raconter. Lorsque l'ébranlement intérieur a atteint son plus haut point d'intensité il prive un homme de sa faculté de réflexion et de sa clarté de regard. Dans une telle commotion il n'est naturellement pas possible d'agir de façon considérée. L'attitude juste est alors de se tenir en repos jusqu'à ce qu'on ait retrouvé le calme et la clarté. On ne peut cependant y parvenir que si l'on ne s'est pas encore laissé gagner par l'excitation dont il est déjà possible d'observer les effets fâcheux au sein de l'entourage. Si l'on se retire à temps de l'action, on demeure exempt de fautes et de dommages. Mais on peut être sûr que les compagnons qui, pris dans ce tourbillon, n'admettent plus désormais les avertissements, ne seront pas satisfaits d'une pareille conduite. On se bornera à ne faire aucun cas d'une telle attitude. renoncement sublime algiz – 03/11/2008 au revoir c'etait fort instructif"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ERSCHÜTTERUNG bringt Gelingen. Erschütterung kommt - oh, oh! Lachende Worte - ha, ha! Die Erschütterung schreckt hundert Meilen weit.",
+      "image": "Donner wiederholt: das Bild der ERSCHÜTTERUNG.\nSo bringt der Edle in Furcht und Zittern sein Leben in Ordnung und prüft sich selbst."
     },
     {
       "numero": 52,
       "nom_pinyin": "Ken",
-      "nom_fr": "Das Stillehalten",
+      "nom_fr": "Das Stillehalten (Der Berg)",
       "caractere": "艮",
       "trigramme_haut": "Ken",
-      "trigramme_haut_desc": "Das Stillehalten, der Berg",
+      "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "Le principe masculin est au-dessus, et suit en cela sa direction naturelle; le principe féminin est au-dessous, conformément à la direction de son mouvement. Un état de repos s'est donc établi, car le mouvement est parvenu à sa fin normale. Appliqué à l'homme, l'hexagramme traite du problème de la paix du cœur à acquérir. Le cœur est très difficile à calmer. Tandis que le bouddhisme s'efforce d'atteindre le repos par la cessation de tout mouvement dans l'état de nirvana, le point de vue du Livre des Transformations est que le repos constitue seulement un état polaire qui a toujours pour complément le mouvement. Il est possible que le texte contienne des allusions à des pratiques de yoga.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Das Bild dieses Hexagramms ist der Berg, der jüngste Sohn von Himmel und Erde.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2788,18 +2890,20 @@
           "texte": "Immobilisation magnanime. Fortune. Ici est exprimé l'achèvement de l'effort vers le calme. Non seulement on est en paix en ce qui concerne les détails, les choses comprises dans un cercle restreint, mais un renoncement général procure la paix dans tous les domaines et une heureuse fortune dans tous les actes. 6 mois de pratique de Natha-Yoga... nataraja – 07/12/2008 Wait and see..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "STILLEHALTEN. Seinen Rücken still halten, so dass er seinen Körper nicht mehr fühlt. Er geht in seinen Hof und sieht seine Leute nicht. Kein Makel.",
+      "image": "Berge stehen nahe beieinander:\nDas Bild des STILLEHALTENS.\nSo lässt der Edle seine Gedanken nicht über seine Lage hinausgehen."
     },
     {
       "numero": 53,
       "nom_pinyin": "Tsien",
-      "nom_fr": "Die Entwicklung",
+      "nom_fr": "Die Entwicklung (Allmählicher Fortschritt)",
       "caractere": "漸",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "Un arbre sur une montagne se développe lentement et suivant un ordre et c'est pourquoi il se dresse ensuite solidement enraciné. De là naît l'idée d'un développement progressant graduellement, pas à pas. Les propriétés des trigrammes se rapportent également aux mêmes notions : à l'intérieur se trouve le repos qui préserve des actions précipitées et à l'extérieur la pénétration qui rend possibles le développement et le progrès",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Dieses Hexagramm besteht aus Sun (Holz, Eindringen) oben, d.h. außen, und Ken (Berg, Stille) unten, d.h. innen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2842,7 +2946,9 @@
           "texte": "L'oie sauvage se dirige progressivement vers les hauteurs nuageuses. Ses plumes peuvent être utilisées pour la danse sacrée. Fortune. La vie parvient ici à son terme. Lœuvre est là, achevée. Le chemin s'élève haut dans le ciel, comme le vol des oies sauvages lorsqu'elles ont laissé le sol loin derrière elles. Là elles poursuivent leur vol, conservant l'ordre de leur troupe et offrant la figure de lignes serrées. Et si leurs plumes viennent, à tomber, elles peuvent être utilisées comme ornement dans les ballets sacrés. Ainsi la vie d'un homme parvenu à la perfection est une claire lumière pour les êtres terrestres qui lèvent les yeux vers lui comme vers un modèle. in love with hilda ? algiz – 06/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "ENTWICKLUNG. Das Mädchen wird zur Heirat gegeben. Heil. Beharrlichkeit fördert.",
+      "image": "Auf dem Berg, ein Baum:\nDas Bild der ENTWICKLUNG.\nSo verweilt der Edle in Würde und Tugend, um die Sitten zu verbessern."
     },
     {
       "numero": 54,
@@ -2850,10 +2956,10 @@
       "nom_fr": "Das heiratende Mädchen",
       "caractere": "歸妹",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "En haut est Tchen, le fils aîné; en bas, Touei, la plus jeune fille. L'homme marche devant et la jeune fille suit, joyeuse. Ainsi se trouve dépeinte l'entrée de la jeune fille dans la maison de l'homme. Il y a en tout quatre hexagrammes décrivant les rapports entre époux. Le n° 31, Hien (l'influence) décrit l'attraction mutuelle qu'éprouvent les membres d'un jeune couple. Le n° 32, Hong (la durée) représente la situation durable qui est celle du mariage. Le n° 53 Tsien (le développement) offre le tableau des formes pleines d'hésitation et de cérémonie qui accompagnent la conclusion d'un mariage célébré selon les règles. Enfin Kouei Mei (le mariage de la jeune fille) montre un homme d'un certain âge suivi de la jeune fille qu'il épouse. NOTE : En Chine, la monogamie est la règle. Chaque homme n'a qu'une épouse officielle. Cette union, qui concerne moins ses deux contractants que l'institution familiale, est conclue suivant une stricte observation des formes. Cependant l'homme est autori",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Oben haben wir Dschen, den ältesten Sohn, und unten Tui, die jüngste Tochter. Der Mann führt und das Mädchen folgt ihm freudig.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2896,7 +3002,9 @@
           "texte": "La femme tient la corbeille, mais il n'y a pas de fruits dedans. L'homme perce la brebis, mais il ne coule pas de sang. Rien qui soit avantageux. Lors des sacrifices aux ancêtres, la femme devait présenter les fruits dans une corbeille et l'homme immoler lui-même la victime. Ici les formes ne sont respectées que superficiellement. La femme prend un corbeille vide et l'homme perce une brebis déjà abattue, simplement pour sauvegarder les apparences. Mais cette attitude impie, frivole ne fait guère présager de bonheur pour les époux. ha bon robert – 09/12/2007 choglamsar bodhicitta"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS HEIRATENDE MÄDCHEN. Unternehmungen bringen Unheil. Nichts, das fördern würde.",
+      "image": "Donner über dem See:\nDas Bild des HEIRATENDEN MÄDCHENS.\nSo versteht der Edle das Vergängliche im Licht der Ewigkeit des Endes."
     },
     {
       "numero": 55,
@@ -2904,10 +3012,10 @@
       "nom_fr": "Die Fülle",
       "caractere": "豐",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "Tchen est le mouvement, Li, la flamme dont la propriété est la clarté. Clarté au-dedans, mouvement au-dehors produisent grandeur et abondance. Ce que représente l'hexagramme est une époque de haute civilisation. Toutefois le fait qu'il s'agisse d'un sommet entraîne l'idée que cet état extraordinaire d'abondance ne pourra se maintenir de façon durable.",
+      "trigramme_bas_desc": "Ce-qui-s'attache, la Flamme",
+      "description": "Dschen ist Bewegung; Li ist Flamme, deren Eigenschaft Klarheit ist. Klarheit innen, Bewegung außen - das erzeugt Größe und Fülle.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -2950,7 +3058,9 @@
           "texte": "Sa maison est dans l'abondance. Il cache sa famille. Il guette à travers la porte et ne remarque plus personne. Pendant trois ans il ne voit rien. Infortune. On montre ici un homme qui, par son arrogance et son entêtement, parvient à l'opposé du but de ses efforts. Il recherche l'abondance et le luxe pour sa maison. Il veut être le maître absolu chez lui. Mais il s'aliène ainsi sa famille, si bien que finalement il se trouve entièrement isolé i'm fullfill with the prediction of my inner self to become real. yoko – 09/12/2008 this is the very moment, I am getting this information from the universe, I am feeling the power and gain the power. I Ching is the guard.all will be good. yalin"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "FÜLLE hat Gelingen. Der König erlangt Fülle. Sei nicht traurig. Sei wie die Sonne am Mittag.",
+      "image": "Sowohl Donner als auch Blitz kommen:\nDas Bild der FÜLLE.\nSo entscheidet der Edle Rechtsstreitigkeiten und vollstreckt Strafen."
     },
     {
       "numero": 56,
@@ -2958,10 +3068,10 @@
       "nom_fr": "Der Wanderer",
       "caractere": "旅",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "Ils ne restent donc pas ensemble. Eloignement et séparation, tel est le lot du voyageur.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Der Berg, Ken, steht still; über ihm lodert Feuer, Li, empor und verweilt nicht. Daher bleiben die beiden Zeichen nicht zusammen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3004,18 +3114,20 @@
           "texte": "Le nid de l'oiseau brûle. D'abord le voyageur rit, puis il doit se lamenter et gémir. Il perd étourdiment la vache. Infortune. L'image de l'oiseau dont le nid brûle désigne la perte du lieu de repos. Si l'oiseau a été étourdi et imprévoyant en construisant son nid, un tel malheur peut le frapper. Il en est de même du voyageur. S'il se laisse aller à plaisanter et à rire en oubliant qu'il est un voyageur, il aura plus tard à gémir et à se lamenter. Car si l'on perd étourdiment sa vache, c'est-à-dire sa faculté d'adaptation, les résultats seront mauvais. I'll keep trying!"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DER WANDERER. Gelingen durch Kleinheit. Beharrlichkeit bringt dem Wanderer Heil.",
+      "image": "Feuer auf dem Berg:\nDas Bild des WANDERERS.\nSo ist der Edle klar und vorsichtig beim Verhängen von Strafen und verzögert keine Rechtsstreitigkeiten."
     },
     {
       "numero": 57,
       "nom_pinyin": "Souen",
-      "nom_fr": "Das Sanfte",
+      "nom_fr": "Das Sanfte (Das Eindringende, der Wind)",
       "caractere": "巽",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Souen",
-      "trigramme_bas_desc": "Das Sanfte, der Wind",
-      "description": "C'est la fille aînée; il a comme image le vent ou le bois, comme propriété la douceur qui pourtant pénètre à la façon du vent ou du bois qui pousse ses racines. Le principe obscur, qui est en lui-même rigide et immobile, est dissous par la pénétration du principe lumineux qui se l'assujettit doucement. Dans la nature, c'est le vent qui disperse les nuages amoncelés et crée la clarté sereine du ciel. Dans la vie humaine, c'est la clarté pénétrante du jugement qui anéantit toutes les sombres arrière-pensées. Dans la vie sociale, c'est l'influence d'une personnalité marquante qui démasque et dissipe toutes les intrigues nouées dans l'ombre.",
+      "trigramme_bas_desc": "Le Doux, le Vent",
+      "description": "Sun ist eines der acht verdoppelten Zeichen. Es ist die älteste Tochter und symbolisiert Wind oder Holz; es hat als Eigenschaft Sanftheit, die dennoch eindringt wie der Wind.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3058,18 +3170,20 @@
           "texte": "Pénétration sous le lit. Il perd ses biens et sa hache. La persévérance apporte l'infortune. La connaissance est suffisamment pénétrante. On poursuit les influences mauvaises jusque dans les recoins les plus secrets, mais on n'a plus la force de les combattre de façon décisive. Dans ce cas, toute tentative pour pénétrer dans ce domaine propre de l'obscurité n'a que des conséquences fâcheuses. oioioioi"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS SANFTE. Gelingen durch das Kleine. Es fördert, irgendwohin zu gehen. Es fördert, den großen Mann zu sehen.",
+      "image": "Winde folgen einander:\nDas Bild des SANFT EINDRINGENDEN.\nSo verbreitet der Edle seine Befehle und führt seine Unternehmungen aus."
     },
     {
       "numero": 58,
       "nom_pinyin": "Touei",
-      "nom_fr": "Das Heitere",
+      "nom_fr": "Das Heitere (Der See)",
       "caractere": "兌",
       "trigramme_haut": "Touei",
-      "trigramme_haut_desc": "Das Heitere, der See",
+      "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "Touei est, comme Souen, l'un des huit hexagrammes doubles. Touei représente la plus jeune fille; son image est le lac souriant, sa propriété, la joie. La joie ne repose pas, comme on pourrait le croire, sur la malléabilité qui se manifeste dans le trait supérieur. En effet, la propriété du principe malléable, c'est-à-dire obscur, n'est pas la joie, mais la mélancolie. La joie repose bien plutôt sur la présence, à l'intérieur, de deux traits forts qui s'extériorisent par l'intermédiaire du trait faible. La vraie joie provient donc de la fermeté et de la force qui se trouvent à l'intérieur et qui s'extériorisent sous une forme tendre et douce.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Dieses Hexagramm ist wie Sun eines der acht, die durch Verdoppelung eines Zeichens gebildet werden. Tui bezeichnet die jüngste Tochter; es wird durch den lächelnden See symbolisiert.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3112,7 +3226,9 @@
           "texte": "Gaîté séductrice. Un homme intérieurement vain attire à lui les plaisirs du divertissement et, au milieu d'eux, doit connaître la souffrance (voir six à la 3e place). Si l'on n'est pas affermi intérieurement, les plaisirs extérieurs auxquels on ne s'est pas soustrait exercent une action si violente qu'on se laisse emporter par eux. Il n'est plus ici question de danger, de fortune ou d'infortune. On a laissé échapper le gouvernail de sa propre vie et ce qu'il adviendra de nous dépend désormais du hasard et des influences extérieures. ..."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DAS HEITERE. Gelingen. Beharrlichkeit ist fördernd.",
+      "image": "Seen ruhen übereinander:\nDas Bild des HEITEREN.\nSo schließt sich der Edle mit seinen Freunden zur Besprechung und Übung zusammen."
     },
     {
       "numero": 59,
@@ -3120,10 +3236,10 @@
       "nom_fr": "Die Auflösung",
       "caractere": "渙",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "L'hexagramme contient aussi l'idée que, si la force vitale s'accumule dans l'homme (ce que la propriété du trigramme inférieur donne pour dangereux), elle sera de nouveau dispersée et dissoute par la douceur.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Wind, der über das Wasser weht, zerstreut es und löst es in Schaum und Nebel auf. Das deutet an, dass wenn die Lebensenergie eines Menschen in ihm aufgestaut ist, Sanftheit dazu dient, die Blockade aufzubrechen.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3166,7 +3282,9 @@
           "texte": "Il dissout son sang. S'en aller, se tenir à distance, sortir demeurent sans blâme. Dissoudre le sang signifie dissoudre ce qui pouvait amener le sang et les blessures, c'est-à-dire éviter le danger. Toutefois la pensée exprimée ici n'est pas que l'on évite les difficultés pour soi-même, mais que l'on délivre les êtres chers en les aidant à partir avant que le danger soit là, à se tenir à distance d'un danger déjà présent et à sortir d'un danger qui les a déjà assaillis. De cette manière on agit correctement. Se dissoudre pour s'augmenter... Comme les bergers du ciel en dispersent les moutons de pluie pour mieux rendre lumière aux moutons de la Terre... Avrel – 02/11/2008 Je n'ai fat que pleurer les dernieres mois a cause de la prise de conscience sur la dimention des douleurs que l'on cause a la terre. Je me demande si je vais trouver le courage d'acheter un billet d'avion por partir en Copenhage a la recherche de Hopenhagen ...et puis car je ne connais pas, il m'ont sugeré du faire du sac a dos vers cristiana, pour trouver si mon ami Amador qui avait eu un rêvé hier soir dont je trouvais l'amour de ma vie ...a Copenhage....Puis je dorme car il est tard maintenat et j'ai des rêves a dilucider. Camaleon sans Chaussettes – 02/11/2008 Dagnelle j ai arreté de fumer, un an plus tard avec le fric économisé je suis partit en Chine. J y vis et travaille encore. Fennec – 02/11/2008 me voila prete à en finir.. et que dois je penser ? qui est ce tigre sur la queue duquel je dois marcher"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "AUFLÖSUNG. Gelingen. Der König naht seinem Tempel. Es fördert, das große Wasser zu durchqueren. Beharrlichkeit fördert.",
+      "image": "Der Wind treibt über das Wasser:\nDas Bild der AUFLÖSUNG.\nSo opferten die Könige der Vorzeit dem Herrn und bauten Tempel."
     },
     {
       "numero": 60,
@@ -3174,10 +3292,10 @@
       "nom_fr": "Die Beschränkung",
       "caractere": "節",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "Le lac occupe un espace limité. Quand il reçoit davantage d'eau, il déborde. C'est pourquoi on doit lui assigner des limites. L'image représente l'eau en bas et l'eau en haut, avec, entre les deux, le firmament comme limite. Le mot chinois pour exprimer la limitation désigne proprement les nœuds qui partagent une tige de bambou. Dans la vie courante, le même mot désigne l'économie qui se fixe des limites précises pour ses dépenses. Dans la vie morale, ce sont les limites rigoureuses que l'homme noble impose à ses actes et qui sont celles de la loyauté et du désintéressement.",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Ein See nimmt einen begrenzten Raum ein. Wenn mehr Wasser hineinkommt, läuft er über. Daher müssen dem Wasser Grenzen gesetzt werden.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3220,7 +3338,9 @@
           "texte": "Limitation amère : la persévérance apporte l'infortune. Le remords disparaît. Quand on s'impose des limites trop sévères, les hommes ne les supportent pas. Plus on applique cette sévérité avec logique, plus cela est mauvais, car, à la longue, une réaction est inévitable. Ainsi également le corps torturé s'insurge lorsqu'on suit la voie d'un ascétisme trop sévère. Mais, bien que cette sévérité impitoyable ne soit pas à utiliser durablement et de façon normale, il peut y avoir des moments où elle constitue l'unique moyen de se préserver de la faute et du remords. Ce sont les situations où l'absence de pitié à l'égard de soi-même est le seul moyen de sauver son âme qui, sans cela, tomberait dans l'indécision et la tentation. good"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "BESCHRÄNKUNG. Gelingen. Quälende Beschränkung darf nicht beharrt werden.",
+      "image": "Wasser über dem See: das Bild der BESCHRÄNKUNG.\nSo schafft der Edle Zahl und Maß und prüft das Wesen der Tugend und des rechten Verhaltens."
     },
     {
       "numero": 61,
@@ -3228,10 +3348,10 @@
       "nom_fr": "Innere Wahrheit",
       "caractere": "中孚",
       "trigramme_haut": "Souen",
-      "trigramme_haut_desc": "Das Sanfte, der Wind",
+      "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Touei",
-      "trigramme_bas_desc": "Das Heitere, der See",
-      "description": "Le vent souffle sur le lac et meut la surface de l'eau Ainsi se manifestent les effets visibles de l'invisible. L'hexagramme se compose de traits pleins dans ses parties supérieure et inférieure, tandis qu'au centre il est libre. Cela indique un cœur libre de préjugés et, par suite, capable d'accueillir la vérité. Par contre, chacun des trigrammes a un trait plein en son centre. Ainsi se trouve traduite la force de la vérité intérieure dans les effets qu'elle opère. Les propriétés des trigrammes sont : en haut, la douceur, la complaisance envers les inférieurs; en bas, la joie dans l'obéissance aux supérieurs. De telles dispositions créent la base d'une confiance réciproque qui rend le progrès possible. Le caractère fou (vérité) est en fait l'image d'une patte d'oiseau au-dessus d'un oisillon. Il contient l'idée de la couvaison. L'oeuf est creux. La vertu vivifiante du principe lumineux doit agir de l'extérieur. Mais il est nécessaire qu'un germe de vie existe déjà à l'intérieur pour q",
+      "trigramme_bas_desc": "Le Joyeux, le Lac",
+      "description": "Der Wind weht über den See und bewegt die Wasseroberfläche. So zeigen sich sichtbare Wirkungen des Unsichtbaren. Das Hexagramm besteht aus festen Strichen oben und unten, während es in der Mitte offen ist.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3274,7 +3394,9 @@
           "texte": "Le chant du coq pénétrant jusqu'au ciel. La persévérance apporte l'infortune. Le remords disparaît. On peut se fier au coq. Il chante quand vient le matin. Toutefois il ne peut pas voler lui-même au ciel. Il se contente de lancer son cri. Ainsi on peut susciter la foi par de simples paroles. Cela réussit à l'occasion. Mais si l'on persiste dans cette manière de faire, les conséquences sont fâcheuses. Prétendre à la filiation familiale d'un Lê n'est pas un destin réservé à tous les mortels. Un abus d'une telle mansuétude n'est donc pas à redouter. Lê Van an ninh 27/07/08 an ninh – 08/12/2007 On peut entreprendre même les affaires les plus dangereuses, telles que la traversée de grandes eaux, et ces actions seront couronnées de succès... Dom – 01/12/2007 la reponse au doute... moi – 09/12/2006 love sent"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "INNERE WAHRHEIT. Schweine und Fische. Heil. Es fördert, das große Wasser zu durchqueren. Beharrlichkeit fördert.",
+      "image": "Wind über dem See: das Bild der INNEREN WAHRHEIT.\nSo bespricht der Edle Kriminalfälle, um Hinrichtungen aufzuschieben."
     },
     {
       "numero": 62,
@@ -3282,10 +3404,10 @@
       "nom_fr": "Des Kleinen Übergewicht",
       "caractere": "小過",
       "trigramme_haut": "Tchen",
-      "trigramme_haut_desc": "Das Erregende, der Donner",
+      "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Ken",
-      "trigramme_bas_desc": "Das Stillehalten, der Berg",
-      "description": "n° 28) les traits forts l'emportent et se trouvent placés à l'intérieur, compris entre les deux traits faibles du début et de la fin; ici ce sont les traits faibles également placés à l'extérieur qui prédominent, tandis qu'à l'intérieur sont les traits forts. C'est là-dessus que repose la situation exceptionnelle décrite par l'hexagramme. Quand les traits forts sont à l'extérieur, nous avons les signes Yi, « L'alimentation » (n° 27), et Tchoung Fou, « La Vérité intérieure » (no 61), qui, tous deux, désignent des situations ne présentant pas de caractère exceptionnel. Si les traits forts situés à l'intérieur prédominent, ils doivent nécessairement tenter de s'imposer. Il s'ensuit un combat et des conditions exceptionnelles en général. Ici, par contre, l'élément faible est obligé d'assurer les relations avec le monde extérieur. Si l'on se trouve à un poste d'autorité que l'on n'est pas, par nature, de taille à assumer, une prudence extraordinaire est indispensable.",
+      "trigramme_bas_desc": "L'Immobilisation, la Montagne",
+      "description": "Während im Hexagramm Ta Kuo, DES GROSSEN ÜBERGEWICHT, die Gewichte der beiden Enden für die Mitte zu schwer sind, ist hier die Mitte zu stark für die beiden Enden.",
       "jugement_titre": "",
       "jugement_texte": "",
       "image_titre": "",
@@ -3322,7 +3444,9 @@
           "texte": "Il le dépasse sans le rencontrer. L'oiseau qui vole le quitte. Infortune. Cela signifie malheur et dommage. Si l'on tire au-dessus du but, on ne peut pas l'atteindre. Si l'oiseau ne veut pas gagner son nid, mais vole toujours plus haut, il tombe finalement dans le filet du chasseur. Celui qui, aux époques exceptionnelles où prédomine ce qui est petit, ne sait pas se contenir, mais, agité, veut toujours aller plus loin, celui-là s'attire le malheur de la part des dieux et des hommes, car il s'éloigne de l'ordre naturel. Ben Laden est-il mort?"
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "DES KLEINEN ÜBERGEWICHT. Gelingen. Beharrlichkeit fördert. Kleine Dinge können getan werden; große Dinge sollten nicht getan werden.",
+      "image": "Donner auf dem Berg:\nDas Bild DES KLEINEN ÜBERGEWICHT.\nSo gibt der Edle in seinem Verhalten der Ehrfurcht das Übergewicht."
     },
     {
       "numero": 63,
@@ -3330,14 +3454,14 @@
       "nom_fr": "Nach der Vollendung",
       "caractere": "既濟",
       "trigramme_haut": "K'an",
-      "trigramme_haut_desc": "Das Abgründige, das Wasser",
+      "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Li",
-      "trigramme_bas_desc": "Das Haftende, das Feuer",
-      "description": "Cet hexagramme est le dérivé de l'hexagramme n° II Tai,« la paix » M. Le passage de la confusion à l'ordre est accompli, maintenant tout est à sa place jusque dans le détail. Les traits forts sont aux endroits forts et les traits faibles aux endroits faibles. C'est un aspect très favorable, mais il offre encore matière à réflexion. C'est précisément lorsque l'équilibre parfait est atteint que chaque mouvement peut entraîner l'apparition du déclin à partir de l'état où règne l'ordre. L'unique trait fort qui s'est dirigé vers le haut et a ainsi parachevé l'ordre dans le détail est suivi des autres qui se meuvent conformément à leur nature, et c'est ainsi que réapparaît subitement l'hexagramme n° 12 P'i, « la stagnation » . C'est ainsi que l'hexagramme indique les conditions d'un apogée qui rendent nécessaire une extrême prudence.",
+      "trigramme_bas_desc": "Ce qui s'attache, le Feu",
+      "description": "Dieses Hexagramm ist die Entwicklung von Tai, FRIEDE. Der Übergang von Verwirrung zu Ordnung ist abgeschlossen, und alles ist an seinem rechten Platz.",
       "jugement_titre": "",
-      "jugement_texte": "NACH DER VOLLENDUNG. Gelingen im Kleinen. Beharrlichkeit fördert. Am Anfang Heil, am Ende Wirren.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Wasser über Feuer: das Bild des Zustands NACH DER VOLLENDUNG.\nSo denkt der Edle an das Unglück und wappnet sich dagegen im voraus.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -3376,7 +3500,9 @@
           "texte": "Il met la tête dans l'eau. Danger. En manière de conclusion, un avis est encore ajouté ici : après avoir traversé un cours d'eau, on ne peut mettre la tête dans l'eau que si l'on y retourne imprudemment. Tant que l'on va droit devant soi et que l'on ne regarde pas en arrière, on échappe à ce danger. Mais il y a quelque chose de fascinant à demeurer immobile et à regarder en arrière vers le danger que l'on a surmonté. Une admiration de soi aussi frivole n'amène rien d'heureux. On se met ainsi en danger et, si l'on ne se décide pas finalement à aller de l'avant sans s'arrêter, on devient victime de ce danger. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 01/12/2009 'Nine at the beginning means: He breaks his wheels. ' contains a typo. Should be 'brakes his wheels'.. this can be seen in the Chinese. If one doubts this one can check a print version of Wilhelm/Baynes."
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "NACH DER VOLLENDUNG. Gelingen im Kleinen. Beharrlichkeit fördert. Am Anfang Heil, am Ende Wirren.",
+      "image": "Wasser über Feuer: das Bild des Zustands NACH DER VOLLENDUNG.\nSo denkt der Edle an das Unglück und wappnet sich dagegen im voraus."
     },
     {
       "numero": 64,
@@ -3384,14 +3510,14 @@
       "nom_fr": "Vor der Vollendung",
       "caractere": "未濟",
       "trigramme_haut": "Li",
-      "trigramme_haut_desc": "Das Haftende, das Feuer",
+      "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'an",
-      "trigramme_bas_desc": "Das Abgründige, das Wasser",
-      "description": "Sans doute le changement est déjà préparé : tous les traits du trigramme supérieur se trouvent en effet en relation avec ceux du trigramme inférieur. Cependant ils ne sont pas encore à leur place. Tandis que l'hexagramme précédent est analogue à l'automne qui constitue la transition de l'été à l'hiver, le présent hexagramme ressemble au printemps qui mène de la stagnation de l'hiver à la fécondité de l'été. C'est sur cette perspective pleine d'espoir que se clôt le Livre des Transformations.",
+      "trigramme_bas_desc": "L'Insondable, l'Eau",
+      "description": "Dieses Hexagramm zeigt eine Zeit an, in der der Übergang von Unordnung zu Ordnung noch nicht abgeschlossen ist. Die Wandlung ist zwar vorbereitet.",
       "jugement_titre": "",
-      "jugement_texte": "VOR DER VOLLENDUNG. Gelingen. Wenn aber der kleine Fuchs, nachdem er fast hinübergekommen ist, seinen Schwanz ins Wasser bekommt, ist nichts, das fördern würde.",
+      "jugement_texte": "",
       "image_titre": "",
-      "image_texte": "Feuer über Wasser: das Bild des Zustands vor dem Übergang.\nSo ist der Edle vorsichtig bei der Unterscheidung der Dinge, damit jedes seinen Platz findet.",
+      "image_texte": "",
       "traits": [
         {
           "position": 1,
@@ -3430,7 +3556,9 @@
           "texte": "En pleine confiance on boit du vin. Pas de blâme. Mais si l'on se mouille la tête, on la perd, en vérité. Avant l'accomplissement, au seuil des temps nouveaux, l'homme se trouve réuni en pleine confiance mutuelle avec les siens et passe en buvant joyeusement le temps de l'attente. Comme l'ère nouvelle est à la porte, il n'y a pas là de sujet de blâme. On doit seulement veiller à garder la juste mesure. Mais si l'on se laisse aller à l'ivresse, on perd par sa démesure ce que la situation avait de favorable. les \"gentilles ombres\""
         }
       ],
-      "tous_les_traits": null
+      "tous_les_traits": null,
+      "jugement": "VOR DER VOLLENDUNG. Gelingen. Wenn aber der kleine Fuchs, nachdem er fast hinübergekommen ist, seinen Schwanz ins Wasser bekommt, ist nichts, das fördern würde.",
+      "image": "Feuer über Wasser:\nDas Bild des Zustands vor dem Übergang.\nSo ist der Edle vorsichtig bei der Unterscheidung der Dinge, damit jedes seinen Platz findet."
     }
   ]
 }
