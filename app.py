@@ -1740,9 +1740,9 @@ if st.session_state.traits is not None:
     
     for i, tab in enumerate(trait_tabs):
         with tab:
-            t = traits[i]
-            info = FREQ_TRAITS[t]
-            is_mutant = t in [6, 9]
+            trait_val = traits[i]
+            info = FREQ_TRAITS[trait_val]
+            is_mutant = trait_val in [6, 9]
             trait_data = next((tr for tr in hex_traits if tr.get('position') == i + 1), None)
             
             box_class = "trait-mutant-box" if is_mutant else "trait-text-box"
