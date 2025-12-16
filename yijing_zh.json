@@ -15,11 +15,11 @@
       "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "乾卦由六条阳爻组成。这些阳爻代表原始的力量，它是光明的、积极的、刚强的、精神的。此卦性质纯阳刚健。",
+      "description": "乾卦由六条阳爻组成。这些阳爻代表原始的力量，光明、积极、刚强、精神性的。",
       "jugement_titre": "",
-      "jugement_texte": "LE CRÉATEUR opère une sublime réussite, favorisant par la persévérance.\n\nLe mouvement du ciel est puissant. Ainsi l'homme noble se rend fort et infatigable.\n\nL'hexagramme est uniformément fort de nature. En tant qu'aucune faiblesse ne s'y attache, il a pour propriété essentielle la force. Son image est le ciel. La force est représentée comme n'étant pas liée à des conditions spatiales déterminées : elle est par suite conçue comme mouvement. Le temps est le fondement de ce mouvement.",
+      "jugement_texte": "乾：元亨利贞。\n\n元者，善之长也；亨者，嘉之会也；利者，义之和也；贞者，事之干也。",
       "image_titre": "",
-      "image_texte": "Le mouvement du ciel est puissant.\nAinsi l'homme noble se rend fort et infatigable.\n\nLa durée dans le temps est l'image de la force telle qu'elle est propre au Créateur. Le sage y puise le modèle selon lequel il développe ses qualités, de façon à les rendre durables. Il élimine consciencieusement tout ce qui est inférieur, tout ce qui est vulgaire. Ainsi il devient infatigable grâce à une limitation volontaire de son champ d'activité.",
+      "image_texte": "天行健，君子以自强不息。",
       "traits": [
         {
           "position": 1,
@@ -58,9 +58,7 @@
           "texte": "Dragon orgueilleux aura à se repentir. Lorsqu'un homme veut s'élever si haut qu'il perd le contact avec les autres hommes, il devient isolé, et cela le conduit fatalement à l'échec. Il y a là une mise en garde contre une aspiration titanesque qui va au-delà de ses propres forces. La conséquence en serait une chute brutale et profonde."
         }
       ],
-      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,",
-      "jugement": "乾：元亨利贞。\n\n元者，善之长也；亨者，嘉之会也；利者，义之和也；贞者，事之干也。君子体仁足以长人，嘉会足以合礼，利物足以和义，贞固足以干事。",
-      "image": "天行健，君子以自强不息。\n\n天只有一个，乾卦重叠表示天的运行。天的一次完整运转构成一天，卦的重叠意味着日复一日。这产生了时间的概念。"
+      "tous_les_traits": "Il apparaît un vol de dragons sans tête : Fortune. Lorsque tous les traits sont des neuf, l'hexagramme tout entier se met en mouvement et se transforme dans le signe K'ouen, le réceptif, dont le caractère est la soumission pleine d'abandon. La force du créateur s'unit à la douceur du réceptif. La force est indiquée par le vol de dragons, et la douceur, par le fait que les têtes sont cachées. Cela veut dire : douceur dans l'action jointe à la force de la décision est source de fortune. ,"
     },
     {
       "numero": 2,
@@ -71,11 +69,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "坤卦由六条阴爻组成。阴爻代表阴柔、顺从、接受的原始力量。此卦的属性是顺从；其象征是大地。",
+      "description": "坤卦由六条阴爻组成。阴爻代表阴柔、顺从、接受的原始力量。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "坤：元亨，利牝马之贞。君子有攸往，先迷后得主。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "地势坤，君子以厚德载物。",
       "traits": [
         {
           "position": 1,
@@ -114,9 +112,7 @@
           "texte": "Dragons se battant dans le pré. Leur sang est noir et jaune. A la place supérieure, l'obscurité doit céder à la lumière. Si elle tente de se maintenir à une place qui n'est pas la sienne et de commander au lieu de servir, elle attire sur elle la colère du fort. Il en résulte un combat dans lequel elle s'effondre, non sans dommage pour les deux parties. Le dragon, symbole du ciel, vient combattre le faux dragon dont le principe terrestre a usurpé la figure. Le bleu sombre est la couleur du ciel, le jaune est la couleur de la terre. Par conséquent, lorsqu'il coule un sang noir et jaune, c'est un signe que ce combat contre nature entraîne' du dommage pour les deux forces fondamentales"
         }
       ],
-      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à",
-      "jugement": "坤：元亨，利牝马之贞。君子有攸往，先迷后得主，利。西南得朋，东北丧朋。安贞吉。",
-      "image": "地势坤，君子以厚德载物。\n\n天只有一个，地也只有一个。天卦的重叠意味着时间的持续，而地卦的重叠则意味着空间的广袤与坚实。"
+      "tous_les_traits": "La persévérance durable est avantageuse. S'il n'apparaît que des six, le signe du réceptif se transforme dans celui du créateur. Il acquiert ainsi la puissance de la durée en se tenant fermement à ce qui est juste. Sans doute, il n'y a pas de progrès, mais il n'y a pas non plus mal. pardon mais je répond à"
     },
     {
       "numero": 3,
@@ -127,11 +123,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "屯卦之名，本意是草木初生，破土而出时遇到阻碍的样子。此卦显示天地生育万物的方式。",
+      "description": "屯卦之名，本意是草木初生，破土而出时遇到阻碍的样子。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "屯：元亨利贞，勿用有攸往，利建侯。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "云雷屯，君子以经纶。",
       "traits": [
         {
           "position": 1,
@@ -170,9 +166,7 @@
           "texte": "Cheval et chariot se séparent. Il coule des larmes de sang. Il est des hommes pour qui les difficultés du début sont trop lourdes. Ils en demeurent prisonniers sans pouvoir en sortir. Ils baissent les bras et renoncent à la lutte. Une telle résignation est une chose des plus affligeantes. C'est pourquoi Confucius fait à ce propos la remarque suivante : « Des larmes de sang coulent : on ne doit pas persister dans une telle attitude ». evol sent r brazil – 3 – 01/12/2009 Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "屯：元亨利贞，勿用有攸往，利建侯。\n\n成长的时期充满困难，犹如初生。但这些困难正是因为万物争相成形的丰盛。",
-      "image": "云雷屯，君子以经纶。\n\n云雷交加，象征初始的混乱中已蕴含秩序。"
+      "tous_les_traits": null
     },
     {
       "numero": 4,
@@ -183,11 +177,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "此卦以两种方式提醒我们青年与蒙昧。上卦艮为山，下卦坎为水；山下涌出泉水，象征稚嫩的青年。",
+      "description": "上卦艮为山，下卦坎为水；山下涌出泉水，象征稚嫩的青年。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山下出泉，蒙。君子以果行育德。",
       "traits": [
         {
           "position": 1,
@@ -226,9 +220,7 @@
           "texte": "Lorsqu'on châtie la folie, il n'est pas avantageux de commettre des excès de pouvoir. La seule chose avantageuse est d'écarter les excès de pouvoir. Il arrive qu'un insensé incorrigible doive être châtié. Celui qui ne veut pas écouter devra en tâter. Punir ainsi quelqu'un est tout autre chose que de le secouer en commençant. Mais le châtiment ne doit pas être infligé sous le coup de la colère : on le limitera en veillant objectivement à éviter les excès injustifiés. La punition n'est pas à elle-même sa propre fin; son but est de servir à instaurer un comportement conforme à l'ordre. Ce conseil s'applique aussi bien à l'éducation qu'aux mesures qu'un gouvernement est amené à prendre contre une population qui s'est rendue coupable d'excès. L'intervention de l'autorité doit toujours demeurer préventive et avoir pour but unique l'instauration de la sécurité et de la paix publiques. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 9 – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses inc"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
-      "image": "山下出泉，蒙。君子以果行育德。"
+      "tous_les_traits": null
     },
     {
       "numero": 5,
@@ -239,11 +231,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "万物皆需上天的滋养。但食物之赐自有其时，须耐心等待。此卦象征云升于天，降雨润泽万物。",
+      "description": "万物皆需上天的滋养。但食物之赐自有其时，须耐心等待。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "需：有孚，光亨，贞吉。利涉大川。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "云上于天，需。君子以饮食宴乐。",
       "traits": [
         {
           "position": 1,
@@ -276,9 +268,7 @@
           "texte": "On tombe dans le trou. Trois hôtes surviennent, qui n'étaient pas invités. Honore-les, ainsi la fortune viendra à la fin. L'attente est terminée : le danger ne se laisse plus écarter. On tombe dans le trou et il faut se résoudre à l'inévitable. Tout semble alors avoir été vain. Mais c'est précisément dans cet état de détresse que survient un tournant imprévu. Sans que l'on ait agi personnellement, il se produit une intervention extérieure dont on peut tout d'abord se demander ce qu'elle signifie, si elle vise à la délivrance ou à la destruction. Il convient alors de conserver la mobilité intérieure : l'attitude juste n'est pas de se retrancher en soi-même et d'opposer un refus dans un geste de bravade, mais de saluer avec respect ce nouveau tour des événements. Ainsi l'on finit par sortir du danger et tout va bien. Même les changements heureux se présentent souvent sous une forme qui paraît étrange au premier abord. renoncement sublime algiz – 1 – 03/11/2008 oioioioi"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "需：有孚，光亨，贞吉。利涉大川。\n\n等待不是空洞的希望，而是有达到目标的内在确信。",
-      "image": "云上于天，需。君子以饮食宴乐。"
+      "tous_les_traits": null
     },
     {
       "numero": 6,
@@ -289,11 +279,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "上卦乾为天，向上运动；下卦坎为水，依其本性向下流动。两半相背而行，产生争讼之象。",
+      "description": "上卦乾为天，向上运动；下卦坎为水，向下流动。两半相背而行，产生争讼之象。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "讼：有孚，窒。惕中吉，终凶。利见大人。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天与水违行，讼。君子以作事谋始。",
       "traits": [
         {
           "position": 1,
@@ -332,9 +322,7 @@
           "texte": "Même si par hasard quelqu'un se voit prêter une ceinture de cuir, à la fin de la matinée elle lui aura été ravie par trois fois. On est ici en présence de quelqu'un qui a conduit un conflit jusqu'à sa fin amère et a obtenu gain de cause. Il reçoit une distinction. Mais son bonheur est de courte durée. Il est sans cesse attaqué de nouveau, ce qui a pour conséquences des luttes à l'infini. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 3 – 01/12/2009 y"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "讼：有孚，窒。惕中吉，终凶。利见大人，不利涉大川。",
-      "image": "天与水违行，讼。君子以作事谋始。"
+      "tous_les_traits": null
     },
     {
       "numero": 7,
@@ -345,11 +333,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "此卦由坎卦（水）和坤卦（地）组成，象征大地中蓄积的地下水。同样，军事力量也蓄积在民众之中。",
+      "description": "此卦象征大地中蓄积的地下水。同样，军事力量也蓄积在民众之中。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "师：贞，丈人吉，无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "地中有水，师。君子以容民畜众。",
       "traits": [
         {
           "position": 1,
@@ -388,9 +376,7 @@
           "texte": "Le grand prince édicte des ordres, fonde des Etats, pourvoit les familles de fiefs. On n'emploiera pas d'hommes vulgaires. La guerre s'est heureusement terminée; la victoire a été remportée. Le roi répartit entre ses fidèles les fiefs et les possessions familiales. Mais, ce faisant, il importe qu'il ne place pas au pouvoir des hommes vulgaires. Ils ont prêté main-forte, il peut rétribuer leurs services en argent. Mais on ne doit pas leur accorder de terres ou des privilèges pour éviter les risques d'abus. Une armée ne devrait servir l'humanité que pour lui assurer la paix. Général Kanzler et Lê Loï. an ninh – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "师：贞，丈人吉，无咎。\n\n军队是需要组织才能成为战斗力量的群体。没有严格的纪律，什么也不能完成。",
-      "image": "地中有水，师。君子以容民畜众。"
+      "tous_les_traits": null
     },
     {
       "numero": 8,
@@ -401,11 +387,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "地上的水流汇聚在一起，如同江河汇入大海。这象征着团结以及规范团结的法则。",
+      "description": "地上的水流汇聚在一起，象征着团结。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "比：吉。原筮元永贞，无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "地上有水，比。先王以建万国，亲诸侯。",
       "traits": [
         {
           "position": 1,
@@ -444,9 +430,7 @@
           "texte": "Il ne trouve pas de tête pour la solidarité. Infortune. La tête est le commencement. Sans commencement juste, il n'y a pas de juste fin. Quand on a manqué la jonction et que l'on demeure hésitant et craintif devant la perspective d'un don de soi véritable et sans réserve, on aura plus tard à se repentir de ses fautes. it seems that electronic matters a lot when there is no target. Hups soory I gat a meeting with my potatoes (solidarity in hard path) 1p0 – 03/12/2008 Le 08/08/08 était une date porte bonheur et je suis passé te voir Maître, pour fêter avec toi cet évènement sur l'union et l'unité du monde qui nous a enfin été révélée. an ninh – 08/12/2007 Sansele mele de a obtine postul de GM la \"creare\". De vazut..."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "比：吉。原筮元永贞，无咎。不宁方来，后夫凶。",
-      "image": "地上有水，比。先王以建万国，亲诸侯。"
+      "tous_les_traits": null
     },
     {
       "numero": 9,
@@ -457,11 +441,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "此卦意味着小的力量——阴柔的力量——约束、驯服、阻挡。第四爻的阴爻牵制着其他五条阳爻。",
+      "description": "此卦意味着小的力量——约束、驯服、阻挡。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "小畜：亨。密云不雨，自我西郊。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "风行天上，小畜。君子以懿文德。",
       "traits": [
         {
           "position": 1,
@@ -500,9 +484,7 @@
           "texte": "La pluie vient, le repos vient. Cela est dû à l'action durable du caractère. La femme est mise en danger par la persévérance. La lune est presque pleine. Si l'homme noble continue sa marche, l'infortune vient. Le succès est obtenu. La poussée du vent a fait venir la pluie. Un état stable est atteint. Cet effet a été acquis par l'accumulation progressive de petites actions qui ont pris naissance dans le respect porté à un caractère élevé. Mais un tel succès bâti pierre à pierre demande beaucoup de prudence. S'abandonner à l'illusion qu'on peut s'en prévaloir serait chose dangereuse. L'élément féminin, faible, qui a remporté la victoire ne doit pas s'obstiner à s'en vanter, car cela attirerait le danger. La force obscure dans la lune atteint son maximum quand l'astre est proche de son plein; quand la pleine lune se tient en opposition directe avec le soleil, son déclin est inévitable. Dans de telles circonstances, on doit se contenter du résultat obtenu. S'avancer plus loin avant que le temps n'en soit venu apporterait l'infortune. le ptit rat de ratagass roi de forets va bien?"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "小畜：亨。密云不雨，自我西郊。",
-      "image": "风行天上，小畜。君子以懿文德。"
+      "tous_les_traits": null
     },
     {
       "numero": 10,
@@ -513,11 +495,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "履卦之名一方面意味着正确的行为方式。天（父）在上，泽（少女）在下。",
+      "description": "履卦之名意味着正确的行为方式。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "履：履虎尾，不咥人，亨。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "上天下泽，履。君子以辨上下，定民志。",
       "traits": [
         {
           "position": 1,
@@ -556,9 +538,7 @@
           "texte": "Observe ta démarche et examine les signes favorables. Quand tout est achevé, survient une sublime fortune. L'œuvre est parvenue à son terme. Pour savoir si la fortune en sera la conséquence, on observera rétrospectivement sa démarche et ses suites. Si les résultats sont bons, la fortune est assurée. Nul ne se connaît lui-même. Seules les conséquences de notre activité et les fruits de nos actes permettent de juger de ce que nous pouvons escompter. je prends note....infaillible le yiking..."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "履：履虎尾，不咥人，亨。",
-      "image": "上天下泽，履。君子以辨上下，定民志。"
+      "tous_les_traits": null
     },
     {
       "numero": 11,
@@ -569,11 +549,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "坤卦（向下）居上，乾卦（向上）居下。因此两者之力相交，和谐一致，万物兴盛繁荣。",
+      "description": "坤卦居上，乾卦居下。两者之力相交，和谐一致。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "泰：小往大来，吉亨。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天地交，泰。后以财成天地之道。",
       "traits": [
         {
           "position": 1,
@@ -612,9 +592,7 @@
           "texte": "Le mur retombe dans le fossé : n'emploie pas d'armée maintenant. Fais proclamer tes ordres dans ta propre ville. La persévérance apporte l'humiliation. Le changement déjà annoncé au milieu de l'hectogramme à commencé. Le mur de la cité retombe dans le fossé d'où il avait été tiré. La fatalité s'abat. Il convient dans ce cas d'épouser le destin et de ne pas vouloir l'arrêter par une résistance violente. Tout ce qu'il reste à faire est de se maintenir dans le cercle le plus étroit. Si l'on voulait s'opposer de façon persévérante au mal par les moyens habituels, la débâcle serait encore plus complète et la conséquence serait l'humiliation."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "泰：小往大来，吉亨。",
-      "image": "天地交，泰。后以财成天地之道，辅相天地之宜，以左右民。"
+      "tous_les_traits": null
     },
     {
       "numero": 12,
@@ -625,11 +603,11 @@
       "trigramme_haut_desc": "Le Créateur, le Ciel",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "此卦与前卦相反。天在上，渐行渐远；地在下，沉入深处。创造之力不相交通。",
+      "description": "此卦与前卦相反。天在上，渐行渐远；地在下，沉入深处。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "否：否之匪人，不利君子贞，大往小来。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天地不交，否。君子以俭德辟难。",
       "traits": [
         {
           "position": 1,
@@ -668,9 +646,7 @@
           "texte": "La stagnation prend fin. D'abord stagnation, ensuite fortune. La stagnation ne dure pas éternellement. Toutefois elle ne cesse pas d'elle-même, mais requiert l'homme capable d'y mettre un terme. Là réside la différence entre la paix et la stagnation. La consolidation de la paix demande un effort continuel. Laissée à elle-même, la paix se transformerait en stagnation et en décadence. Le temps de la décadence ne se change pas spontanément en paix et en prospérité, mais des efforts sont nécessaires pour en venir à bout. Ainsi se trouve souligné le rôle créateur de l'homme qui est indispensable pour que l'ordre règne dans le monde. c'est inouï je viens de faire deux lancers sur des sujets différents, et chaque signification correspond exactement à la situation"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "否：否之匪人，不利君子贞，大往小来。",
-      "image": "天地不交，否。君子以俭德辟难，不可荣以禄。"
+      "tous_les_traits": null
     },
     {
       "numero": 13,
@@ -681,11 +657,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "上卦乾为天，下卦离为火。火的本性是向上燃烧至天。这象征着人与人的共同体。",
+      "description": "上卦乾为天，下卦离为火。火向上燃烧至天。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "同人：同人于野，亨。利涉大川。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天与火，同人。君子以类族辨物。",
       "traits": [
         {
           "position": 1,
@@ -724,9 +700,7 @@
           "texte": "Communauté avec les hommes dans le pré. Pas de remords. Le chaleureux attachement du cœur fait ici défaut. En fait, on est désormais en dehors de la communauté avec les hommes. On s'allie toutefois avec eux. La communauté ne comprend pas tout le monde, mais ceux qui habitent ensemble hors de la ville. Le pré est le pâturage qui se trouve devant la ville. Ici le but ultime de l'union des hommes n'est pas encore atteint. Cependant il ne faut pas se faire de reproches. On s'allie à la communauté sans desseins égoïstes. klklklklk"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "同人：同人于野，亨。利涉大川，利君子贞。",
-      "image": "天与火，同人。君子以类族辨物。"
+      "tous_les_traits": null
     },
     {
       "numero": 14,
@@ -737,11 +711,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "火在天上照耀，万物在光明中显现。柔顺的五爻居于尊位，所有刚爻都与之和谐。",
+      "description": "火在天上照耀，万物在光明中显现。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "大有：元亨。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "火在天上，大有。君子以遏恶扬善。",
       "traits": [
         {
           "position": 1,
@@ -780,9 +754,7 @@
           "texte": "Il est béni du ciel. Fortune. Rien qui ne soit avantageux. Dans l'abondance des biens et de la puissance on demeure modeste et l'on vénère le sage qui se tient à l'écart de l'agitation du monde. On se place ainsi sous l'influence du ciel riche en bénédictions et tout va bien. Confucius dit à ce propos : « Bénir signifie aider. Le ciel aide l'être abandonné, les hommes aident l'être sincère. Celui qui marche dans la sincérité, qui est abandonné dans ses pensées et continue alors à respecter les hommes de mérite, celui-là est béni du ciel. Il trouve la fortune et il n'y a rien qui ne soit avantageux ». 13/02/09 il semble que ca soit toujours toi FoufeTTe. je t'avoue ne pas savoir comment c'est possible. Orsius – 02/12/2008 que cela soit!! luc"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "大有：元亨。",
-      "image": "火在天上，大有。君子以遏恶扬善，顺天休命。"
+      "tous_les_traits": null
     },
     {
       "numero": 15,
@@ -793,11 +765,11 @@
       "trigramme_haut_desc": "le Réceptif, la Terre",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "l'Immobilisation, la Montagne",
-      "description": "此卦由艮卦（山）和坤卦（地）组成。山为乾之少子，是天在地上的代表。",
+      "description": "此卦由艮卦（山）和坤卦（地）组成。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "谦：亨，君子有终。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "地中有山，谦。君子以裒多益寡。",
       "traits": [
         {
           "position": 1,
@@ -836,9 +808,7 @@
           "texte": "Humilité qui s'extériorise. Il est avantageux de mettre en marche les armées pour châtier sa propre cité et son propre pays. Celui qui est vraiment conséquent avec son humilité doit veiller à ce qu'elle se manifeste dans la réalité. Il doit aller énergiquement de l'avant dans ce domaine. S'il naît de l'hostilité, rien n'est plus aisé que de rejeter la faute sur autrui. Il peut alors se faire qu'un homme faible, se sentant offensé, se replie sur lui-même, prenne compassion de lui-même et croie être humble en ne se défendant pas. L'humilité véritable se manifeste en ce que nous nous employons énergiquement à établir l'ordre et commençons par sévir sur nous-mêmes et sur notre entourage immédiat. On n'accomplira réellement une œuvre importante que si on a le courage de faire marcher son armée contre soi-même le chou : ça s'est bien; mais qu'est-ce qu'on fait avec autrui?? Il faut que je pose une autre question à mon livre de sagesse....."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "谦：亨，君子有终。",
-      "image": "地中有山，谦。君子以裒多益寡，称物平施。"
+      "tous_les_traits": null
     },
     {
       "numero": 16,
@@ -849,11 +819,11 @@
       "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, La Terre",
-      "description": "第四爻的阳爻得到其他所有阴爻的响应与顺从。",
+      "description": "第四爻的阳爻得到其他所有爻的响应。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "豫：利建侯行师。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷出地奋，豫。先王以作乐崇德。",
       "traits": [
         {
           "position": 1,
@@ -892,9 +862,7 @@
           "texte": "Enthousiasme aveuglé. Mais lorsqu'après être parvenu à l'achèvement on change, il n'y a pas de blâme. Quand on se laisse aveugler par l'enthousiasme, cela est mauvais. Mais lorsqu'à son tour cet aveuglement est devenu une affaire dépassée et que l'on peut encore changer d'attitude, on est exempt de blâme. Se dégriser après un enthousiasme mal placé est chose tout à fait possible et très favorable. Thank you for allowing me such wonderful guidence SG – 07/12/2008 Thank you original music for the happiness and knowing as I enjoy the fruits of my labors and dreams for my friends and earthlings;-) JADE – 03/12/2008 as usual, clear ...so clear! ratafia – 01/11/2007 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "豫：利建侯行师。",
-      "image": "雷出地奋，豫。先王以作乐崇德，殷荐之上帝，以配祖考。"
+      "tous_les_traits": null
     },
     {
       "numero": 17,
@@ -905,11 +873,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Chên",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "上卦兑（喜悦）在上，下卦震（运动）在下。",
+      "description": "上卦兑在上，下卦震在下。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "随：元亨利贞，无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽中有雷，随。君子以向晦入宴息。",
       "traits": [
         {
           "position": 1,
@@ -948,9 +916,7 @@
           "texte": "Il rencontre une ferme allégeance et s'y trouve encore lié. Le roi le présente à la montagne occidentale. Il s'agit d'un homme qui, en ce qui concerne sa propre personne, a déjà laissé derrière lui les agitations du monde, un très grand sage par conséquent. Mais voici que survient à sa suite quelqu'un qui le comprend et ne le laisse pas aller. Le sage revient donc une fois encore dans le monde et aide cet homme dans son travail. Ainsi prend naissance un lien de nature éternelle. La comparaison est empruntée à la dynastie des Tchéou. Cette dynastie honorait les serviteurs méritants en leur donnant une place dans le temple des ancêtres du souverain. Un tel homme prenait ainsi part au destin de la maison régnante. dying for her today algiz – 09/12/2008 Love sent. CyberShi – 08/12/2008 Il faut déjà être un sage et aimer vraiment pour comprendre le yi king. Il est préférable aussi de le tirer avec un livre mais, à défaut, ce tirage est bien. C'est un livre de sagesse et les mots peuvent sembler opaques. En fait, si on lit avec le coeur et l'âme vraiment ouverts, tout est clair."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "随：元亨利贞，无咎。",
-      "image": "泽中有雷，随。君子以向晦入宴息。"
+      "tous_les_traits": null
     },
     {
       "numero": 18,
@@ -961,11 +927,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "蛊字本义是器皿中滋生的虫蠹，意为腐败。这是因为下卦的柔顺与上卦的僵硬相结合所致。",
+      "description": "蛊字本义是器皿中滋生的虫蠹，意为腐败。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "蛊：元亨，利涉大川。先甲三日，后甲三日。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山下有风，蛊。君子以振民育德。",
       "traits": [
         {
           "position": 1,
@@ -1004,9 +970,7 @@
           "texte": "Il ne sert pas des rois et des princes. Il se fixe des buts supérieurs. Tous les hommes ne sont pas tenus de se mêler aux affaires du monde. Il en est aussi qui sont parvenus à un tel degré d'évolution intérieure qu'ils ont le droit de laisser l'univers suivre son cours sans se mêler à la vie politique pour la réformer. Cependant cela ne veut pas dire qu'ils doivent se tenir inactifs ou observer une attitude purement critique. Seul le fait de travailler dans sa propre personne aux buts supérieurs de l'humanité justifie une pareille retraite. Car même lorsque le sage se tient éloigné des agitations quotidiennes, il continue de créer des valeurs humaines incomparables pour l'avenir r"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "蛊：元亨，利涉大川。先甲三日，后甲三日。",
-      "image": "山下有风，蛊。君子以振民育德。"
+      "tous_les_traits": null
     },
     {
       "numero": 19,
@@ -1017,11 +981,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "此卦整体象征欢乐、充满希望的进步时期。春天正在来临。",
+      "description": "此卦象征欢乐、充满希望的进步时期。春天正在来临。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "临：元亨利贞。至于八月有凶。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上有地，临。君子以教思无穷。",
       "traits": [
         {
           "position": 1,
@@ -1060,9 +1024,7 @@
           "texte": "Approche magnanime. Fortune. Pas de blâme. Un sage qui a vaincu le monde et qui, intérieurement, en a terminé avec la vie, peut, dans certains cas, se trouver amené à rentrer encore une fois dans ce bas monde et à s'approcher des hommes. C'est là une grande fortune pour les hommes auxquels il confère son enseignement et son aide. Mais en ce qui le concerne, également, cet abaissement magnanime ne donne lieu à aucun blâme. Yi king, merci drinn – 02/11/2008 Surprenant...."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "临：元亨利贞。至于八月有凶。",
-      "image": "泽上有地，临。君子以教思无穷，容保民无疆。"
+      "tous_les_traits": null
     },
     {
       "numero": 20,
@@ -1075,9 +1037,9 @@
       "trigramme_bas_desc": "Le Réceptif, la Terre",
       "description": "此卦之名有双重含义：既是观察，也是被观看。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "观：盥而不荐，有孚顒若。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "风行地上，观。先王以省方观民设教。",
       "traits": [
         {
           "position": 1,
@@ -1116,9 +1078,7 @@
           "texte": "Contemplation de sa vie. L'homme noble est sans tache. Tandis que le trait précédent représente un homme qui s'examine lui-même, ici, à la place la plus élevée, tout élément personnel et lié au moi est exclu. On montre ainsi un sage qui, hors de l'agitation du monde et libéré du moi, contemple la loi de la vie et reconnaît que le bien suprême est de savoir comment demeurer exempt de blâme. It is interesting to get the 4th and 6th line together in the world with insight and not of this world with insight, may be the very key to 45 Gathering together Priya – 02/11/2008 Il ne s'agit pas de changer les hexagrammes mais de les comprendre ... Et il n'y a rien à changer dans la contemplation de la vie :o) Kath – 08/12/2008 19/02/09 le temps entre l'ablution et le sacrifice m'exaspere.....HUP HUP HUP. Orsius – 02/12/2008 some one try to work on is breath and energy of is body and balance that, when you do the yi yink? without to make question, just manage your self, il est possible de changer exagrame par la volonter interieur, essayer... et prener votre vie en main. pierre – 02/11/2006 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "观：盥而不荐，有孚顒若。",
-      "image": "风行地上，观。先王以省方观民设教。"
+      "tous_les_traits": null
     },
     {
       "numero": 21,
@@ -1129,11 +1089,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
-      "description": "此卦象征张开的嘴中有障碍物。因此嘴唇不能合拢，必须用力咬穿障碍。",
+      "description": "此卦象征张开的嘴中有障碍物。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "噬嗑：亨，利用狱。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷电，噬嗑。先王以明罚敕法。",
       "traits": [
         {
           "position": 1,
@@ -1172,9 +1132,7 @@
           "texte": "Attaché par le cou dans la gangue de bois si bien que les oreilles disparaissent. Infortune. A la différence de la situation dépeinte par le premier trait, il s'agit ici d'un homme qui est irréformable. Il porte en punition la gangue de bois qui lui enserre le cou. Mais ses oreilles disparaissent à l'intérieur. Il n'entend plus les avertissements, mais y demeure sourd. Cet endurcissement conduit à l'infortune u"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "噬嗑：亨，利用狱。",
-      "image": "雷电，噬嗑。先王以明罚敕法。"
+      "tous_les_traits": null
     },
     {
       "numero": 22,
@@ -1185,11 +1143,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此卦象征火从地底深处迸发，照亮并装饰山峦。",
+      "description": "此卦象征火从地底迸发，照亮山峦。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "贲：亨，小利有攸往。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山下有火，贲。君子以明庶政。",
       "traits": [
         {
           "position": 1,
@@ -1228,9 +1186,7 @@
           "texte": "Grâce simple. Pas de blâme. Ici, au degré le plus élevé, on dépouille toute grâce. La forme ne dissimule plus le contenu, mais le laisse se mettre pleinement en valeur. La grâce suprême ne consiste pas à orner extérieurement les matériaux, mais à leur donner une forme simple et pratique. La grâce doit avoir son utilité pour prévenir et protéger les notres. an ninh – 06/12/2008 response to Banny Lu - clearly the advice here relates to oral sex - the nine in the third place suggesting a firm hold on the chin of the performer mentioned in the second place Ron Chang – 05/12/2008 anal penetration is the key advice to follow here - Banny Lu – 05/12/2008 d'une relation hm fm"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "贲：亨，小利有攸往。",
-      "image": "山下有火，贲。君子以明庶政，无敢折狱。"
+      "tous_les_traits": null
     },
     {
       "numero": 23,
@@ -1241,11 +1197,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "阴爻即将上升，通过其分裂性的影响推翻最后一条阳爻。卑下的阴暗力量战胜了崇高而刚强的力量。",
+      "description": "阴爻即将上升，推翻最后一条阳爻。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "剥：不利有攸往。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山附于地，剥。上以厚下安宅。",
       "traits": [
         {
           "position": 1,
@@ -1284,9 +1240,7 @@
           "texte": "Il y a là encore un gros fruit qui n'a pas été mangé. L'homme noble obtient un char. La maison de l'homme vulgaire vole en éclats. La fin de l'éclatement est ici atteinte. Quand l'infortune à épuisé sa malice, des temps meilleurs reviennent. La semence du bien est encore là. Comme le fruit tombe à terre, le bien sort de nouveau de sa semence. L'homme noble retrouve influence et possibilité d'agir. Il est porté par l'opinion générale comme sur un char. Mais l'homme vulgaire est châtié par sa propre méchanceté. Sa maison vole en éclats. Il y a là une loi de la nature. Le mal n'est pas seulement corrupteur du bien, mais il se détruit finalement lui-même. Car le mal, qui ne vit que de négation, ne peut subsister de lui-même. Pour l'homme vulgaire aussi, la meilleure situation est d'être tenu sous le contrôle de l'homme noble. bon , marcher dans la vertu durable ... algiz – 09/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "剥：不利有攸往。",
-      "image": "山附于地，剥。上以厚下安宅。"
+      "tous_les_traits": null
     },
     {
       "numero": 24,
@@ -1297,11 +1251,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
-      "description": "转折点的意象源于：当阴爻将所有阳爻推出卦外后，一条阳爻从下方进入卦中。",
+      "description": "转折点的意象源于：一条阳爻从下方进入卦中。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "复：亨。出入无疾，朋来无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷在地中，复。先王以至日闭关。",
       "traits": [
         {
           "position": 1,
@@ -1340,9 +1294,7 @@
           "texte": "Retour manqué. Infortune. Malheur au-dedans et au-dehors. Si l'on fait marcher ainsi les armées, on subira finalement une grande défaite, désastreuse pour le souverain du pays. Pendant dix ans on n'est plus en mesure d'attaquer. Quand on laisse passer le temps du retour, on tombe dans le malheur. L'infortune est intérieurement causée par une fausse attitude face à l'ensemble de l'univers. L'infortune extérieure est la conséquence de cette position erronée. Ce qui est dépeint est l'endurcissement et la sentence qu'il attire. La création appartient au patrimoine de l'humanité, alors concervons le bagage essentiel qui restera avec nous dans l'Au-delà : L'Amour Inconditionnel Martin khalid Rosenberg – 01/11/2008 C'est difficile de rester immobile quand on a un ouragan à l'intérieur... lyliade – 03/12/2008 support thru changes embracing ones destiny akasha – 03/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "复：亨。出入无疾，朋来无咎。反复其道，七日来复。利有攸往。",
-      "image": "雷在地中，复。先王以至日闭关，商旅不行，后不省方。"
+      "tous_les_traits": null
     },
     {
       "numero": 25,
@@ -1353,11 +1305,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "乾（天）在上，震（动）在下。下卦震受到来自上方天的刚爻的影响。",
+      "description": "乾（天）在上，震（动）在下。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "无妄：元亨利贞。其匪正有眚。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天下雷行，物与无妄。先王以茂对时育万物。",
       "traits": [
         {
           "position": 1,
@@ -1396,9 +1348,7 @@
           "texte": "Une activité innocente apporte l'infortune. Rien n'est avantageux. Lorsqu'on est dans une situation où l'époque ne se prête plus au progrès, il importe d'attendre paisiblement et sans arrière-pensée. Si l'on agit d'une manière irréfléchie pour aller de l'avant contre le destin, on ne parviendra pas au succès. Garder son coeur et sa pureté d'esprit dans ses actions chaque choses vient en son heure MERCI!!"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "无妄：元亨利贞。其匪正有眚，不利有攸往。",
-      "image": "天下雷行，物与无妄。先王以茂对时育万物。"
+      "tous_les_traits": null
     },
     {
       "numero": 26,
@@ -1409,11 +1359,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "乾卦被艮卦（止）所制。这产生了大的力量，与小畜卦的相对弱小形成对比。",
+      "description": "乾卦被艮卦所制。这产生了大的力量。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "大畜：利贞，不家食吉，利涉大川。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天在山中，大畜。君子以多识前言往行。",
       "traits": [
         {
           "position": 2,
@@ -1446,9 +1396,7 @@
           "texte": "On parvient à la voie du ciel. Succès. Le temps de l'obstruction est passé. La force longtemps accumulée grâce aux obstacles se fraye un chemin et remporte un grand succès. C'est un sage qui est honoré du souverain et dont les maximes s'imposent et modèlent le monde."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "大畜：利贞，不家食吉，利涉大川。",
-      "image": "天在山中，大畜。君子以多识前言往行，以畜其德。"
+      "tous_les_traits": null
     },
     {
       "numero": 27,
@@ -1459,11 +1407,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
-      "description": "此卦象张开的嘴，上下是坚实的嘴唇线条，中间是开口。从嘴开始，我们摄取食物以获得营养，由此引申到营养本身。",
+      "description": "此卦象张开的嘴。由此引申到营养本身。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "颐：贞吉。观颐，自求口实。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山下有雷，颐。君子以慎言语，节饮食。",
       "traits": [
         {
           "position": 1,
@@ -1502,9 +1450,7 @@
           "texte": "La source de l'alimentation. La conscience du danger apporte la fortune. Il est avantageux de traverser les grandes eaux. On est ici en présence d'un sage de l'espèce la plus élevée, de qui émanent toutes les influences qui pourvoient à l'alimentation des autres. Une telle position crée une lourde responsabilité. S'il en demeure conscient, il obtiendra la fortune et pourra entreprendre avec confiance des œuvres grandes et difficiles comme la traversée des grandes eaux. Ces œuvres amènent un bonheur général auquel il participe avec tous les autres. Hay que abandonar el nido... Mary_of_Silence – 05/12/2008 ombres, lumières et impermanence : les boucles se bouclent et se répètent, il faut briser le cercle , sortir de la matrice et rugir comme un tigre. algiz – 04/12/2008 retour de lumière je m'abandonne à la reine blanche"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "颐：贞吉。观颐，自求口实。",
-      "image": "山下有雷，颐。君子以慎言语，节饮食。"
+      "tous_les_traits": null
     },
     {
       "numero": 28,
@@ -1517,9 +1463,9 @@
       "trigramme_bas_desc": "Le Doux, le Vent, le Bois",
       "description": "此卦内有四条阳爻，外有两条阴爻。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "大过：栋桡，利有攸往，亨。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽灭木，大过。君子以独立不惧。",
       "traits": [
         {
           "position": 1,
@@ -1558,9 +1504,7 @@
           "texte": "Il faut traverser les eaux. Elles arrivent plus haut que la tête. Infortune. Pas de blâme. La situation indiquée ici est celle où l'extraordinaire est porté à son comble. On est courageux et l'on veut à tout prix venir à bout de sa tâche. On se met ainsi en danger. On se trouve submergé par l'eau. C'est l'infortune. Toutefois abandonner la vie en voulant faire triompher ce qui est bon et bien n'entraîne pas de blâme. Il est des choses plus importantes que la vie. I recently borrowed a laptop and have been working/playing on it till very late into the night, often till 1 or 2 am. I asked if the laptop computer was in the way of my path. the answer is pretty clear here and amazingly so; with the breaking point of the beam and then the image of the mutation is that the superiorman rests and recuperates at night leaving the thunder at rest, i.e., electronics off. thansk artgirls – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "大过：栋桡，利有攸往，亨。",
-      "image": "泽灭木，大过。君子以独立不惧，遁世无闷。"
+      "tous_les_traits": null
     },
     {
       "numero": 29,
@@ -1571,11 +1515,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "此卦由坎卦重叠而成，是八个重卦之一。坎代表心灵，禁锢于身体之中的灵魂。",
+      "description": "此卦由坎卦重叠而成。坎代表心灵，禁锢于身体之中的灵魂。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "习坎：有孚，维心亨，行有尚。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "水洊至，习坎。君子以常德行，习教事。",
       "traits": [
         {
           "position": 1,
@@ -1614,9 +1558,7 @@
           "texte": "Lié avec des cordes et des câbles, enfermé entre les murs d'une prison hérissés de pointes. Pendant trois ans on ne peut trouver sa route. Infortune. Un homme qui a perdu le bon chemin dans l'extrême danger et qui est ligoté dans ses péchés n'a aucune perspective de sortir de sa situation périlleuse. Il ressemble à un criminel assis dans les chaînes derrière les murs d'une prison hérissés de pointes. love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "习坎：有孚，维心亨，行有尚。",
-      "image": "水洊至，习坎。君子以常德行，习教事。"
+      "tous_les_traits": null
     },
     {
       "numero": 30,
@@ -1627,11 +1569,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此卦为另一个重卦。离卦意为依附，也代表光明。一条阴爻附于上下两条阳爻之间。",
+      "description": "此卦为另一个重卦。离卦意为依附，也代表光明。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "离：利贞，亨。畜牝牛，吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "明两作，离。大人以继明照于四方。",
       "traits": [
         {
           "position": 1,
@@ -1670,9 +1612,7 @@
           "texte": "Le roi l'emploie pour monter la garde et pour châtier. Il vaut mieux alors tuer les chefs et faire prisonniers ceux qui les suivent. Pas de blâme. Le but du châtiment est de créer la discipline et non d'imposer des peines aveugles. Il faut guérir le mal à la racine. Dans la vie de la cité, il importe de se débarrasser des chefs des complots, mais d'épargner leurs compagnons. Dans l'œuvre du perfectionnement de soi, il importe d'extirper les mauvaises habitudes, mais de tolérer celles qui sont inoffensives. Car une ascèse trop rude, tout comme un châtiment trop brutal, ne mène à rien de bon. attirance ou répulsion?"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "离：利贞，亨。畜牝牛，吉。",
-      "image": "明两作，离。大人以继明照于四方。"
+      "tous_les_traits": null
     },
     {
       "numero": 31,
@@ -1683,11 +1623,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "此卦之名意为普遍、通用，引申为影响、激励。上卦兑为悦，下卦艮为止。",
+      "description": "此卦之名意为普遍、影响、激励。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "咸：亨，利贞，取女吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山上有泽，咸。君子以虚受人。",
       "traits": [
         {
           "position": 1,
@@ -1726,9 +1666,7 @@
           "texte": "L'influence se manifeste dans les mâchoires, les joues et la langue. La façon la plus superficielle de vouloir exercer de l'influence sur les autres est le pur bavardage derrière lequel il n'y a rien. Une telle excitation produite par les mouvements des organes de la parole demeure nécessairement insignifiante. C'est pourquoi rien n'est ajouté concernant le bonheur ou le malheur. oui merci"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "咸：亨，利贞，取女吉。",
-      "image": "山上有泽，咸。君子以虚受人。"
+      "tous_les_traits": null
     },
     {
       "numero": 32,
@@ -1739,11 +1677,11 @@
       "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "刚卦震在上，柔卦巽在下。此卦与前卦相反。前卦为感应，此卦为持久的结合。",
+      "description": "刚卦震在上，柔卦巽在下。此卦与前卦相反。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "恒：亨，无咎，利贞。利有攸往。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷风，恒。君子以立不易方。",
       "traits": [
         {
           "position": 1,
@@ -1782,9 +1720,7 @@
           "texte": "La hâte comme état durable apporte l'infortune. Il y a des êtres qui sont dans un état perpétuel de hâte sans trouver le repos à l'intérieur d'eux-mêmes. Non seulement la hâte empêche toute profondeur morale, mais elle devient bientôt un danger si elle règne à la place directrice. Endure and in enduring grow strong."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "恒：亨，无咎，利贞。利有攸往。",
-      "image": "雷风，恒。君子以立不易方。"
+      "tous_les_traits": null
     },
     {
       "numero": 33,
@@ -1795,11 +1731,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "阴暗的力量在上升。光明退避以求安全，使阴暗无法侵蚀它。",
+      "description": "阴暗的力量在上升。光明退避以求安全。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "遁：亨，小利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天下有山，遁。君子以远小人。",
       "traits": [
         {
           "position": 1,
@@ -1838,9 +1774,7 @@
           "texte": "Retraite joyeuse. Tout est avantageux. La situation est sans équivoque. Le détachement intérieur est un fait acquis. On a par suite la liberté de s'en aller. Quand on voit son chemin devant soi d'une façon si claire et si indubitable, il s'instaure dans l'âme une tranquillité joyeuse qui élit ce qui est juste sans balancer davantage. Une telle voie clairement tracée mène toujours au bien. evol sent r brazil – 01/12/2009 Un retour au calme à l'intérieur, une ferme décision morale, une fidélité à toute épreuve, un horizon qui fait plaisir à voir. Love sent too Loo – 02/11/2008 run away from running away... Julie – 05/12/2008 difficile retraite puisse-t-elle être joyeuse algiz – 03/12/2008 Our Time is Running ouT... Orsius – 02/12/2008 Oui"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "遁：亨，小利贞。",
-      "image": "天下有山，遁。君子以远小人，不恶而严。"
+      "tous_les_traits": null
     },
     {
       "numero": 34,
@@ -1851,11 +1785,11 @@
       "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "大者即阳爻，刚强有力。四条阳爻从下方进入卦中，即将继续上升。",
+      "description": "大者即阳爻，刚强有力。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "大壮：利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷在天上，大壮。君子以非礼弗履。",
       "traits": [
         {
           "position": 1,
@@ -1894,9 +1828,7 @@
           "texte": "Un bouc se heurte à une haie. Il ne peut pas reculer, il ne peut pas avancer. Rien n'est avantageux. Si l'on remarque la difficulté, cela apporte le succès. Si l'on s'aventure trop loin, on arrive à un point mort où l'on ne peut ni avancer, ni reculer et où tout ne sert qu'à embrouiller davantage les choses. Un pareil entêtement conduit à des difficultés insurmontables. Si, se rendant compte de la situation, on décide de ne pas continuer et l'on s'apaise, alors avec le temps tout ira bien. un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras. pierre – 03/11/2007 un retour en arriere, aujourd hui, 29/12/2009, trois ans plus tard... et oui s est la meme, :-) la base fondamental n a pas changer en theorie... bonne chance 2009 to 2012 je ne sais pas ce qu il arriveras."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "大壮：利贞。",
-      "image": "雷在天上，大壮。君子以非礼弗履。"
+      "tous_les_traits": null
     },
     {
       "numero": 35,
@@ -1907,11 +1839,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "此卦象征太阳升起于大地之上，代表迅速、顺利的进步，同时意味着不断扩展和明朗。",
+      "description": "此卦象征太阳升起于大地之上，代表迅速、顺利的进步。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "晋：康侯用锡马蕃庶，昼日三接。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "明出地上，晋。君子以自昭明德。",
       "traits": [
         {
           "position": 1,
@@ -1950,9 +1882,7 @@
           "texte": "Progresser avec les cornes n'est permis que pour châtier son propre domaine. La conscience du danger apporte la fortune. Pas de blâme. La persévérance apporte l'humiliation. Progresser les cornes abaissées, c'est-à-dire s'avancer de façon agressive est une attitude qu'un homme ne doit adopter dans les moments dont il est ici question qu'à l'égard des fautes des siens. On doit alors garder en mémoire qu'un danger est toujours lié à une telle démarche agressive. On évite ainsi les fautes qu'on risquerait de commettre en agissant différemment, et l'on atteint le but qu'on s'est fixé. Si par contre on persévère dans cette attitude trop énergique, notamment envers les personnes qui ne sont pas des proches, on aboutit à une humiliation. iz izinn"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "晋：康侯用锡马蕃庶，昼日三接。",
-      "image": "明出地上，晋。君子以自昭明德。"
+      "tous_les_traits": null
     },
     {
       "numero": 36,
@@ -1963,11 +1893,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此处太阳已沉入地下，因此被遮蔽。卦名字面意思是光明受伤。",
+      "description": "此处太阳已沉入地下，因此被遮蔽。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "明夷：利艰贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "明入地中，明夷。君子以莅众，用晦而明。",
       "traits": [
         {
           "position": 1,
@@ -2006,9 +1936,7 @@
           "texte": "Non la lumière mais l'obscurité. Tout d'abord il s'est élevé au ciel, puis il a plongé dans les profondeurs de la terre. L'obscurité parvient ici à son comble. La force ténébreuse était d'abord placée si haut qu'elle pouvait blesser toutes les puissances bonnes et lumineuses. A la fin pourtant elle périt par sa propre obscurité, car la chute du mal doit se produire au moment même où il a complètement vaincu le bien et, par suite, consumé la force à laquelle il devait jusque-là son existence. previous to receiving this hexagram, I was relating personal, spiritual info on another web site. I do not know what I hit on my keyboard, but all of the info disappeared. having written so much, I became \"entranced\" in my work and forgot to \"save\". poof, gone:( so upon reading this...I wonder if I said too much or perhaps what had been saved was enough. xander – 03/12/2007 I have taken this time to reflect on the response my initial post received and after several of daily consultations I confidently reiterate the position that the Oracle will guide and reveal that which is needed to understand the world around us but to pollute such a text with a transitory and inflammatory remark regarding one's personal political or social ideation's simply detracts from the ethereal magnificence of a work such as the I-Ching. Use it however you will but have enough respect for it to add text only if it serves to further understanding, not to forward an ideology. Aleph – 01/12/2007 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "明夷：利艰贞。",
-      "image": "明入地中，明夷。君子以莅众，用晦而明。"
+      "tous_les_traits": null
     },
     {
       "numero": 37,
@@ -2019,11 +1947,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此卦代表家庭中的法则。上爻代表父亲，最下爻代表儿子。第五爻代表丈夫，第二爻代表妻子。",
+      "description": "此卦代表家庭中的法则。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "家人：利女贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "风自火出，家人。君子以言有物而行有恒。",
       "traits": [
         {
           "position": 1,
@@ -2062,9 +1990,7 @@
           "texte": "Son travail commande le respect. A la fin vient la fortune. Le bon ordre de la famille repose en dernière analyse sur la personne du maître de maison. S'il cultive sa personnalité de manière que son influence s'impose par la force de sa vérité intérieure, tout va bien dans la famille. Quand on occupe un poste de direction, on doit spontanément assumer les responsabilités. love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "家人：利女贞。",
-      "image": "风自火出，家人。君子以言有物而行有恒。"
+      "tous_les_traits": null
     },
     {
       "numero": 38,
@@ -2075,11 +2001,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "此卦由上卦离（火，向上燃烧）和下卦兑（泽，向下渗透）组成。两者运动方向相反。",
+      "description": "此卦由上卦离（火）和下卦兑（泽）组成。两者运动方向相反。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "睽：小事吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "上火下泽，睽。君子以同而异。",
       "traits": [
         {
           "position": 1,
@@ -2118,9 +2044,7 @@
           "texte": "Isolé par l'opposition, on voit son compagnon comme un porc recouvert de boue, comme un char rempli de démons. D'abord on tend son arc contre lui, puis on dépose son arc. Ce n'est pas un brigand, il fera sa demande en son temps. Tandis qu'on marche, la pluie tombe et la fortune vient. L'isolement est ici causé par des malentendus; il ne provient pas des circonstances extérieures, mais des dispositions intérieures. On méconnaît son meilleur ami, on le tient pour un porc impur et souillé de boue; on le croit dangereux comme un char rempli de démons. On adopte une attitude de défense. Toutefois on finit par reconnaître son erreur, on dépose son arc et l'on se rend compte que l'autre s'avance dans les meilleures intentions pour réaliser une union étroite. Ainsi la tension tombe. L'union fait s'évanouir l'opposition, comme la pluie en tombant dissipe la chaleur étouffante qui régnait avant l'orage. Tout va bien, car c'est précisément lorsqu'elle est parvenue à son point le plus aigu que l'opposition se transforme en son contraire give thanks . n – 01/12/2009 Le plus explicite de mes tirages (1989) J'ai rencontré mon maître dans une rue étroite où j'ai failli être mordu JM – 02/11/2008 On n'attend pas pour être sage ? affirmation présomptueuse"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "睽：小事吉。",
-      "image": "上火下泽，睽。君子以同而异。"
+      "tous_les_traits": null
     },
     {
       "numero": 39,
@@ -2131,11 +2055,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "此卦象征前有深渊，后有险山，四周皆是障碍。",
+      "description": "此卦象征前有深渊，后有险山。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "蹇：利西南，不利东北。利见大人，贞吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山上有水，蹇。君子以反身修德。",
       "traits": [
         {
           "position": 1,
@@ -2174,9 +2098,7 @@
           "texte": "Aller mène à des obstacles, venir mène à une grande fortune. Il est avantageux de voir le grand homme. On montre ici quelqu'un qui a déjà laissé derrière lui le monde et son agitation. Lorsque vient pour le monde le temps de l'obstacle, il pourrait sembler que la solution la plus simple serait pour lui de laisser purement et simplement le siècle derrière lui et de se réfugier dans l'au-delà. Mais cette voie lui est barrée. Il ne peut pas être bienheureux tout seul et abandonner le monde à sa détresse. Son devoir l'appelle une fois encore dans l'agitation du siècle. A cause précisément de son expérience et de sa liberté intérieure, il est capable de réaliser quelque chose de grand et de mûr qui apporte la fortune. Et il est avantageux de voir le grand homme en compagnie duquel on pourra achever l'œuvre du salut. Et hop, un coup dans le tibia"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "蹇：利西南，不利东北。利见大人，贞吉。",
-      "image": "山上有水，蹇。君子以反身修德。"
+      "tous_les_traits": null
     },
     {
       "numero": 40,
@@ -2187,11 +2109,11 @@
       "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "此处运动离开了危险的范围。障碍已除，困难正在化解。",
+      "description": "此处运动离开了危险的范围。障碍已除。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "解：利西南，无所往，其来复吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷雨作，解。君子以赦过宥罪。",
       "traits": [
         {
           "position": 2,
@@ -2224,9 +2146,7 @@
           "texte": "Le prince tire un faucon sur un mur élevé. Il l'abat. Tout est avantageux Le faucon sur un mur élevé est l'image d'un homme vulgaire devenu puissant et occupant un poste élevé, qui fait obstacle à la délivrance. Il s'oppose à l'influence libératrice par son action intérieure, car il est endurci dans sa méchanceté. Il doit être énergiquement écarté, et cela exige l'emploi des moyens adéquats. Confucius dit à ce sujet : « Le faucon est le but de la chasse. L'arc et la flèche sont les instruments et les moyens. Le tireur est l'homme, qui doit utiliser correctement les moyens en vue d'atteindre le but. L'homme noble cache les moyens dans sa personne. Il attend le moment et ensuite il agit. Comment dès lors tout n'irait-il pas très bien ? Il agit et il est libre. C'est pourquoi il lui suffit de sortir et il abat le gibier. Il en est ainsi de l'homme qui agit après avoir mis au point les moyens. » confusius commentary on line 6: The hawk is the object of the hunt; bow and arrow are the tools and means. The marksman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means. Priya – 02/11/2008 La liberation de cet envoutement tenace ? hilda algiz – 08/12/2008 Extremadura ! - Per espera ad astra - 1.0 – 0"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "解：利西南，无所往，其来复吉。有攸往，夙吉。",
-      "image": "雷雨作，解。君子以赦过宥罪。"
+      "tous_les_traits": null
     },
     {
       "numero": 41,
@@ -2237,11 +2157,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "此卦表示下卦减损以增益上卦，因为原本刚强的第三爻移到了上方，而原本柔弱的上爻取代了它。",
+      "description": "此卦表示下卦减损以增益上卦。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "损：有孚，元吉，无咎，可贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山下有泽，损。君子以惩忿窒欲。",
       "traits": [
         {
           "position": 1,
@@ -2280,9 +2200,7 @@
           "texte": "Lorsque quelqu'un est augmenté sans diminution des autres cela est sans blâme. La persévérance apporte la fortune. Il est avantageux d'entreprendre quelque chose. On obtient des serviteurs, mais on ne possède plus de maison séparée. Il y a des hommes qui dispensent des bénédictions au monde entier. Tout accroissement de force, toute augmentation qui leur échoit tourne au bien de l'ensemble des hommes et ne signifie donc pas une diminution pour les autres. Par un travail persévérant et plein de zèle on parvient au succès et l'on trouve les concours dont on a besoin. Mais ce qu'on réalise n'est pas quelque avantage personnel et limité : c'est un bénéfice public et accessible à tous. love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "损：有孚，元吉，无咎，可贞，利有攸往。曷之用？二簋可用享。",
-      "image": "山下有泽，损。君子以惩忿窒欲。"
+      "tous_les_traits": null
     },
     {
       "numero": 42,
@@ -2293,11 +2211,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Eveilleur, le Tonnerre",
-      "description": "增益的意象表现在上卦最下面的刚爻下沉，置于下卦之下。",
+      "description": "增益的意象表现在上卦最下面的刚爻下沉。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "益：利有攸往，利涉大川。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "风雷，益。君子以见善则迁，有过则改。",
       "traits": [
         {
           "position": 1,
@@ -2336,9 +2254,7 @@
           "texte": "Il ne procure d'augmentation à personne. Quelqu'un assurément le frappe. Il ne conserve pas son cœur constamment ferme. Infortune. Le sens de la situation est que les supérieurs devraient augmenter les inférieurs en renonçant à eux-mêmes. Quand on néglige ce dévot agité dans ses paroles, celles-ci ne trouvent aucun écho chez lui et que l'on n'est utile à personne, on sort aussi de l'influence bienfaisante des autres et l'on se trouve vite isolé. On s'attire ainsi des attaques. Une disposition qui n'est pas en harmonie durable avec les exigences de l'époque apportera nécessairement l'infortune avec elle. Confucius dit à propos de ce trait : « L'homme noble met sa personne en repos avant de se mouvoir. Il se recueille dans son esprit avant de parler. Il affermit ses relations avant de demander quelque chose. Ayant mis ces trois choses en ordre, il est en parfaite sécurité. Mais si quelqu'un est brusque dans ses mouvements, les autres ne coopèrent pas avec lui. S'il demande quelque chose sans avoir auparavant noué des relations, les gens ne lui donnent pas. Si personne n'est avec lui, alors ceux qui veulent lui nuire s'approchent. ». je suis tombée sur ce tirage en de mandant si je devais retourner vers mon âme soeur pour nous unir à présent (nous nous étions séparés car je ne voulai spas d'enfant mais aujourd'hui je me sens prête à passer le pas) C'est notre unique objet de rupture...Que pouvez-vous me conseiller , je suis novice avec l'oracle! merci d'avance et bonne nuit dans"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "益：利有攸往，利涉大川。",
-      "image": "风雷，益。君子以见善则迁，有过则改。"
+      "tous_les_traits": null
     },
     {
       "numero": 43,
@@ -2349,11 +2265,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ien",
       "trigramme_bas_desc": "Le Créateur, le Ciel",
-      "description": "此卦一方面象征长期积蓄的压力之后的突破，如同涨水的河流冲破堤坝。",
+      "description": "此卦象征长期积蓄的压力之后的突破。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "夬：扬于王庭，孚号，有厉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上于天，夬。君子以施禄及下。",
       "traits": [
         {
           "position": 1,
@@ -2392,9 +2308,7 @@
           "texte": "Pas d'appel. A la fin vient l'infortune. La victoire semble être achevée. Il ne demeure plus qu'un restant de mal qui doit être résolument déraciné comme l'époque le demande. Tout semble parfaitement aisé, mais c'est précisément en cela que réside le danger. Si l'on n'est pas sur ses gardes, le mal réussit à se frayer subrepticement un passage et, dès qu'il s'est échappé, de nouveaux malheurs naissent des germes qui avaient subsisté, car le mal ne meurt pas facilement. Face au mal que contient notre propre caractère, nous devons aussi faire un travail radical. Si, par négligence, on omettait de remédier à quelque point, il sortirait de là un nouveau mal. Ces précédents messages ne me semblent guère propices à de plus sages commentaires que je souhaite. Qui est cet Orsus qui parle ? Un inconnu vulgaire qui ne connait rien à la paix de Confusius. Heraclite – 09/12/2008 Oracle du Dieu vivant, t'es un enfoiré. les signes sont inconstants. c invivable pour qui te suit. Orsus ! ou rien 1p0 0rsus – 06/12/2008 19/02/09 Cry Havoc ! Orsius – 02/12/2008 le bien est mon chemin"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "夬：扬于王庭，孚号，有厉。告自邑，不利即戎，利有攸往。",
-      "image": "泽上于天，夬。君子以施禄及下，居德则忌。"
+      "tous_les_traits": null
     },
     {
       "numero": 44,
@@ -2405,11 +2319,11 @@
       "trigramme_haut_desc": "Le Créateur",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "此卦表示阴暗的力量在被消除后，又从内部、从下方悄然意外地再次出现。",
+      "description": "此卦表示阴暗的力量悄然从内部再次出现。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "姤：女壮，勿用取女。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "天下有风，姤。后以施命诰四方。",
       "traits": [
         {
           "position": 1,
@@ -2448,9 +2362,7 @@
           "texte": "Il vient à la rencontre avec ses cornes. Humiliation. Pas de blâme. Quand un homme s'est retiré du monde, l'agitation profane lui devient souvent insupportable. Il y a souvent des hommes qui, dans un noble orgueil, se tiennent loin du vulgaire et le repoussent avec rudesse s'il vient à leur rencontre. De tels hommes sont réprimandés d'être durs et inaccessibles; toutefois comme ils ne sont plus liés par le devoir d'agir dans le monde, cela n'a pas grande importance. Ils savent supporter avec calme l'aversion de la masse. Labor comes from the word Passion (Obras). 1p0 – 03/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "姤：女壮，勿用取女。",
-      "image": "天下有风，姤。后以施命诰四方。"
+      "tous_les_traits": null
     },
     {
       "numero": 45,
@@ -2461,11 +2373,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'ouen",
       "trigramme_bas_desc": "Le Réceptif, la Terre",
-      "description": "此卦在形式和意义上与比卦（亲比）相关。比卦是水在地上，此卦是泽在地上。",
+      "description": "此卦在形式和意义上与比卦相关。此卦是泽在地上。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "萃：亨。王假有庙，利见大人，亨，利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上于地，萃。君子以除戎器，戒不虞。",
       "traits": [
         {
           "position": 1,
@@ -2504,9 +2416,7 @@
           "texte": "Lamentations et soupirs, larmes à flots. Pas de blâme. Il peut arriver que l'on veuille se joindre à quelqu'un, mais que l'on voie son intention méconnue. On est alors plein de tristesse et l'on se lamente. Mais c'est le bon chemin. Car cela peut amener l'autre à réfléchir et l'on peut parvenir encore à la réunion désirée et douloureusement manquée. felicitation a l'ecrivain really mais pour ma part je prefere la version original par ce qu'elle moins dirigiste et laisse ce fichu \"libre arbitre\" au demander aussi il a la possibilité de commettre des erreures mais de les rectifier de lui meme quand il en prend conscience cela dit faut il encore qu'on ne le me prise pas au point de le considerait uniquement comme le fils du vent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "萃：亨。王假有庙，利见大人，亨，利贞。用大牲吉，利有攸往。",
-      "image": "泽上于地，萃。君子以除戎器，戒不虞。"
+      "tous_les_traits": null
     },
     {
       "numero": 46,
@@ -2517,11 +2427,11 @@
       "trigramme_haut_desc": "Le Réceptif, la Terre",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "le Doux, le Vent",
-      "description": "下卦巽为木，上卦坤为地。由此引申出木在地中向上生长的意象。",
+      "description": "下卦巽为木，上卦坤为地。木在地中向上生长。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "升：元亨，用见大人，勿恤，南征吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "地中生木，升。君子以顺德，积小以高大。",
       "traits": [
         {
           "position": 1,
@@ -2560,9 +2470,7 @@
           "texte": "Pousser vers le haut dans le noir. Il y a avantage à persévérer sans relâche. Celui qui pousse vers le haut en aveugle est intérieurement égaré. Il connaît seulement la progression, non la retraite. Mais de cette manière on s'épuise. Il est important dans de tels cas de se rappeler que l'on doit demeurer consciencieux et conséquent avec soi-même. Ce n'est qu'ainsi que l'on se préservera de la poussée aveugle qui est toujours mauvaise. That what he goes there for, is to unlock the door. While those around him criticize and sleep... And through a fractal on a breaking wall, I see you my friend, and touch your face again. Miracles will happen as we trip. But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy But we're never gonna survive, unless... We get a little crazy ^^ Orsius – 02/12/2008 silence"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "升：元亨，用见大人，勿恤，南征吉。",
-      "image": "地中生木，升。君子以顺德，积小以高大。"
+      "tous_les_traits": null
     },
     {
       "numero": 47,
@@ -2573,11 +2481,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "泽在上，水在下；泽已枯竭。困顿还以另一种方式表达：上方阴爻压制两条阳爻，下方阳爻被夹在两条阴爻之间。",
+      "description": "泽在上，水在下；泽已枯竭。困顿之象。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "困：亨，贞，大人吉，无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽无水，困。君子以致命遂志。",
       "traits": [
         {
           "position": 1,
@@ -2616,9 +2524,7 @@
           "texte": "Il est accablé par des sarments. Il se meut incertain et dit : « Le mouvement produit le remords ». Si l'on éprouve du remords à ce sujet et que l'on se mette en route on obtient une heureuse fortune. On est accablé par des liens qui se laissent rompre facilement. L'accablement touche à sa fin. Pourtant on est encore irrésolu : on demeure influencé par la situation antérieure et l'on pense qu'on aura à se repentir si l'on se meut. Mais dès qu'on a une vue claire des choses, que l'on se défait de cette attitude intérieure et que l'on embrasse une ferme résolution, on parvient à dominer l'accablement. gfhji"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "困：亨，贞，大人吉，无咎，有言不信。",
-      "image": "泽无水，困。君子以致命遂志。"
+      "tous_les_traits": null
     },
     {
       "numero": 48,
@@ -2629,11 +2535,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "木在下，水在上。木入地下以汲水。此象源于古代中国的辘轳井。",
+      "description": "木在下，水在上。木入地下以汲水。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "井：改邑不改井，无丧无得，往来井井。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "木上有水，井。君子以劳民劝相。",
       "traits": [
         {
           "position": 1,
@@ -2672,9 +2578,7 @@
           "texte": "On tire de l'eau du puits sans obstacle. Il est sûr. Sublime fortune. Le puits est là pour tout le monde. Aucune défense ne vient gêner ceux qui veulent y puiser. Si nombreux soient-ils à venir, ils trouvent ce dont ils ont besoin, car on peut compter sur le puits. Il possède une source et n'est jamais à sec; c'est pourquoi il constitue une grande fortune pour le pays tout entier. Il en est de même de l'homme véritablement grand qui possède un trésor inépuisable d'excellence intérieure. Plus on y puise, plus son trésor s'accroît. de la réfection du puit à la puissance du grand, un pas , un renouveau algiz – 06/12/2008 Je m'épuise à vouloir boire de ton eau... lyliade – 04/12/2008 dommage que l'eau soit brouillé, les gens ont trop soif abandonne le puit inutilement ... felip69 – 04/12/2008 J'attendrai que ton eau redevienne claire... algiz – 01/12/2008 silence"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "井：改邑不改井，无丧无得，往来井井。汔至，亦未繘井，羸其瓶，凶。",
-      "image": "木上有水，井。君子以劳民劝相。"
+      "tous_les_traits": null
     },
     {
       "numero": 49,
@@ -2685,11 +2589,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此卦的汉字本义是动物的皮毛，在一年中通过换毛而改变。由此引申为政府的变革。",
+      "description": "此卦的汉字本义是动物的皮毛，通过换毛而改变。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "革：己日乃孚，元亨利贞，悔亡。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽中有火，革。君子以治历明时。",
       "traits": [
         {
           "position": 1,
@@ -2728,9 +2632,7 @@
           "texte": "L'homme noble change comme une panthère. L'homme vulgaire mue de visage. Le départ apporte l'infortune. Demeurer persévérant apporte la fortune. Après que les grandes questions fondamentales ont été réglées, il reste encore à mener à bien des réformes de détail et des achèvements mineurs. Ceux-ci peuvent être comparés aux taches d'une peau de panthère, également visibles mais plus petites. Par suite, un changement se produit également chez les hommes vulgaires. Ils muent eux aussi conformément au changement général. Cette mue, il est vrai, n'est pas très profonde, mais il ne fallait pas en attendre davantage. On doit se contenter du possible. Si l'on voulait aller trop loin et atteindre trop de choses, on tomberait dans l'inquiétude et l'infortune. Car ce vers quoi l'on doit tendre dans une grande révolution, ce sont des conditions claires et précises qui assurent une sécurité générale dans la limite des possibilités de l'époque. Une suggestion pour les personnes qui écrivent dans les commentaires : plutôt que d'écrire des choses incompréhensibles vous pourriez plutôt, par exemple : 1) ajouter un texte ou un proverbe qui illustre bien l'hexagramme ou qui va dans le même sens. 2) Enoncer la question que vous avez posée à l'oracle et comment vous avez reçu la réponse. 3) Ajouter un commentaire explicatif qui complète la réponse : une histoire vécue qui illustre la portée de l'hexagramme. A vous. Merci. Tao-In – 01/12/2009 Une suggestion pour les personnes qui écrivent dans les "
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "革：己日乃孚，元亨利贞，悔亡。",
-      "image": "泽中有火，革。君子以治历明时。"
+      "tous_les_traits": null
     },
     {
       "numero": 50,
@@ -2741,11 +2643,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "六爻构成鼎的形象：下面是足，其上是腹，然后是耳（把手），顶上是举环。",
+      "description": "六爻构成鼎的形象：下面是足，其上是腹。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "鼎：元吉，亨。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "木上有火，鼎。君子以正位凝命。",
       "traits": [
         {
           "position": 1,
@@ -2784,9 +2686,7 @@
           "texte": "Le chaudron a des anneaux de jade. Rien qui ne soit avantageux. Au trait précédent les anneaux sont d'or, ce qui indique leur solidité. Ici ils sont de jade. Le jade se distingue en ce qu'il joint la dureté à un doux éclat. Ce conseil, considéré par rapport à l'homme qui lui est accessible, exerce sur lui un effet très profitable. Il est ici présenté par rapport au sage qui le donne : un tel homme, lorsqu'il conseille, est doux et pur comme du jade précieux. De cette manière l'œuvre trouve grâce aux yeux de la divinité qui accorde une grande fortune, et elle est agréable aux yeux des hommes; c'est pourquoi tout va bien. \"Par là est désigné quelqu'un qui, à une époque de haute civilisation, se trouve à un poste où personne ne le reconnaît et ne prête attention à lui. C'est pour son action un obstacle considérable. Toutes ses bonnes qualités et tous les dons de son esprit sont ainsi dépensés en pure perte\" tu crois que c'est de toi qu'il s'agit? nino – 02/12/2008 et tombe la pluie nina – 02/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "鼎：元吉，亨。",
-      "image": "木上有火，鼎。君子以正位凝命。"
+      "tous_les_traits": null
     },
     {
       "numero": 51,
@@ -2797,11 +2697,11 @@
       "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Tchen",
       "trigramme_bas_desc": "L'Éveilleur, le Tonnerre",
-      "description": "震卦代表长子，以力量和权威掌权。一条阳爻在两条阴爻之下生发，强力向上推进。",
+      "description": "震卦代表长子，以力量和权威掌权。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "震：亨。震来虩虩，笑言哑哑。震惊百里。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "洊雷，震。君子以恐惧修省。",
       "traits": [
         {
           "position": 1,
@@ -2840,9 +2740,7 @@
           "texte": "L'ébranlement apporte la ruine et les regards anxieux que l'on jette tout autour. Aller de l'avant apporte l'infortune. Si cela n'a pas encore atteint notre corps, mais a commencé par toucher notre voisin, il n'y a pas de blâme. Les compagnons en ont à raconter. Lorsque l'ébranlement intérieur a atteint son plus haut point d'intensité il prive un homme de sa faculté de réflexion et de sa clarté de regard. Dans une telle commotion il n'est naturellement pas possible d'agir de façon considérée. L'attitude juste est alors de se tenir en repos jusqu'à ce qu'on ait retrouvé le calme et la clarté. On ne peut cependant y parvenir que si l'on ne s'est pas encore laissé gagner par l'excitation dont il est déjà possible d'observer les effets fâcheux au sein de l'entourage. Si l'on se retire à temps de l'action, on demeure exempt de fautes et de dommages. Mais on peut être sûr que les compagnons qui, pris dans ce tourbillon, n'admettent plus désormais les avertissements, ne seront pas satisfaits d'une pareille conduite. On se bornera à ne faire aucun cas d'une telle attitude. renoncement sublime algiz – 03/11/2008 au revoir c'etait fort instructif"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "震：亨。震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
-      "image": "洊雷，震。君子以恐惧修省。"
+      "tous_les_traits": null
     },
     {
       "numero": 52,
@@ -2853,11 +2751,11 @@
       "trigramme_haut_desc": "L'Immobilisation, la Montagne",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "此卦之象为山，是天地的少子。阳性在上，因其本性向上；阴性在下，因其运动方向向下。",
+      "description": "此卦之象为山，是天地的少子。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "艮：艮其背，不获其身，行其庭，不见其人，无咎。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "兼山，艮。君子以思不出其位。",
       "traits": [
         {
           "position": 2,
@@ -2890,9 +2788,7 @@
           "texte": "Immobilisation magnanime. Fortune. Ici est exprimé l'achèvement de l'effort vers le calme. Non seulement on est en paix en ce qui concerne les détails, les choses comprises dans un cercle restreint, mais un renoncement général procure la paix dans tous les domaines et une heureuse fortune dans tous les actes. 6 mois de pratique de Natha-Yoga... nataraja – 07/12/2008 Wait and see..."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "艮：艮其背，不获其身，行其庭，不见其人，无咎。",
-      "image": "兼山，艮。君子以思不出其位。"
+      "tous_les_traits": null
     },
     {
       "numero": 53,
@@ -2903,11 +2799,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "此卦由巽（木，渗透）在上即外，艮（山，静止）在下即内组成。山上的树按其本性法则缓慢生长。",
+      "description": "山上的树按其本性法则缓慢生长。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "渐：女归吉，利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山上有木，渐。君子以居贤德善俗。",
       "traits": [
         {
           "position": 1,
@@ -2946,9 +2842,7 @@
           "texte": "L'oie sauvage se dirige progressivement vers les hauteurs nuageuses. Ses plumes peuvent être utilisées pour la danse sacrée. Fortune. La vie parvient ici à son terme. Lœuvre est là, achevée. Le chemin s'élève haut dans le ciel, comme le vol des oies sauvages lorsqu'elles ont laissé le sol loin derrière elles. Là elles poursuivent leur vol, conservant l'ordre de leur troupe et offrant la figure de lignes serrées. Et si leurs plumes viennent, à tomber, elles peuvent être utilisées comme ornement dans les ballets sacrés. Ainsi la vie d'un homme parvenu à la perfection est une claire lumière pour les êtres terrestres qui lèvent les yeux vers lui comme vers un modèle. in love with hilda ? algiz – 06/12/2008 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "渐：女归吉，利贞。",
-      "image": "山上有木，渐。君子以居贤德善俗。"
+      "tous_les_traits": null
     },
     {
       "numero": 54,
@@ -2959,11 +2853,11 @@
       "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "上卦震为长男，下卦兑为少女。男子引领，女子欣然跟随。",
+      "description": "上卦震为长男，下卦兑为少女。男子引领，女子跟随。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "归妹：征凶，无攸利。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上有雷，归妹。君子以永终知敝。",
       "traits": [
         {
           "position": 1,
@@ -3002,9 +2896,7 @@
           "texte": "La femme tient la corbeille, mais il n'y a pas de fruits dedans. L'homme perce la brebis, mais il ne coule pas de sang. Rien qui soit avantageux. Lors des sacrifices aux ancêtres, la femme devait présenter les fruits dans une corbeille et l'homme immoler lui-même la victime. Ici les formes ne sont respectées que superficiellement. La femme prend un corbeille vide et l'homme perce une brebis déjà abattue, simplement pour sauvegarder les apparences. Mais cette attitude impie, frivole ne fait guère présager de bonheur pour les époux. ha bon robert – 09/12/2007 choglamsar bodhicitta"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "归妹：征凶，无攸利。",
-      "image": "泽上有雷，归妹。君子以永终知敝。"
+      "tous_les_traits": null
     },
     {
       "numero": 55,
@@ -3015,11 +2907,11 @@
       "trigramme_haut_desc": "L'Éveilleur, le Tonnerre",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce-qui-s'attache, la Flamme",
-      "description": "震为动，离为火，其性光明。内明外动，产生伟大与丰盛。",
+      "description": "震为动，离为火，其性光明。内明外动，产生丰盛。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "丰：亨，王假之，勿忧，宜日中。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "雷电皆至，丰。君子以折狱致刑。",
       "traits": [
         {
           "position": 1,
@@ -3058,9 +2950,7 @@
           "texte": "Sa maison est dans l'abondance. Il cache sa famille. Il guette à travers la porte et ne remarque plus personne. Pendant trois ans il ne voit rien. Infortune. On montre ici un homme qui, par son arrogance et son entêtement, parvient à l'opposé du but de ses efforts. Il recherche l'abondance et le luxe pour sa maison. Il veut être le maître absolu chez lui. Mais il s'aliène ainsi sa famille, si bien que finalement il se trouve entièrement isolé i'm fullfill with the prediction of my inner self to become real. yoko – 09/12/2008 this is the very moment, I am getting this information from the universe, I am feeling the power and gain the power. I Ching is the guard.all will be good. yalin"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "丰：亨，王假之，勿忧，宜日中。",
-      "image": "雷电皆至，丰。君子以折狱致刑。"
+      "tous_les_traits": null
     },
     {
       "numero": 56,
@@ -3071,11 +2961,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "艮为山，静止不动；其上离为火，向上燃烧而不停留。因此两卦不能相守。",
+      "description": "艮为山，静止不动；其上离为火，向上燃烧而不停留。两卦不能相守。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "旅：小亨，旅贞吉。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山上有火，旅。君子以明慎用刑而不留狱。",
       "traits": [
         {
           "position": 1,
@@ -3114,9 +3004,7 @@
           "texte": "Le nid de l'oiseau brûle. D'abord le voyageur rit, puis il doit se lamenter et gémir. Il perd étourdiment la vache. Infortune. L'image de l'oiseau dont le nid brûle désigne la perte du lieu de repos. Si l'oiseau a été étourdi et imprévoyant en construisant son nid, un tel malheur peut le frapper. Il en est de même du voyageur. S'il se laisse aller à plaisanter et à rire en oubliant qu'il est un voyageur, il aura plus tard à gémir et à se lamenter. Car si l'on perd étourdiment sa vache, c'est-à-dire sa faculté d'adaptation, les résultats seront mauvais. I'll keep trying!"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "旅：小亨，旅贞吉。",
-      "image": "山上有火，旅。君子以明慎用刑而不留狱。"
+      "tous_les_traits": null
     },
     {
       "numero": 57,
@@ -3127,11 +3015,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Souen",
       "trigramme_bas_desc": "Le Doux, le Vent",
-      "description": "巽是八个重卦之一。它是长女，象征风或木；其特性是柔顺，却能像风或树根一样渗透。",
+      "description": "巽是八个重卦之一。它是长女，象征风或木。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "巽：小亨，利有攸往，利见大人。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "随风，巽。君子以申命行事。",
       "traits": [
         {
           "position": 1,
@@ -3170,9 +3058,7 @@
           "texte": "Pénétration sous le lit. Il perd ses biens et sa hache. La persévérance apporte l'infortune. La connaissance est suffisamment pénétrante. On poursuit les influences mauvaises jusque dans les recoins les plus secrets, mais on n'a plus la force de les combattre de façon décisive. Dans ce cas, toute tentative pour pénétrer dans ce domaine propre de l'obscurité n'a que des conséquences fâcheuses. oioioioi"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "巽：小亨，利有攸往，利见大人。",
-      "image": "随风，巽。君子以申命行事。"
+      "tous_les_traits": null
     },
     {
       "numero": 58,
@@ -3183,11 +3069,11 @@
       "trigramme_haut_desc": "Le Joyeux, le Lac",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "此卦与巽卦一样，是八个重卦之一。兑代表少女，以微笑的湖泊为象，其特性是喜悦。",
+      "description": "兑代表少女，以微笑的湖泊为象，其特性是喜悦。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "兑：亨，利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "丽泽，兑。君子以朋友讲习。",
       "traits": [
         {
           "position": 1,
@@ -3226,9 +3112,7 @@
           "texte": "Gaîté séductrice. Un homme intérieurement vain attire à lui les plaisirs du divertissement et, au milieu d'eux, doit connaître la souffrance (voir six à la 3e place). Si l'on n'est pas affermi intérieurement, les plaisirs extérieurs auxquels on ne s'est pas soustrait exercent une action si violente qu'on se laisse emporter par eux. Il n'est plus ici question de danger, de fortune ou d'infortune. On a laissé échapper le gouvernail de sa propre vie et ce qu'il adviendra de nous dépend désormais du hasard et des influences extérieures. ..."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "兑：亨，利贞。",
-      "image": "丽泽，兑。君子以朋友讲习。"
+      "tous_les_traits": null
     },
     {
       "numero": 59,
@@ -3239,11 +3123,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "风吹水面，使之散开，化为泡沫和水雾。这暗示当人的生命能量被堵塞时，柔顺可以化解阻滞。",
+      "description": "风吹水面，使之散开，化为泡沫和水雾。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "涣：亨。王假有庙，利涉大川，利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "风行水上，涣。先王以享于帝立庙。",
       "traits": [
         {
           "position": 1,
@@ -3282,9 +3166,7 @@
           "texte": "Il dissout son sang. S'en aller, se tenir à distance, sortir demeurent sans blâme. Dissoudre le sang signifie dissoudre ce qui pouvait amener le sang et les blessures, c'est-à-dire éviter le danger. Toutefois la pensée exprimée ici n'est pas que l'on évite les difficultés pour soi-même, mais que l'on délivre les êtres chers en les aidant à partir avant que le danger soit là, à se tenir à distance d'un danger déjà présent et à sortir d'un danger qui les a déjà assaillis. De cette manière on agit correctement. Se dissoudre pour s'augmenter... Comme les bergers du ciel en dispersent les moutons de pluie pour mieux rendre lumière aux moutons de la Terre... Avrel – 02/11/2008 Je n'ai fat que pleurer les dernieres mois a cause de la prise de conscience sur la dimention des douleurs que l'on cause a la terre. Je me demande si je vais trouver le courage d'acheter un billet d'avion por partir en Copenhage a la recherche de Hopenhagen ...et puis car je ne connais pas, il m'ont sugeré du faire du sac a dos vers cristiana, pour trouver si mon ami Amador qui avait eu un rêvé hier soir dont je trouvais l'amour de ma vie ...a Copenhage....Puis je dorme car il est tard maintenat et j'ai des rêves a dilucider. Camaleon sans Chaussettes – 02/11/2008 Dagnelle j ai arreté de fumer, un an plus tard avec le fric économisé je suis partit en Chine. J y vis et travaille encore. Fennec – 02/11/2008 me voila prete à en finir.. et que dois je penser ? qui est ce tigre sur la queue duquel je dois marcher"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "涣：亨。王假有庙，利涉大川，利贞。",
-      "image": "风行水上，涣。先王以享于帝立庙。"
+      "tous_les_traits": null
     },
     {
       "numero": 60,
@@ -3295,11 +3177,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "湖泊占据有限的空间。水多则溢，故须设限。此象显示上下皆水，天地为限。",
+      "description": "湖泊占据有限的空间。水多则溢。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "节：亨。苦节不可贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上有水，节。君子以制数度，议德行。",
       "traits": [
         {
           "position": 1,
@@ -3338,9 +3220,7 @@
           "texte": "Limitation amère : la persévérance apporte l'infortune. Le remords disparaît. Quand on s'impose des limites trop sévères, les hommes ne les supportent pas. Plus on applique cette sévérité avec logique, plus cela est mauvais, car, à la longue, une réaction est inévitable. Ainsi également le corps torturé s'insurge lorsqu'on suit la voie d'un ascétisme trop sévère. Mais, bien que cette sévérité impitoyable ne soit pas à utiliser durablement et de façon normale, il peut y avoir des moments où elle constitue l'unique moyen de se préserver de la faute et du remords. Ce sont les situations où l'absence de pitié à l'égard de soi-même est le seul moyen de sauver son âme qui, sans cela, tomberait dans l'indécision et la tentation. good"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "节：亨。苦节不可贞。",
-      "image": "泽上有水，节。君子以制数度，议德行。"
+      "tous_les_traits": null
     },
     {
       "numero": 61,
@@ -3351,11 +3231,11 @@
       "trigramme_haut_desc": "Le Doux, le Vent",
       "trigramme_bas": "Touei",
       "trigramme_bas_desc": "Le Joyeux, le Lac",
-      "description": "风吹湖面，激起涟漪。无形之力产生有形之效。此卦上下皆阳爻，中间空虚。",
+      "description": "风吹湖面，激起涟漪。无形之力产生有形之效。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "中孚：豚鱼吉，利涉大川，利贞。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "泽上有风，中孚。君子以议狱缓死。",
       "traits": [
         {
           "position": 1,
@@ -3394,9 +3274,7 @@
           "texte": "Le chant du coq pénétrant jusqu'au ciel. La persévérance apporte l'infortune. Le remords disparaît. On peut se fier au coq. Il chante quand vient le matin. Toutefois il ne peut pas voler lui-même au ciel. Il se contente de lancer son cri. Ainsi on peut susciter la foi par de simples paroles. Cela réussit à l'occasion. Mais si l'on persiste dans cette manière de faire, les conséquences sont fâcheuses. Prétendre à la filiation familiale d'un Lê n'est pas un destin réservé à tous les mortels. Un abus d'une telle mansuétude n'est donc pas à redouter. Lê Van an ninh 27/07/08 an ninh – 08/12/2007 On peut entreprendre même les affaires les plus dangereuses, telles que la traversée de grandes eaux, et ces actions seront couronnées de succès... Dom – 01/12/2007 la reponse au doute... moi – 09/12/2006 love sent"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "中孚：豚鱼吉，利涉大川，利贞。",
-      "image": "泽上有风，中孚。君子以议狱缓死。"
+      "tous_les_traits": null
     },
     {
       "numero": 62,
@@ -3407,11 +3285,11 @@
       "trigramme_haut_desc": "L'Ébranlement, le Tonnerre",
       "trigramme_bas": "Ken",
       "trigramme_bas_desc": "L'Immobilisation, la Montagne",
-      "description": "大过卦两端过重而中间轻，此卦则中间过强而两端轻。",
+      "description": "此卦中间过强而两端轻。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "小过：亨，利贞，可小事，不可大事。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "山上有雷，小过。君子以行过乎恭。",
       "traits": [
         {
           "position": 2,
@@ -3444,9 +3322,7 @@
           "texte": "Il le dépasse sans le rencontrer. L'oiseau qui vole le quitte. Infortune. Cela signifie malheur et dommage. Si l'on tire au-dessus du but, on ne peut pas l'atteindre. Si l'oiseau ne veut pas gagner son nid, mais vole toujours plus haut, il tombe finalement dans le filet du chasseur. Celui qui, aux époques exceptionnelles où prédomine ce qui est petit, ne sait pas se contenir, mais, agité, veut toujours aller plus loin, celui-là s'attire le malheur de la part des dieux et des hommes, car il s'éloigne de l'ordre naturel. Ben Laden est-il mort?"
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "小过：亨，利贞，可小事，不可大事。飞鸟遗之音，不宜上宜下，大吉。",
-      "image": "山上有雷，小过。君子以行过乎恭，丧过乎哀，用过乎俭。"
+      "tous_les_traits": null
     },
     {
       "numero": 63,
@@ -3457,11 +3333,11 @@
       "trigramme_haut_desc": "L'Insondable, l'Eau",
       "trigramme_bas": "Li",
       "trigramme_bas_desc": "Ce qui s'attache, le Feu",
-      "description": "此卦是泰卦的演变。从混乱到秩序的转变已经完成，万事万物都各得其所。",
+      "description": "此卦是泰卦的演变。从混乱到秩序的转变已经完成。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "既济：亨小，利贞。初吉终乱。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "水在火上，既济。君子以思患而豫防之。",
       "traits": [
         {
           "position": 1,
@@ -3500,9 +3376,7 @@
           "texte": "Il met la tête dans l'eau. Danger. En manière de conclusion, un avis est encore ajouté ici : après avoir traversé un cours d'eau, on ne peut mettre la tête dans l'eau que si l'on y retourne imprudemment. Tant que l'on va droit devant soi et que l'on ne regarde pas en arrière, on échappe à ce danger. Mais il y a quelque chose de fascinant à demeurer immobile et à regarder en arrière vers le danger que l'on a surmonté. Une admiration de soi aussi frivole n'amène rien d'heureux. On se met ainsi en danger et, si l'on ne se décide pas finalement à aller de l'avant sans s'arrêter, on devient victime de ce danger. \"L'Image L'eau est au-dessus du feu : Image de la ... Si l'eau déborde, le feu s'éteint et sou énergie est perdue\" contains a typo. Should be \"...et son énergie...\". Bye repié – 01/12/2009 'Nine at the beginning means: He breaks his wheels. ' contains a typo. Should be 'brakes his wheels'.. this can be seen in the Chinese. If one doubts this one can check a print version of Wilhelm/Baynes."
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "既济：亨小，利贞。初吉终乱。",
-      "image": "水在火上，既济。君子以思患而豫防之。"
+      "tous_les_traits": null
     },
     {
       "numero": 64,
@@ -3513,11 +3387,11 @@
       "trigramme_haut_desc": "Ce qui s'attache, le Feu",
       "trigramme_bas": "K'an",
       "trigramme_bas_desc": "L'Insondable, l'Eau",
-      "description": "此卦表示从混乱到秩序的转变尚未完成。变化已在准备中，因为上卦的所有爻都与下卦相应。",
+      "description": "此卦表示从混乱到秩序的转变尚未完成。",
       "jugement_titre": "",
-      "jugement_texte": "",
+      "jugement_texte": "未济：亨。小狐汔济，濡其尾，无攸利。",
       "image_titre": "",
-      "image_texte": "",
+      "image_texte": "火在水上，未济。君子以慎辨物居方。",
       "traits": [
         {
           "position": 1,
@@ -3556,9 +3430,7 @@
           "texte": "En pleine confiance on boit du vin. Pas de blâme. Mais si l'on se mouille la tête, on la perd, en vérité. Avant l'accomplissement, au seuil des temps nouveaux, l'homme se trouve réuni en pleine confiance mutuelle avec les siens et passe en buvant joyeusement le temps de l'attente. Comme l'ère nouvelle est à la porte, il n'y a pas là de sujet de blâme. On doit seulement veiller à garder la juste mesure. Mais si l'on se laisse aller à l'ivresse, on perd par sa démesure ce que la situation avait de favorable. les \"gentilles ombres\""
         }
       ],
-      "tous_les_traits": null,
-      "jugement": "未济：亨。小狐汔济，濡其尾，无攸利。",
-      "image": "火在水上，未济。君子以慎辨物居方。"
+      "tous_les_traits": null
     }
   ]
 }
